@@ -1,0 +1,7866 @@
+[
+    {
+        "LightSensor":246,
+        "cpuTemp":58.533,
+        "date":"2020-07-20 21:20:33.330514",
+        "Temperature":82.4,
+        "Humidity":95.0,
+        "SoundLevel":165
+    },
+    {
+        "LightSensor":255,
+        "cpuTemp":56.92,
+        "date":"2020-07-20 21:30:34.075664",
+        "Temperature":84.2,
+        "Humidity":95.0,
+        "SoundLevel":165
+    },
+    {
+        "LightSensor":254,
+        "cpuTemp":56.382,
+        "date":"2020-07-20 21:40:34.829878",
+        "Temperature":84.2,
+        "Humidity":95.0,
+        "SoundLevel":166
+    },
+    {
+        "LightSensor":253,
+        "cpuTemp":56.382,
+        "date":"2020-07-20 21:50:35.642168",
+        "Temperature":84.2,
+        "Humidity":95.0,
+        "SoundLevel":166
+    },
+    {
+        "LightSensor":252,
+        "cpuTemp":56.92,
+        "date":"2020-07-20 22:00:36.410666",
+        "Temperature":84.2,
+        "Humidity":95.0,
+        "SoundLevel":168
+    },
+    {
+        "LightSensor":255,
+        "cpuTemp":56.92,
+        "date":"2020-07-20 22:10:37.192503",
+        "Temperature":84.2,
+        "Humidity":95.0,
+        "SoundLevel":167
+    },
+    {
+        "LightSensor":255,
+        "cpuTemp":56.92,
+        "date":"2020-07-20 22:20:38.359776",
+        "Temperature":84.2,
+        "Humidity":95.0,
+        "SoundLevel":167
+    },
+    {
+        "LightSensor":256,
+        "cpuTemp":56.382,
+        "date":"2020-07-20 22:30:39.742905",
+        "Temperature":84.2,
+        "Humidity":95.0,
+        "SoundLevel":167
+    },
+    {
+        "LightSensor":258,
+        "cpuTemp":56.382,
+        "date":"2020-07-20 22:40:40.752521",
+        "Temperature":84.2,
+        "Humidity":95.0,
+        "SoundLevel":167
+    },
+    {
+        "LightSensor":253,
+        "cpuTemp":56.382,
+        "date":"2020-07-20 22:50:41.772309",
+        "Temperature":82.4,
+        "Humidity":95.0,
+        "SoundLevel":169
+    },
+    {
+        "LightSensor":251,
+        "cpuTemp":55.843,
+        "date":"2020-07-20 23:00:42.599382",
+        "Temperature":82.4,
+        "Humidity":95.0,
+        "SoundLevel":168
+    },
+    {
+        "LightSensor":258,
+        "cpuTemp":55.843,
+        "date":"2020-07-20 23:10:43.416528",
+        "Temperature":82.4,
+        "Humidity":95.0,
+        "SoundLevel":169
+    },
+    {
+        "LightSensor":253,
+        "cpuTemp":55.843,
+        "date":"2020-07-20 23:20:44.192539",
+        "Temperature":82.4,
+        "Humidity":95.0,
+        "SoundLevel":170
+    },
+    {
+        "LightSensor":260,
+        "cpuTemp":56.382,
+        "date":"2020-07-20 23:30:44.961485",
+        "Temperature":82.4,
+        "Humidity":95.0,
+        "SoundLevel":170
+    },
+    {
+        "LightSensor":261,
+        "cpuTemp":55.843,
+        "date":"2020-07-20 23:40:50.743358",
+        "Temperature":82.4,
+        "Humidity":95.0,
+        "SoundLevel":170
+    },
+    {
+        "LightSensor":259,
+        "cpuTemp":56.382,
+        "date":"2020-07-20 23:50:51.427662",
+        "Temperature":82.4,
+        "Humidity":95.0,
+        "SoundLevel":171
+    },
+    {
+        "LightSensor":256,
+        "cpuTemp":55.843,
+        "date":"2020-07-21 00:00:52.242028",
+        "Temperature":82.4,
+        "Humidity":95.0,
+        "SoundLevel":171
+    },
+    {
+        "LightSensor":255,
+        "cpuTemp":55.306,
+        "date":"2020-07-21 00:10:53.018902",
+        "Temperature":82.4,
+        "Humidity":95.0,
+        "SoundLevel":170
+    },
+    {
+        "LightSensor":261,
+        "cpuTemp":55.843,
+        "date":"2020-07-21 00:20:53.788177",
+        "Temperature":82.4,
+        "Humidity":95.0,
+        "SoundLevel":171
+    },
+    {
+        "LightSensor":255,
+        "cpuTemp":55.843,
+        "date":"2020-07-21 00:30:54.505528",
+        "Temperature":82.4,
+        "Humidity":95.0,
+        "SoundLevel":171
+    },
+    {
+        "LightSensor":255,
+        "cpuTemp":55.843,
+        "date":"2020-07-21 00:40:55.755756",
+        "Temperature":82.4,
+        "Humidity":95.0,
+        "SoundLevel":171
+    },
+    {
+        "LightSensor":263,
+        "cpuTemp":55.843,
+        "date":"2020-07-21 00:50:56.500425",
+        "Temperature":82.4,
+        "Humidity":95.0,
+        "SoundLevel":173
+    },
+    {
+        "LightSensor":262,
+        "cpuTemp":55.843,
+        "date":"2020-07-21 01:00:57.246612",
+        "Temperature":82.4,
+        "Humidity":95.0,
+        "SoundLevel":170
+    },
+    {
+        "LightSensor":255,
+        "cpuTemp":55.843,
+        "date":"2020-07-21 01:10:58.062219",
+        "Temperature":82.4,
+        "Humidity":95.0,
+        "SoundLevel":172
+    },
+    {
+        "LightSensor":266,
+        "cpuTemp":55.843,
+        "date":"2020-07-21 01:20:58.839766",
+        "Temperature":82.4,
+        "Humidity":95.0,
+        "SoundLevel":173
+    },
+    {
+        "LightSensor":260,
+        "cpuTemp":55.306,
+        "date":"2020-07-21 01:30:59.606946",
+        "Temperature":82.4,
+        "Humidity":95.0,
+        "SoundLevel":172
+    },
+    {
+        "LightSensor":257,
+        "cpuTemp":55.843,
+        "date":"2020-07-21 01:41:00.327457",
+        "Temperature":82.4,
+        "Humidity":95.0,
+        "SoundLevel":171
+    },
+    {
+        "LightSensor":263,
+        "cpuTemp":55.306,
+        "date":"2020-07-21 01:51:01.107205",
+        "Temperature":82.4,
+        "Humidity":95.0,
+        "SoundLevel":171
+    },
+    {
+        "LightSensor":265,
+        "cpuTemp":55.843,
+        "date":"2020-07-21 02:01:01.832012",
+        "Temperature":82.4,
+        "Humidity":95.0,
+        "SoundLevel":172
+    },
+    {
+        "LightSensor":259,
+        "cpuTemp":55.306,
+        "date":"2020-07-21 02:11:02.596652",
+        "Temperature":82.4,
+        "Humidity":95.0,
+        "SoundLevel":171
+    },
+    {
+        "LightSensor":273,
+        "cpuTemp":54.768,
+        "date":"2020-07-21 02:21:03.291341",
+        "Temperature":82.4,
+        "Humidity":95.0,
+        "SoundLevel":172
+    },
+    {
+        "LightSensor":269,
+        "cpuTemp":54.768,
+        "date":"2020-07-21 02:31:04.044355",
+        "Temperature":80.6,
+        "Humidity":95.0,
+        "SoundLevel":169
+    },
+    {
+        "LightSensor":266,
+        "cpuTemp":54.768,
+        "date":"2020-07-21 02:41:04.818756",
+        "Temperature":80.6,
+        "Humidity":95.0,
+        "SoundLevel":172
+    },
+    {
+        "LightSensor":269,
+        "cpuTemp":54.768,
+        "date":"2020-07-21 02:51:05.537187",
+        "Temperature":80.6,
+        "Humidity":95.0,
+        "SoundLevel":171
+    },
+    {
+        "LightSensor":261,
+        "cpuTemp":54.768,
+        "date":"2020-07-21 03:01:06.362510",
+        "Temperature":80.6,
+        "Humidity":95.0,
+        "SoundLevel":172
+    },
+    {
+        "LightSensor":266,
+        "cpuTemp":55.306,
+        "date":"2020-07-21 03:11:07.179736",
+        "Temperature":80.6,
+        "Humidity":95.0,
+        "SoundLevel":173
+    },
+    {
+        "LightSensor":263,
+        "cpuTemp":54.768,
+        "date":"2020-07-21 03:21:08.042638",
+        "Temperature":80.6,
+        "Humidity":95.0,
+        "SoundLevel":174
+    },
+    {
+        "LightSensor":262,
+        "cpuTemp":54.768,
+        "date":"2020-07-21 03:31:08.787609",
+        "Temperature":80.6,
+        "Humidity":95.0,
+        "SoundLevel":175
+    },
+    {
+        "LightSensor":269,
+        "cpuTemp":55.306,
+        "date":"2020-07-21 03:41:09.589882",
+        "Temperature":80.6,
+        "Humidity":95.0,
+        "SoundLevel":174
+    },
+    {
+        "LightSensor":268,
+        "cpuTemp":54.23,
+        "date":"2020-07-21 03:51:10.392289",
+        "Temperature":80.6,
+        "Humidity":95.0,
+        "SoundLevel":175
+    },
+    {
+        "LightSensor":268,
+        "cpuTemp":54.23,
+        "date":"2020-07-21 04:01:11.453980",
+        "Temperature":80.6,
+        "Humidity":95.0,
+        "SoundLevel":174
+    },
+    {
+        "LightSensor":268,
+        "cpuTemp":55.306,
+        "date":"2020-07-21 04:11:12.227237",
+        "Temperature":80.6,
+        "Humidity":95.0,
+        "SoundLevel":174
+    },
+    {
+        "LightSensor":268,
+        "cpuTemp":54.23,
+        "date":"2020-07-21 04:21:13.027191",
+        "Temperature":80.6,
+        "Humidity":95.0,
+        "SoundLevel":173
+    },
+    {
+        "LightSensor":264,
+        "cpuTemp":54.768,
+        "date":"2020-07-21 04:31:13.830934",
+        "Temperature":80.6,
+        "Humidity":95.0,
+        "SoundLevel":174
+    },
+    {
+        "LightSensor":269,
+        "cpuTemp":54.23,
+        "date":"2020-07-21 04:41:14.546917",
+        "Temperature":80.6,
+        "Humidity":95.0,
+        "SoundLevel":174
+    },
+    {
+        "LightSensor":266,
+        "cpuTemp":54.23,
+        "date":"2020-07-21 04:51:15.356519",
+        "Temperature":80.6,
+        "Humidity":95.0,
+        "SoundLevel":176
+    },
+    {
+        "LightSensor":262,
+        "cpuTemp":54.23,
+        "date":"2020-07-21 05:01:16.157993",
+        "Temperature":80.6,
+        "Humidity":95.0,
+        "SoundLevel":175
+    },
+    {
+        "LightSensor":262,
+        "cpuTemp":53.692,
+        "date":"2020-07-21 05:11:17.009228",
+        "Temperature":80.6,
+        "Humidity":95.0,
+        "SoundLevel":176
+    },
+    {
+        "LightSensor":269,
+        "cpuTemp":54.23,
+        "date":"2020-07-21 05:21:17.671393",
+        "Temperature":80.6,
+        "Humidity":95.0,
+        "SoundLevel":172
+    },
+    {
+        "LightSensor":263,
+        "cpuTemp":54.768,
+        "date":"2020-07-21 05:31:18.542948",
+        "Temperature":80.6,
+        "Humidity":95.0,
+        "SoundLevel":175
+    },
+    {
+        "LightSensor":261,
+        "cpuTemp":54.23,
+        "date":"2020-07-21 05:41:19.297108",
+        "Temperature":80.6,
+        "Humidity":95.0,
+        "SoundLevel":177
+    },
+    {
+        "LightSensor":265,
+        "cpuTemp":54.23,
+        "date":"2020-07-21 05:51:20.086745",
+        "Temperature":80.6,
+        "Humidity":95.0,
+        "SoundLevel":179
+    },
+    {
+        "LightSensor":259,
+        "cpuTemp":54.768,
+        "date":"2020-07-21 06:01:20.863544",
+        "Temperature":80.6,
+        "Humidity":95.0,
+        "SoundLevel":177
+    },
+    {
+        "LightSensor":261,
+        "cpuTemp":54.23,
+        "date":"2020-07-21 06:11:21.682678",
+        "Temperature":80.6,
+        "Humidity":95.0,
+        "SoundLevel":177
+    },
+    {
+        "LightSensor":268,
+        "cpuTemp":54.23,
+        "date":"2020-07-21 06:21:22.503883",
+        "Temperature":80.6,
+        "Humidity":95.0,
+        "SoundLevel":178
+    },
+    {
+        "LightSensor":261,
+        "cpuTemp":54.23,
+        "date":"2020-07-21 06:31:23.275903",
+        "Temperature":80.6,
+        "Humidity":95.0,
+        "SoundLevel":177
+    },
+    {
+        "LightSensor":266,
+        "cpuTemp":54.768,
+        "date":"2020-07-21 06:41:24.095016",
+        "Temperature":80.6,
+        "Humidity":95.0,
+        "SoundLevel":177
+    },
+    {
+        "LightSensor":261,
+        "cpuTemp":54.23,
+        "date":"2020-07-21 06:51:25.301607",
+        "Temperature":80.6,
+        "Humidity":95.0,
+        "SoundLevel":177
+    },
+    {
+        "LightSensor":264,
+        "cpuTemp":54.768,
+        "date":"2020-07-21 07:01:26.034270",
+        "Temperature":80.6,
+        "Humidity":95.0,
+        "SoundLevel":177
+    },
+    {
+        "LightSensor":259,
+        "cpuTemp":54.768,
+        "date":"2020-07-21 07:11:26.757216",
+        "Temperature":80.6,
+        "Humidity":95.0,
+        "SoundLevel":175
+    },
+    {
+        "LightSensor":258,
+        "cpuTemp":55.306,
+        "date":"2020-07-21 07:21:27.505660",
+        "Temperature":82.4,
+        "Humidity":95.0,
+        "SoundLevel":177
+    },
+    {
+        "LightSensor":263,
+        "cpuTemp":54.768,
+        "date":"2020-07-21 07:31:28.255473",
+        "Temperature":82.4,
+        "Humidity":95.0,
+        "SoundLevel":179
+    },
+    {
+        "LightSensor":261,
+        "cpuTemp":55.306,
+        "date":"2020-07-21 07:41:29.005675",
+        "Temperature":82.4,
+        "Humidity":95.0,
+        "SoundLevel":177
+    },
+    {
+        "LightSensor":261,
+        "cpuTemp":55.306,
+        "date":"2020-07-21 07:51:29.755114",
+        "Temperature":82.4,
+        "Humidity":95.0,
+        "SoundLevel":177
+    },
+    {
+        "LightSensor":258,
+        "cpuTemp":55.843,
+        "date":"2020-07-21 08:01:30.528049",
+        "Temperature":82.4,
+        "Humidity":95.0,
+        "SoundLevel":178
+    },
+    {
+        "LightSensor":258,
+        "cpuTemp":55.843,
+        "date":"2020-07-21 08:11:31.371797",
+        "Temperature":84.2,
+        "Humidity":95.0,
+        "SoundLevel":178
+    },
+    {
+        "LightSensor":258,
+        "cpuTemp":55.843,
+        "date":"2020-07-21 08:21:32.126714",
+        "Temperature":84.2,
+        "Humidity":95.0,
+        "SoundLevel":177
+    },
+    {
+        "LightSensor":258,
+        "cpuTemp":55.843,
+        "date":"2020-07-21 08:31:32.953013",
+        "Temperature":84.2,
+        "Humidity":95.0,
+        "SoundLevel":178
+    },
+    {
+        "LightSensor":250,
+        "cpuTemp":55.843,
+        "date":"2020-07-21 08:41:33.644489",
+        "Temperature":84.2,
+        "Humidity":95.0,
+        "SoundLevel":177
+    },
+    {
+        "LightSensor":251,
+        "cpuTemp":55.843,
+        "date":"2020-07-21 08:51:34.374110",
+        "Temperature":84.2,
+        "Humidity":95.0,
+        "SoundLevel":177
+    },
+    {
+        "LightSensor":251,
+        "cpuTemp":56.382,
+        "date":"2020-07-21 09:01:35.118010",
+        "Temperature":86.0,
+        "Humidity":95.0,
+        "SoundLevel":176
+    },
+    {
+        "LightSensor":250,
+        "cpuTemp":56.92,
+        "date":"2020-07-21 09:11:35.859478",
+        "Temperature":86.0,
+        "Humidity":95.0,
+        "SoundLevel":177
+    },
+    {
+        "LightSensor":251,
+        "cpuTemp":56.92,
+        "date":"2020-07-21 09:21:36.699022",
+        "Temperature":86.0,
+        "Humidity":95.0,
+        "SoundLevel":175
+    },
+    {
+        "LightSensor":244,
+        "cpuTemp":57.458,
+        "date":"2020-07-21 09:31:37.459504",
+        "Temperature":87.8,
+        "Humidity":95.0,
+        "SoundLevel":177
+    },
+    {
+        "LightSensor":244,
+        "cpuTemp":57.996,
+        "date":"2020-07-21 09:41:38.369104",
+        "Temperature":87.8,
+        "Humidity":95.0,
+        "SoundLevel":175
+    },
+    {
+        "LightSensor":244,
+        "cpuTemp":57.996,
+        "date":"2020-07-21 09:51:39.641120",
+        "Temperature":87.8,
+        "Humidity":95.0,
+        "SoundLevel":175
+    },
+    {
+        "LightSensor":243,
+        "cpuTemp":57.996,
+        "date":"2020-07-21 10:01:40.942279",
+        "Temperature":89.6,
+        "Humidity":95.0,
+        "SoundLevel":175
+    },
+    {
+        "LightSensor":246,
+        "cpuTemp":57.458,
+        "date":"2020-07-21 10:11:42.173310",
+        "Temperature":89.6,
+        "Humidity":95.0,
+        "SoundLevel":175
+    },
+    {
+        "LightSensor":237,
+        "cpuTemp":58.533,
+        "date":"2020-07-21 10:21:42.998579",
+        "Temperature":89.6,
+        "Humidity":95.0,
+        "SoundLevel":174
+    },
+    {
+        "LightSensor":236,
+        "cpuTemp":59.072,
+        "date":"2020-07-21 10:31:43.754061",
+        "Temperature":91.4,
+        "Humidity":95.0,
+        "SoundLevel":173
+    },
+    {
+        "LightSensor":241,
+        "cpuTemp":59.072,
+        "date":"2020-07-21 10:41:44.802568",
+        "Temperature":91.4,
+        "Humidity":95.0,
+        "SoundLevel":172
+    },
+    {
+        "LightSensor":242,
+        "cpuTemp":59.072,
+        "date":"2020-07-21 10:51:45.558707",
+        "Temperature":91.4,
+        "Humidity":94.0,
+        "SoundLevel":173
+    },
+    {
+        "LightSensor":239,
+        "cpuTemp":60.148,
+        "date":"2020-07-21 11:01:46.307629",
+        "Temperature":93.2,
+        "Humidity":92.0,
+        "SoundLevel":171
+    },
+    {
+        "LightSensor":234,
+        "cpuTemp":59.61,
+        "date":"2020-07-21 11:11:47.107837",
+        "Temperature":93.2,
+        "Humidity":90.0,
+        "SoundLevel":170
+    },
+    {
+        "LightSensor":247,
+        "cpuTemp":59.072,
+        "date":"2020-07-21 11:21:47.923838",
+        "Temperature":93.2,
+        "Humidity":88.0,
+        "SoundLevel":169
+    },
+    {
+        "LightSensor":253,
+        "cpuTemp":59.61,
+        "date":"2020-07-21 11:31:48.729074",
+        "Temperature":93.2,
+        "Humidity":87.0,
+        "SoundLevel":169
+    },
+    {
+        "LightSensor":248,
+        "cpuTemp":59.072,
+        "date":"2020-07-21 11:41:49.551094",
+        "Temperature":93.2,
+        "Humidity":89.0,
+        "SoundLevel":168
+    },
+    {
+        "LightSensor":247,
+        "cpuTemp":59.61,
+        "date":"2020-07-21 11:51:50.337776",
+        "Temperature":91.4,
+        "Humidity":90.0,
+        "SoundLevel":167
+    },
+    {
+        "LightSensor":237,
+        "cpuTemp":59.61,
+        "date":"2020-07-21 12:01:51.037079",
+        "Temperature":91.4,
+        "Humidity":89.0,
+        "SoundLevel":166
+    },
+    {
+        "LightSensor":241,
+        "cpuTemp":59.072,
+        "date":"2020-07-21 12:11:51.763715",
+        "Temperature":91.4,
+        "Humidity":90.0,
+        "SoundLevel":167
+    },
+    {
+        "LightSensor":239,
+        "cpuTemp":60.148,
+        "date":"2020-07-21 12:21:52.523280",
+        "Temperature":93.2,
+        "Humidity":89.0,
+        "SoundLevel":168
+    },
+    {
+        "LightSensor":241,
+        "cpuTemp":60.686,
+        "date":"2020-07-21 12:31:53.262562",
+        "Temperature":95.0,
+        "Humidity":87.0,
+        "SoundLevel":167
+    },
+    {
+        "LightSensor":234,
+        "cpuTemp":61.224,
+        "date":"2020-07-21 12:41:54.002731",
+        "Temperature":96.8,
+        "Humidity":86.0,
+        "SoundLevel":166
+    },
+    {
+        "LightSensor":234,
+        "cpuTemp":61.224,
+        "date":"2020-07-21 12:51:54.713702",
+        "Temperature":96.8,
+        "Humidity":84.0,
+        "SoundLevel":165
+    },
+    {
+        "LightSensor":237,
+        "cpuTemp":61.761,
+        "date":"2020-07-21 13:01:55.402728",
+        "Temperature":96.8,
+        "Humidity":82.0,
+        "SoundLevel":164
+    },
+    {
+        "LightSensor":231,
+        "cpuTemp":61.224,
+        "date":"2020-07-21 13:11:56.212119",
+        "Temperature":96.8,
+        "Humidity":83.0,
+        "SoundLevel":164
+    },
+    {
+        "LightSensor":230,
+        "cpuTemp":62.3,
+        "date":"2020-07-21 13:21:56.902090",
+        "Temperature":96.8,
+        "Humidity":81.0,
+        "SoundLevel":163
+    },
+    {
+        "LightSensor":221,
+        "cpuTemp":62.3,
+        "date":"2020-07-21 13:31:57.669088",
+        "Temperature":98.6,
+        "Humidity":79.0,
+        "SoundLevel":163
+    },
+    {
+        "LightSensor":231,
+        "cpuTemp":61.224,
+        "date":"2020-07-21 13:41:58.455507",
+        "Temperature":100.4,
+        "Humidity":78.0,
+        "SoundLevel":161
+    },
+    {
+        "LightSensor":236,
+        "cpuTemp":60.686,
+        "date":"2020-07-21 13:51:59.160322",
+        "Temperature":96.8,
+        "Humidity":83.0,
+        "SoundLevel":159
+    },
+    {
+        "LightSensor":230,
+        "cpuTemp":60.686,
+        "date":"2020-07-21 14:01:59.947791",
+        "Temperature":93.2,
+        "Humidity":88.0,
+        "SoundLevel":159
+    },
+    {
+        "LightSensor":235,
+        "cpuTemp":60.148,
+        "date":"2020-07-21 14:12:00.708523",
+        "Temperature":93.2,
+        "Humidity":90.0,
+        "SoundLevel":159
+    },
+    {
+        "LightSensor":231,
+        "cpuTemp":60.686,
+        "date":"2020-07-21 14:22:01.468987",
+        "Temperature":93.2,
+        "Humidity":89.0,
+        "SoundLevel":163
+    },
+    {
+        "LightSensor":219,
+        "cpuTemp":62.3,
+        "date":"2020-07-21 14:32:02.261865",
+        "Temperature":96.8,
+        "Humidity":84.0,
+        "SoundLevel":163
+    },
+    {
+        "LightSensor":227,
+        "cpuTemp":61.761,
+        "date":"2020-07-21 14:42:02.945595",
+        "Temperature":98.6,
+        "Humidity":79.0,
+        "SoundLevel":159
+    },
+    {
+        "LightSensor":226,
+        "cpuTemp":62.3,
+        "date":"2020-07-21 14:52:03.756081",
+        "Temperature":98.6,
+        "Humidity":77.0,
+        "SoundLevel":161
+    },
+    {
+        "LightSensor":230,
+        "cpuTemp":61.761,
+        "date":"2020-07-21 15:02:04.575801",
+        "Temperature":98.6,
+        "Humidity":78.0,
+        "SoundLevel":159
+    },
+    {
+        "LightSensor":231,
+        "cpuTemp":61.761,
+        "date":"2020-07-21 15:12:05.366985",
+        "Temperature":96.8,
+        "Humidity":78.0,
+        "SoundLevel":158
+    },
+    {
+        "LightSensor":233,
+        "cpuTemp":60.686,
+        "date":"2020-07-21 15:22:06.152011",
+        "Temperature":95.0,
+        "Humidity":83.0,
+        "SoundLevel":159
+    },
+    {
+        "LightSensor":237,
+        "cpuTemp":60.148,
+        "date":"2020-07-21 15:32:06.883675",
+        "Temperature":93.2,
+        "Humidity":84.0,
+        "SoundLevel":159
+    },
+    {
+        "LightSensor":239,
+        "cpuTemp":60.148,
+        "date":"2020-07-21 15:42:07.651818",
+        "Temperature":93.2,
+        "Humidity":83.0,
+        "SoundLevel":159
+    },
+    {
+        "LightSensor":236,
+        "cpuTemp":60.148,
+        "date":"2020-07-21 15:52:08.438737",
+        "Temperature":93.2,
+        "Humidity":84.0,
+        "SoundLevel":161
+    },
+    {
+        "LightSensor":223,
+        "cpuTemp":61.224,
+        "date":"2020-07-21 16:02:09.238288",
+        "Temperature":93.2,
+        "Humidity":84.0,
+        "SoundLevel":162
+    },
+    {
+        "LightSensor":192,
+        "cpuTemp":64.451,
+        "date":"2020-07-21 16:12:10.000041",
+        "Temperature":96.8,
+        "Humidity":78.0,
+        "SoundLevel":177
+    },
+    {
+        "LightSensor":156,
+        "cpuTemp":70.908,
+        "date":"2020-07-21 16:22:10.794369",
+        "Temperature":116.6,
+        "Humidity":49.0,
+        "SoundLevel":191
+    },
+    {
+        "LightSensor":127,
+        "cpuTemp":77.364,
+        "date":"2020-07-21 16:32:11.626620",
+        "Temperature":129.2,
+        "Humidity":37.0,
+        "SoundLevel":202
+    },
+    {
+        "LightSensor":106,
+        "cpuTemp":82.205,
+        "date":"2020-07-21 16:42:12.450274",
+        "Temperature":138.2,
+        "Humidity":29.0,
+        "SoundLevel":191
+    },
+    {
+        "LightSensor":107,
+        "cpuTemp":84.358,
+        "date":"2020-07-21 16:52:13.260385",
+        "Temperature":138.2,
+        "Humidity":25.0,
+        "SoundLevel":195
+    },
+    {
+        "LightSensor":104,
+        "cpuTemp":84.896,
+        "date":"2020-07-21 17:02:14.145007",
+        "Temperature":138.2,
+        "Humidity":25.0,
+        "SoundLevel":167
+    },
+    {
+        "LightSensor":130,
+        "cpuTemp":82.744,
+        "date":"2020-07-21 17:12:14.983596",
+        "Temperature":138.2,
+        "Humidity":25.0,
+        "SoundLevel":143
+    },
+    {
+        "LightSensor":178,
+        "cpuTemp":73.06,
+        "date":"2020-07-21 17:22:15.839545",
+        "Temperature":131.0,
+        "Humidity":32.0,
+        "SoundLevel":124
+    },
+    {
+        "LightSensor":213,
+        "cpuTemp":66.066,
+        "date":"2020-07-21 17:32:16.681451",
+        "Temperature":107.6,
+        "Humidity":51.0,
+        "SoundLevel":124
+    },
+    {
+        "LightSensor":230,
+        "cpuTemp":62.3,
+        "date":"2020-07-21 17:42:17.507991",
+        "Temperature":96.8,
+        "Humidity":63.0,
+        "SoundLevel":126
+    },
+    {
+        "LightSensor":241,
+        "cpuTemp":60.686,
+        "date":"2020-07-21 17:52:18.275060",
+        "Temperature":93.2,
+        "Humidity":69.0,
+        "SoundLevel":130
+    },
+    {
+        "LightSensor":253,
+        "cpuTemp":57.996,
+        "date":"2020-07-21 18:02:19.071326",
+        "Temperature":89.6,
+        "Humidity":80.0,
+        "SoundLevel":135
+    },
+    {
+        "LightSensor":260,
+        "cpuTemp":56.92,
+        "date":"2020-07-21 18:12:19.804112",
+        "Temperature":86.0,
+        "Humidity":89.0,
+        "SoundLevel":141
+    },
+    {
+        "LightSensor":250,
+        "cpuTemp":56.92,
+        "date":"2020-07-21 18:22:20.628877",
+        "Temperature":84.2,
+        "Humidity":92.0,
+        "SoundLevel":145
+    },
+    {
+        "LightSensor":253,
+        "cpuTemp":57.458,
+        "date":"2020-07-21 18:32:21.445490",
+        "Temperature":84.2,
+        "Humidity":94.0,
+        "SoundLevel":148
+    },
+    {
+        "LightSensor":259,
+        "cpuTemp":56.92,
+        "date":"2020-07-21 18:42:22.271740",
+        "Temperature":84.2,
+        "Humidity":95.0,
+        "SoundLevel":150
+    },
+    {
+        "LightSensor":251,
+        "cpuTemp":56.92,
+        "date":"2020-07-21 18:52:22.992477",
+        "Temperature":84.2,
+        "Humidity":95.0,
+        "SoundLevel":154
+    },
+    {
+        "LightSensor":257,
+        "cpuTemp":56.92,
+        "date":"2020-07-21 19:02:23.756028",
+        "Temperature":84.2,
+        "Humidity":95.0,
+        "SoundLevel":156
+    },
+    {
+        "LightSensor":259,
+        "cpuTemp":56.92,
+        "date":"2020-07-21 19:12:24.509817",
+        "Temperature":84.2,
+        "Humidity":95.0,
+        "SoundLevel":159
+    },
+    {
+        "LightSensor":255,
+        "cpuTemp":56.382,
+        "date":"2020-07-21 19:22:25.300549",
+        "Temperature":84.2,
+        "Humidity":95.0,
+        "SoundLevel":159
+    },
+    {
+        "LightSensor":254,
+        "cpuTemp":55.843,
+        "date":"2020-07-21 19:32:26.093944",
+        "Temperature":84.2,
+        "Humidity":95.0,
+        "SoundLevel":161
+    },
+    {
+        "LightSensor":256,
+        "cpuTemp":56.92,
+        "date":"2020-07-21 19:42:26.920325",
+        "Temperature":84.2,
+        "Humidity":95.0,
+        "SoundLevel":162
+    },
+    {
+        "LightSensor":259,
+        "cpuTemp":56.382,
+        "date":"2020-07-21 19:52:27.689704",
+        "Temperature":84.2,
+        "Humidity":95.0,
+        "SoundLevel":163
+    },
+    {
+        "LightSensor":255,
+        "cpuTemp":56.382,
+        "date":"2020-07-21 20:02:28.464821",
+        "Temperature":84.2,
+        "Humidity":95.0,
+        "SoundLevel":164
+    },
+    {
+        "LightSensor":255,
+        "cpuTemp":56.382,
+        "date":"2020-07-21 20:12:29.267168",
+        "Temperature":84.2,
+        "Humidity":95.0,
+        "SoundLevel":166
+    },
+    {
+        "LightSensor":263,
+        "cpuTemp":55.843,
+        "date":"2020-07-21 20:22:30.073205",
+        "Temperature":84.2,
+        "Humidity":95.0,
+        "SoundLevel":166
+    },
+    {
+        "LightSensor":255,
+        "cpuTemp":55.843,
+        "date":"2020-07-21 20:32:30.818348",
+        "Temperature":82.4,
+        "Humidity":95.0,
+        "SoundLevel":167
+    },
+    {
+        "LightSensor":266,
+        "cpuTemp":55.843,
+        "date":"2020-07-21 20:42:31.644114",
+        "Temperature":82.4,
+        "Humidity":95.0,
+        "SoundLevel":168
+    },
+    {
+        "LightSensor":262,
+        "cpuTemp":55.843,
+        "date":"2020-07-21 20:52:32.465849",
+        "Temperature":82.4,
+        "Humidity":95.0,
+        "SoundLevel":168
+    },
+    {
+        "LightSensor":263,
+        "cpuTemp":55.843,
+        "date":"2020-07-21 21:02:33.258029",
+        "Temperature":82.4,
+        "Humidity":95.0,
+        "SoundLevel":167
+    },
+    {
+        "LightSensor":264,
+        "cpuTemp":55.843,
+        "date":"2020-07-21 21:12:34.007102",
+        "Temperature":82.4,
+        "Humidity":95.0,
+        "SoundLevel":169
+    },
+    {
+        "LightSensor":258,
+        "cpuTemp":55.306,
+        "date":"2020-07-21 21:22:34.844808",
+        "Temperature":82.4,
+        "Humidity":95.0,
+        "SoundLevel":170
+    },
+    {
+        "LightSensor":270,
+        "cpuTemp":55.843,
+        "date":"2020-07-21 21:32:35.684026",
+        "Temperature":82.4,
+        "Humidity":95.0,
+        "SoundLevel":170
+    },
+    {
+        "LightSensor":266,
+        "cpuTemp":55.843,
+        "date":"2020-07-21 21:42:36.397572",
+        "Temperature":82.4,
+        "Humidity":95.0,
+        "SoundLevel":171
+    },
+    {
+        "LightSensor":267,
+        "cpuTemp":55.843,
+        "date":"2020-07-21 21:52:37.182390",
+        "Temperature":82.4,
+        "Humidity":95.0,
+        "SoundLevel":172
+    },
+    {
+        "LightSensor":258,
+        "cpuTemp":55.843,
+        "date":"2020-07-21 22:02:37.893825",
+        "Temperature":82.4,
+        "Humidity":95.0,
+        "SoundLevel":171
+    },
+    {
+        "LightSensor":268,
+        "cpuTemp":55.306,
+        "date":"2020-07-21 22:12:38.881765",
+        "Temperature":82.4,
+        "Humidity":95.0,
+        "SoundLevel":172
+    },
+    {
+        "LightSensor":266,
+        "cpuTemp":55.843,
+        "date":"2020-07-21 22:22:40.047762",
+        "Temperature":82.4,
+        "Humidity":95.0,
+        "SoundLevel":171
+    },
+    {
+        "LightSensor":264,
+        "cpuTemp":55.306,
+        "date":"2020-07-21 22:32:41.476523",
+        "Temperature":82.4,
+        "Humidity":95.0,
+        "SoundLevel":173
+    },
+    {
+        "LightSensor":272,
+        "cpuTemp":55.306,
+        "date":"2020-07-21 22:42:42.628414",
+        "Temperature":82.4,
+        "Humidity":95.0,
+        "SoundLevel":173
+    },
+    {
+        "LightSensor":290,
+        "cpuTemp":54.768,
+        "date":"2020-07-21 22:52:43.351515",
+        "Temperature":82.4,
+        "Humidity":95.0,
+        "SoundLevel":175
+    },
+    {
+        "LightSensor":270,
+        "cpuTemp":55.843,
+        "date":"2020-07-21 23:02:44.167976",
+        "Temperature":82.4,
+        "Humidity":95.0,
+        "SoundLevel":174
+    },
+    {
+        "LightSensor":261,
+        "cpuTemp":54.768,
+        "date":"2020-07-21 23:12:44.946865",
+        "Temperature":82.4,
+        "Humidity":95.0,
+        "SoundLevel":175
+    },
+    {
+        "LightSensor":267,
+        "cpuTemp":55.306,
+        "date":"2020-07-21 23:22:45.772832",
+        "Temperature":82.4,
+        "Humidity":95.0,
+        "SoundLevel":175
+    },
+    {
+        "LightSensor":262,
+        "cpuTemp":54.768,
+        "date":"2020-07-21 23:32:46.551337",
+        "Temperature":80.6,
+        "Humidity":95.0,
+        "SoundLevel":174
+    },
+    {
+        "LightSensor":266,
+        "cpuTemp":54.768,
+        "date":"2020-07-21 23:42:47.268541",
+        "Temperature":80.6,
+        "Humidity":95.0,
+        "SoundLevel":175
+    },
+    {
+        "LightSensor":268,
+        "cpuTemp":55.306,
+        "date":"2020-07-21 23:52:48.070830",
+        "Temperature":80.6,
+        "Humidity":95.0,
+        "SoundLevel":176
+    },
+    {
+        "LightSensor":266,
+        "cpuTemp":54.768,
+        "date":"2020-07-22 00:02:49.961422",
+        "Temperature":80.6,
+        "Humidity":95.0,
+        "SoundLevel":173
+    },
+    {
+        "LightSensor":261,
+        "cpuTemp":54.768,
+        "date":"2020-07-22 00:12:50.733623",
+        "Temperature":80.6,
+        "Humidity":95.0,
+        "SoundLevel":175
+    },
+    {
+        "LightSensor":262,
+        "cpuTemp":54.768,
+        "date":"2020-07-22 00:22:51.525852",
+        "Temperature":80.6,
+        "Humidity":95.0,
+        "SoundLevel":175
+    },
+    {
+        "LightSensor":267,
+        "cpuTemp":54.768,
+        "date":"2020-07-22 00:32:52.258238",
+        "Temperature":80.6,
+        "Humidity":95.0,
+        "SoundLevel":174
+    },
+    {
+        "LightSensor":267,
+        "cpuTemp":54.768,
+        "date":"2020-07-22 00:42:53.008895",
+        "Temperature":80.6,
+        "Humidity":95.0,
+        "SoundLevel":175
+    },
+    {
+        "LightSensor":269,
+        "cpuTemp":54.768,
+        "date":"2020-07-22 00:52:53.755984",
+        "Temperature":80.6,
+        "Humidity":95.0,
+        "SoundLevel":175
+    },
+    {
+        "LightSensor":268,
+        "cpuTemp":54.23,
+        "date":"2020-07-22 01:02:54.508012",
+        "Temperature":80.6,
+        "Humidity":95.0,
+        "SoundLevel":175
+    },
+    {
+        "LightSensor":261,
+        "cpuTemp":54.768,
+        "date":"2020-07-22 01:12:55.265617",
+        "Temperature":80.6,
+        "Humidity":95.0,
+        "SoundLevel":176
+    },
+    {
+        "LightSensor":263,
+        "cpuTemp":54.23,
+        "date":"2020-07-22 01:22:56.007143",
+        "Temperature":80.6,
+        "Humidity":95.0,
+        "SoundLevel":177
+    },
+    {
+        "LightSensor":263,
+        "cpuTemp":54.768,
+        "date":"2020-07-22 01:32:56.756001",
+        "Temperature":80.6,
+        "Humidity":95.0,
+        "SoundLevel":175
+    },
+    {
+        "LightSensor":269,
+        "cpuTemp":54.23,
+        "date":"2020-07-22 01:42:57.506355",
+        "Temperature":80.6,
+        "Humidity":95.0,
+        "SoundLevel":175
+    },
+    {
+        "LightSensor":272,
+        "cpuTemp":54.768,
+        "date":"2020-07-22 01:52:58.256313",
+        "Temperature":80.6,
+        "Humidity":95.0,
+        "SoundLevel":175
+    },
+    {
+        "LightSensor":271,
+        "cpuTemp":53.692,
+        "date":"2020-07-22 02:02:59.007464",
+        "Temperature":80.6,
+        "Humidity":95.0,
+        "SoundLevel":175
+    },
+    {
+        "LightSensor":266,
+        "cpuTemp":54.23,
+        "date":"2020-07-22 02:12:59.755992",
+        "Temperature":80.6,
+        "Humidity":95.0,
+        "SoundLevel":176
+    },
+    {
+        "LightSensor":270,
+        "cpuTemp":54.23,
+        "date":"2020-07-22 02:23:00.507794",
+        "Temperature":80.6,
+        "Humidity":95.0,
+        "SoundLevel":177
+    },
+    {
+        "LightSensor":264,
+        "cpuTemp":54.23,
+        "date":"2020-07-22 02:33:01.256585",
+        "Temperature":80.6,
+        "Humidity":95.0,
+        "SoundLevel":177
+    },
+    {
+        "LightSensor":271,
+        "cpuTemp":53.692,
+        "date":"2020-07-22 02:43:02.008388",
+        "Temperature":80.6,
+        "Humidity":95.0,
+        "SoundLevel":176
+    },
+    {
+        "LightSensor":271,
+        "cpuTemp":53.692,
+        "date":"2020-07-22 02:53:02.756876",
+        "Temperature":80.6,
+        "Humidity":95.0,
+        "SoundLevel":176
+    },
+    {
+        "LightSensor":267,
+        "cpuTemp":54.23,
+        "date":"2020-07-22 03:03:03.506541",
+        "Temperature":80.6,
+        "Humidity":95.0,
+        "SoundLevel":177
+    },
+    {
+        "LightSensor":273,
+        "cpuTemp":53.692,
+        "date":"2020-07-22 03:13:04.411506",
+        "Temperature":80.6,
+        "Humidity":95.0,
+        "SoundLevel":177
+    },
+    {
+        "LightSensor":274,
+        "cpuTemp":54.23,
+        "date":"2020-07-22 03:23:05.243773",
+        "Temperature":80.6,
+        "Humidity":95.0,
+        "SoundLevel":177
+    },
+    {
+        "LightSensor":271,
+        "cpuTemp":53.692,
+        "date":"2020-07-22 03:33:06.006704",
+        "Temperature":80.6,
+        "Humidity":95.0,
+        "SoundLevel":177
+    },
+    {
+        "LightSensor":268,
+        "cpuTemp":53.692,
+        "date":"2020-07-22 03:43:06.758210",
+        "Temperature":80.6,
+        "Humidity":95.0,
+        "SoundLevel":177
+    },
+    {
+        "LightSensor":267,
+        "cpuTemp":53.692,
+        "date":"2020-07-22 03:53:07.506447",
+        "Temperature":78.8,
+        "Humidity":95.0,
+        "SoundLevel":177
+    },
+    {
+        "LightSensor":272,
+        "cpuTemp":53.692,
+        "date":"2020-07-22 04:03:08.338404",
+        "Temperature":80.6,
+        "Humidity":95.0,
+        "SoundLevel":177
+    },
+    {
+        "LightSensor":269,
+        "cpuTemp":53.692,
+        "date":"2020-07-22 04:13:09.172700",
+        "Temperature":78.8,
+        "Humidity":95.0,
+        "SoundLevel":177
+    },
+    {
+        "LightSensor":274,
+        "cpuTemp":53.692,
+        "date":"2020-07-22 04:23:09.970309",
+        "Temperature":78.8,
+        "Humidity":95.0,
+        "SoundLevel":178
+    },
+    {
+        "LightSensor":275,
+        "cpuTemp":53.692,
+        "date":"2020-07-22 04:33:10.811044",
+        "Temperature":78.8,
+        "Humidity":95.0,
+        "SoundLevel":177
+    },
+    {
+        "LightSensor":274,
+        "cpuTemp":53.154,
+        "date":"2020-07-22 04:43:11.602234",
+        "Temperature":78.8,
+        "Humidity":95.0,
+        "SoundLevel":177
+    },
+    {
+        "LightSensor":275,
+        "cpuTemp":53.692,
+        "date":"2020-07-22 04:53:12.380796",
+        "Temperature":78.8,
+        "Humidity":95.0,
+        "SoundLevel":178
+    },
+    {
+        "LightSensor":275,
+        "cpuTemp":53.692,
+        "date":"2020-07-22 05:03:13.565768",
+        "Temperature":78.8,
+        "Humidity":95.0,
+        "SoundLevel":178
+    },
+    {
+        "LightSensor":270,
+        "cpuTemp":53.692,
+        "date":"2020-07-22 05:13:14.392468",
+        "Temperature":78.8,
+        "Humidity":95.0,
+        "SoundLevel":178
+    },
+    {
+        "LightSensor":269,
+        "cpuTemp":53.692,
+        "date":"2020-07-22 05:23:15.123824",
+        "Temperature":78.8,
+        "Humidity":95.0,
+        "SoundLevel":178
+    },
+    {
+        "LightSensor":280,
+        "cpuTemp":53.692,
+        "date":"2020-07-22 05:33:15.937083",
+        "Temperature":78.8,
+        "Humidity":95.0,
+        "SoundLevel":177
+    },
+    {
+        "LightSensor":279,
+        "cpuTemp":53.692,
+        "date":"2020-07-22 05:43:16.732060",
+        "Temperature":78.8,
+        "Humidity":95.0,
+        "SoundLevel":179
+    },
+    {
+        "LightSensor":280,
+        "cpuTemp":53.692,
+        "date":"2020-07-22 05:53:17.537720",
+        "Temperature":78.8,
+        "Humidity":95.0,
+        "SoundLevel":179
+    },
+    {
+        "LightSensor":280,
+        "cpuTemp":53.692,
+        "date":"2020-07-22 06:03:18.376939",
+        "Temperature":78.8,
+        "Humidity":95.0,
+        "SoundLevel":178
+    },
+    {
+        "LightSensor":275,
+        "cpuTemp":53.692,
+        "date":"2020-07-22 06:13:19.188295",
+        "Temperature":78.8,
+        "Humidity":95.0,
+        "SoundLevel":179
+    },
+    {
+        "LightSensor":274,
+        "cpuTemp":53.692,
+        "date":"2020-07-22 06:23:20.009918",
+        "Temperature":78.8,
+        "Humidity":95.0,
+        "SoundLevel":180
+    },
+    {
+        "LightSensor":269,
+        "cpuTemp":53.692,
+        "date":"2020-07-22 06:33:20.832819",
+        "Temperature":78.8,
+        "Humidity":95.0,
+        "SoundLevel":179
+    },
+    {
+        "LightSensor":278,
+        "cpuTemp":53.154,
+        "date":"2020-07-22 06:43:21.732649",
+        "Temperature":78.8,
+        "Humidity":95.0,
+        "SoundLevel":179
+    },
+    {
+        "LightSensor":277,
+        "cpuTemp":53.692,
+        "date":"2020-07-22 06:53:22.564724",
+        "Temperature":78.8,
+        "Humidity":95.0,
+        "SoundLevel":180
+    },
+    {
+        "LightSensor":273,
+        "cpuTemp":53.692,
+        "date":"2020-07-22 07:03:23.340499",
+        "Temperature":78.8,
+        "Humidity":95.0,
+        "SoundLevel":180
+    },
+    {
+        "LightSensor":267,
+        "cpuTemp":53.692,
+        "date":"2020-07-22 07:13:24.108093",
+        "Temperature":80.6,
+        "Humidity":95.0,
+        "SoundLevel":179
+    },
+    {
+        "LightSensor":273,
+        "cpuTemp":53.692,
+        "date":"2020-07-22 07:23:24.950864",
+        "Temperature":80.6,
+        "Humidity":95.0,
+        "SoundLevel":181
+    },
+    {
+        "LightSensor":268,
+        "cpuTemp":53.692,
+        "date":"2020-07-22 07:33:25.760540",
+        "Temperature":80.6,
+        "Humidity":95.0,
+        "SoundLevel":180
+    },
+    {
+        "LightSensor":263,
+        "cpuTemp":54.23,
+        "date":"2020-07-22 07:43:26.492299",
+        "Temperature":80.6,
+        "Humidity":95.0,
+        "SoundLevel":179
+    },
+    {
+        "LightSensor":265,
+        "cpuTemp":54.23,
+        "date":"2020-07-22 07:53:27.254263",
+        "Temperature":80.6,
+        "Humidity":95.0,
+        "SoundLevel":181
+    },
+    {
+        "LightSensor":266,
+        "cpuTemp":54.768,
+        "date":"2020-07-22 08:03:28.006455",
+        "Temperature":82.4,
+        "Humidity":95.0,
+        "SoundLevel":180
+    },
+    {
+        "LightSensor":262,
+        "cpuTemp":54.768,
+        "date":"2020-07-22 08:13:28.757748",
+        "Temperature":82.4,
+        "Humidity":95.0,
+        "SoundLevel":180
+    },
+    {
+        "LightSensor":264,
+        "cpuTemp":53.692,
+        "date":"2020-07-22 08:23:29.508448",
+        "Temperature":82.4,
+        "Humidity":95.0,
+        "SoundLevel":180
+    },
+    {
+        "LightSensor":261,
+        "cpuTemp":54.768,
+        "date":"2020-07-22 08:33:30.508769",
+        "Temperature":82.4,
+        "Humidity":95.0,
+        "SoundLevel":179
+    },
+    {
+        "LightSensor":265,
+        "cpuTemp":54.768,
+        "date":"2020-07-22 08:43:31.258801",
+        "Temperature":82.4,
+        "Humidity":95.0,
+        "SoundLevel":179
+    },
+    {
+        "LightSensor":266,
+        "cpuTemp":54.768,
+        "date":"2020-07-22 08:53:32.006683",
+        "Temperature":82.4,
+        "Humidity":95.0,
+        "SoundLevel":180
+    },
+    {
+        "LightSensor":269,
+        "cpuTemp":55.843,
+        "date":"2020-07-22 09:03:32.756912",
+        "Temperature":82.4,
+        "Humidity":95.0,
+        "SoundLevel":179
+    },
+    {
+        "LightSensor":263,
+        "cpuTemp":55.843,
+        "date":"2020-07-22 09:13:33.508342",
+        "Temperature":84.2,
+        "Humidity":95.0,
+        "SoundLevel":179
+    },
+    {
+        "LightSensor":268,
+        "cpuTemp":55.843,
+        "date":"2020-07-22 09:23:34.257721",
+        "Temperature":84.2,
+        "Humidity":95.0,
+        "SoundLevel":178
+    },
+    {
+        "LightSensor":259,
+        "cpuTemp":56.382,
+        "date":"2020-07-22 09:33:35.009957",
+        "Temperature":84.2,
+        "Humidity":95.0,
+        "SoundLevel":179
+    },
+    {
+        "LightSensor":255,
+        "cpuTemp":55.843,
+        "date":"2020-07-22 09:43:35.756497",
+        "Temperature":86.0,
+        "Humidity":95.0,
+        "SoundLevel":178
+    },
+    {
+        "LightSensor":258,
+        "cpuTemp":56.382,
+        "date":"2020-07-22 09:53:36.506933",
+        "Temperature":86.0,
+        "Humidity":95.0,
+        "SoundLevel":178
+    },
+    {
+        "LightSensor":258,
+        "cpuTemp":56.382,
+        "date":"2020-07-22 10:03:37.267502",
+        "Temperature":86.0,
+        "Humidity":95.0,
+        "SoundLevel":177
+    },
+    {
+        "LightSensor":254,
+        "cpuTemp":56.92,
+        "date":"2020-07-22 10:13:38.007358",
+        "Temperature":87.8,
+        "Humidity":95.0,
+        "SoundLevel":177
+    },
+    {
+        "LightSensor":255,
+        "cpuTemp":56.92,
+        "date":"2020-07-22 10:23:38.756243",
+        "Temperature":87.8,
+        "Humidity":95.0,
+        "SoundLevel":176
+    },
+    {
+        "LightSensor":260,
+        "cpuTemp":57.458,
+        "date":"2020-07-22 10:33:39.566706",
+        "Temperature":87.8,
+        "Humidity":95.0,
+        "SoundLevel":175
+    },
+    {
+        "LightSensor":258,
+        "cpuTemp":57.458,
+        "date":"2020-07-22 10:43:40.546159",
+        "Temperature":89.6,
+        "Humidity":95.0,
+        "SoundLevel":175
+    },
+    {
+        "LightSensor":253,
+        "cpuTemp":56.92,
+        "date":"2020-07-22 10:53:41.945108",
+        "Temperature":87.8,
+        "Humidity":95.0,
+        "SoundLevel":173
+    },
+    {
+        "LightSensor":255,
+        "cpuTemp":57.996,
+        "date":"2020-07-22 11:03:43.258651",
+        "Temperature":87.8,
+        "Humidity":95.0,
+        "SoundLevel":174
+    },
+    {
+        "LightSensor":249,
+        "cpuTemp":57.996,
+        "date":"2020-07-22 11:13:43.997126",
+        "Temperature":89.6,
+        "Humidity":95.0,
+        "SoundLevel":174
+    },
+    {
+        "LightSensor":246,
+        "cpuTemp":58.533,
+        "date":"2020-07-22 11:23:44.758133",
+        "Temperature":89.6,
+        "Humidity":95.0,
+        "SoundLevel":173
+    },
+    {
+        "LightSensor":245,
+        "cpuTemp":59.072,
+        "date":"2020-07-22 11:33:45.509005",
+        "Temperature":91.4,
+        "Humidity":95.0,
+        "SoundLevel":172
+    },
+    {
+        "LightSensor":245,
+        "cpuTemp":59.072,
+        "date":"2020-07-22 11:43:46.256417",
+        "Temperature":91.4,
+        "Humidity":91.0,
+        "SoundLevel":172
+    },
+    {
+        "LightSensor":244,
+        "cpuTemp":59.072,
+        "date":"2020-07-22 11:53:47.008815",
+        "Temperature":93.2,
+        "Humidity":88.0,
+        "SoundLevel":171
+    },
+    {
+        "LightSensor":247,
+        "cpuTemp":60.148,
+        "date":"2020-07-22 12:03:47.758296",
+        "Temperature":93.2,
+        "Humidity":87.0,
+        "SoundLevel":170
+    },
+    {
+        "LightSensor":239,
+        "cpuTemp":60.148,
+        "date":"2020-07-22 12:13:48.645645",
+        "Temperature":95.0,
+        "Humidity":83.0,
+        "SoundLevel":169
+    },
+    {
+        "LightSensor":247,
+        "cpuTemp":60.148,
+        "date":"2020-07-22 12:23:49.440221",
+        "Temperature":95.0,
+        "Humidity":83.0,
+        "SoundLevel":167
+    },
+    {
+        "LightSensor":244,
+        "cpuTemp":60.148,
+        "date":"2020-07-22 12:33:50.191702",
+        "Temperature":95.0,
+        "Humidity":82.0,
+        "SoundLevel":167
+    },
+    {
+        "LightSensor":245,
+        "cpuTemp":60.148,
+        "date":"2020-07-22 12:43:50.988903",
+        "Temperature":95.0,
+        "Humidity":80.0,
+        "SoundLevel":166
+    },
+    {
+        "LightSensor":240,
+        "cpuTemp":59.61,
+        "date":"2020-07-22 12:53:51.786665",
+        "Temperature":93.2,
+        "Humidity":83.0,
+        "SoundLevel":164
+    },
+    {
+        "LightSensor":246,
+        "cpuTemp":58.533,
+        "date":"2020-07-22 13:03:52.551609",
+        "Temperature":91.4,
+        "Humidity":86.0,
+        "SoundLevel":163
+    },
+    {
+        "LightSensor":243,
+        "cpuTemp":59.072,
+        "date":"2020-07-22 13:13:53.373857",
+        "Temperature":91.4,
+        "Humidity":87.0,
+        "SoundLevel":165
+    },
+    {
+        "LightSensor":248,
+        "cpuTemp":59.072,
+        "date":"2020-07-22 13:23:54.129761",
+        "Temperature":93.2,
+        "Humidity":82.0,
+        "SoundLevel":165
+    },
+    {
+        "LightSensor":238,
+        "cpuTemp":60.148,
+        "date":"2020-07-22 13:33:54.874083",
+        "Temperature":93.2,
+        "Humidity":80.0,
+        "SoundLevel":165
+    },
+    {
+        "LightSensor":241,
+        "cpuTemp":60.148,
+        "date":"2020-07-22 13:43:55.706607",
+        "Temperature":95.0,
+        "Humidity":77.0,
+        "SoundLevel":165
+    },
+    {
+        "LightSensor":239,
+        "cpuTemp":60.686,
+        "date":"2020-07-22 13:53:56.509188",
+        "Temperature":96.8,
+        "Humidity":74.0,
+        "SoundLevel":163
+    },
+    {
+        "LightSensor":247,
+        "cpuTemp":59.61,
+        "date":"2020-07-22 14:03:57.496328",
+        "Temperature":95.0,
+        "Humidity":73.0,
+        "SoundLevel":161
+    },
+    {
+        "LightSensor":253,
+        "cpuTemp":57.996,
+        "date":"2020-07-22 14:13:58.258836",
+        "Temperature":91.4,
+        "Humidity":79.0,
+        "SoundLevel":161
+    },
+    {
+        "LightSensor":255,
+        "cpuTemp":57.996,
+        "date":"2020-07-22 14:23:59.008554",
+        "Temperature":89.6,
+        "Humidity":82.0,
+        "SoundLevel":159
+    },
+    {
+        "LightSensor":248,
+        "cpuTemp":57.996,
+        "date":"2020-07-22 14:33:59.756391",
+        "Temperature":87.8,
+        "Humidity":84.0,
+        "SoundLevel":163
+    },
+    {
+        "LightSensor":259,
+        "cpuTemp":57.458,
+        "date":"2020-07-22 14:44:00.509854",
+        "Temperature":87.8,
+        "Humidity":84.0,
+        "SoundLevel":164
+    },
+    {
+        "LightSensor":248,
+        "cpuTemp":57.458,
+        "date":"2020-07-22 14:54:01.257663",
+        "Temperature":87.8,
+        "Humidity":86.0,
+        "SoundLevel":164
+    },
+    {
+        "LightSensor":255,
+        "cpuTemp":57.996,
+        "date":"2020-07-22 15:04:02.006599",
+        "Temperature":87.8,
+        "Humidity":87.0,
+        "SoundLevel":166
+    },
+    {
+        "LightSensor":253,
+        "cpuTemp":56.92,
+        "date":"2020-07-22 15:14:02.966671",
+        "Temperature":87.8,
+        "Humidity":88.0,
+        "SoundLevel":166
+    },
+    {
+        "LightSensor":253,
+        "cpuTemp":56.92,
+        "date":"2020-07-22 15:24:03.768720",
+        "Temperature":87.8,
+        "Humidity":89.0,
+        "SoundLevel":166
+    },
+    {
+        "LightSensor":255,
+        "cpuTemp":57.458,
+        "date":"2020-07-22 15:34:04.577044",
+        "Temperature":87.8,
+        "Humidity":92.0,
+        "SoundLevel":167
+    },
+    {
+        "LightSensor":253,
+        "cpuTemp":56.92,
+        "date":"2020-07-22 15:44:05.405124",
+        "Temperature":87.8,
+        "Humidity":93.0,
+        "SoundLevel":167
+    },
+    {
+        "LightSensor":249,
+        "cpuTemp":57.996,
+        "date":"2020-07-22 15:54:06.220484",
+        "Temperature":87.8,
+        "Humidity":94.0,
+        "SoundLevel":167
+    },
+    {
+        "LightSensor":252,
+        "cpuTemp":57.996,
+        "date":"2020-07-22 16:04:07.034342",
+        "Temperature":89.6,
+        "Humidity":94.0,
+        "SoundLevel":170
+    },
+    {
+        "LightSensor":240,
+        "cpuTemp":58.533,
+        "date":"2020-07-22 16:14:07.876595",
+        "Temperature":89.6,
+        "Humidity":92.0,
+        "SoundLevel":170
+    },
+    {
+        "LightSensor":235,
+        "cpuTemp":60.148,
+        "date":"2020-07-22 16:24:08.674946",
+        "Temperature":91.4,
+        "Humidity":85.0,
+        "SoundLevel":171
+    },
+    {
+        "LightSensor":197,
+        "cpuTemp":64.99,
+        "date":"2020-07-22 16:34:09.529491",
+        "Temperature":96.8,
+        "Humidity":77.0,
+        "SoundLevel":180
+    },
+    {
+        "LightSensor":189,
+        "cpuTemp":69.832,
+        "date":"2020-07-22 16:44:10.349672",
+        "Temperature":114.8,
+        "Humidity":52.0,
+        "SoundLevel":182
+    },
+    {
+        "LightSensor":215,
+        "cpuTemp":67.679,
+        "date":"2020-07-22 16:54:11.199837",
+        "Temperature":120.2,
+        "Humidity":44.0,
+        "SoundLevel":167
+    },
+    {
+        "LightSensor":227,
+        "cpuTemp":63.376,
+        "date":"2020-07-22 17:04:12.043198",
+        "Temperature":105.8,
+        "Humidity":57.0,
+        "SoundLevel":158
+    },
+    {
+        "LightSensor":241,
+        "cpuTemp":60.686,
+        "date":"2020-07-22 17:14:12.770258",
+        "Temperature":96.8,
+        "Humidity":71.0,
+        "SoundLevel":156
+    },
+    {
+        "LightSensor":251,
+        "cpuTemp":59.61,
+        "date":"2020-07-22 17:24:13.599041",
+        "Temperature":91.4,
+        "Humidity":80.0,
+        "SoundLevel":155
+    },
+    {
+        "LightSensor":243,
+        "cpuTemp":59.072,
+        "date":"2020-07-22 17:34:14.443974",
+        "Temperature":91.4,
+        "Humidity":83.0,
+        "SoundLevel":159
+    },
+    {
+        "LightSensor":239,
+        "cpuTemp":59.61,
+        "date":"2020-07-22 17:44:15.296438",
+        "Temperature":93.2,
+        "Humidity":80.0,
+        "SoundLevel":159
+    },
+    {
+        "LightSensor":240,
+        "cpuTemp":60.148,
+        "date":"2020-07-22 17:54:16.098224",
+        "Temperature":93.2,
+        "Humidity":79.0,
+        "SoundLevel":159
+    },
+    {
+        "LightSensor":235,
+        "cpuTemp":60.148,
+        "date":"2020-07-22 18:04:16.844064",
+        "Temperature":95.0,
+        "Humidity":76.0,
+        "SoundLevel":159
+    },
+    {
+        "LightSensor":246,
+        "cpuTemp":59.072,
+        "date":"2020-07-22 18:14:17.667390",
+        "Temperature":93.2,
+        "Humidity":77.0,
+        "SoundLevel":158
+    },
+    {
+        "LightSensor":255,
+        "cpuTemp":58.533,
+        "date":"2020-07-22 18:24:18.456919",
+        "Temperature":91.4,
+        "Humidity":80.0,
+        "SoundLevel":159
+    },
+    {
+        "LightSensor":248,
+        "cpuTemp":58.533,
+        "date":"2020-07-22 18:34:19.256602",
+        "Temperature":89.6,
+        "Humidity":85.0,
+        "SoundLevel":159
+    },
+    {
+        "LightSensor":250,
+        "cpuTemp":57.996,
+        "date":"2020-07-22 18:44:20.007527",
+        "Temperature":89.6,
+        "Humidity":86.0,
+        "SoundLevel":161
+    },
+    {
+        "LightSensor":254,
+        "cpuTemp":57.996,
+        "date":"2020-07-22 18:54:20.863714",
+        "Temperature":89.6,
+        "Humidity":88.0,
+        "SoundLevel":161
+    },
+    {
+        "LightSensor":247,
+        "cpuTemp":56.92,
+        "date":"2020-07-22 19:04:21.662512",
+        "Temperature":87.8,
+        "Humidity":92.0,
+        "SoundLevel":161
+    },
+    {
+        "LightSensor":253,
+        "cpuTemp":57.458,
+        "date":"2020-07-22 19:14:22.456367",
+        "Temperature":87.8,
+        "Humidity":95.0,
+        "SoundLevel":163
+    },
+    {
+        "LightSensor":254,
+        "cpuTemp":56.92,
+        "date":"2020-07-22 19:24:23.323478",
+        "Temperature":87.8,
+        "Humidity":95.0,
+        "SoundLevel":162
+    },
+    {
+        "LightSensor":263,
+        "cpuTemp":56.92,
+        "date":"2020-07-22 19:34:29.214124",
+        "Temperature":86.0,
+        "Humidity":95.0,
+        "SoundLevel":163
+    },
+    {
+        "LightSensor":258,
+        "cpuTemp":56.382,
+        "date":"2020-07-22 19:44:30.007787",
+        "Temperature":86.0,
+        "Humidity":95.0,
+        "SoundLevel":164
+    },
+    {
+        "LightSensor":260,
+        "cpuTemp":56.382,
+        "date":"2020-07-22 19:54:30.757364",
+        "Temperature":86.0,
+        "Humidity":95.0,
+        "SoundLevel":164
+    },
+    {
+        "LightSensor":266,
+        "cpuTemp":55.843,
+        "date":"2020-07-22 20:04:31.632111",
+        "Temperature":86.0,
+        "Humidity":95.0,
+        "SoundLevel":165
+    },
+    {
+        "LightSensor":261,
+        "cpuTemp":55.843,
+        "date":"2020-07-22 20:14:32.466181",
+        "Temperature":84.2,
+        "Humidity":95.0,
+        "SoundLevel":168
+    },
+    {
+        "LightSensor":263,
+        "cpuTemp":56.382,
+        "date":"2020-07-22 20:24:33.293516",
+        "Temperature":84.2,
+        "Humidity":95.0,
+        "SoundLevel":167
+    },
+    {
+        "LightSensor":263,
+        "cpuTemp":55.843,
+        "date":"2020-07-22 20:34:34.034554",
+        "Temperature":84.2,
+        "Humidity":95.0,
+        "SoundLevel":168
+    },
+    {
+        "LightSensor":267,
+        "cpuTemp":56.382,
+        "date":"2020-07-22 20:44:34.757226",
+        "Temperature":84.2,
+        "Humidity":95.0,
+        "SoundLevel":169
+    },
+    {
+        "LightSensor":261,
+        "cpuTemp":55.843,
+        "date":"2020-07-22 20:54:35.629944",
+        "Temperature":84.2,
+        "Humidity":95.0,
+        "SoundLevel":169
+    },
+    {
+        "LightSensor":268,
+        "cpuTemp":55.843,
+        "date":"2020-07-22 21:04:36.479662",
+        "Temperature":84.2,
+        "Humidity":95.0,
+        "SoundLevel":170
+    },
+    {
+        "LightSensor":267,
+        "cpuTemp":55.843,
+        "date":"2020-07-22 21:14:37.284192",
+        "Temperature":84.2,
+        "Humidity":95.0,
+        "SoundLevel":169
+    },
+    {
+        "LightSensor":262,
+        "cpuTemp":54.768,
+        "date":"2020-07-22 21:24:38.112678",
+        "Temperature":84.2,
+        "Humidity":95.0,
+        "SoundLevel":170
+    },
+    {
+        "LightSensor":262,
+        "cpuTemp":55.306,
+        "date":"2020-07-22 21:34:38.947822",
+        "Temperature":84.2,
+        "Humidity":95.0,
+        "SoundLevel":170
+    },
+    {
+        "LightSensor":261,
+        "cpuTemp":55.843,
+        "date":"2020-07-22 21:44:39.759547",
+        "Temperature":84.2,
+        "Humidity":95.0,
+        "SoundLevel":171
+    },
+    {
+        "LightSensor":263,
+        "cpuTemp":55.843,
+        "date":"2020-07-22 21:54:41.154553",
+        "Temperature":84.2,
+        "Humidity":95.0,
+        "SoundLevel":171
+    },
+    {
+        "LightSensor":265,
+        "cpuTemp":54.768,
+        "date":"2020-07-22 22:04:42.507538",
+        "Temperature":84.2,
+        "Humidity":95.0,
+        "SoundLevel":171
+    },
+    {
+        "LightSensor":258,
+        "cpuTemp":54.768,
+        "date":"2020-07-22 22:14:43.903841",
+        "Temperature":84.2,
+        "Humidity":95.0,
+        "SoundLevel":171
+    },
+    {
+        "LightSensor":260,
+        "cpuTemp":55.306,
+        "date":"2020-07-22 22:24:44.757331",
+        "Temperature":82.4,
+        "Humidity":95.0,
+        "SoundLevel":169
+    },
+    {
+        "LightSensor":269,
+        "cpuTemp":54.768,
+        "date":"2020-07-22 22:34:45.507881",
+        "Temperature":82.4,
+        "Humidity":95.0,
+        "SoundLevel":172
+    },
+    {
+        "LightSensor":268,
+        "cpuTemp":55.843,
+        "date":"2020-07-22 22:44:46.372826",
+        "Temperature":82.4,
+        "Humidity":95.0,
+        "SoundLevel":173
+    },
+    {
+        "LightSensor":263,
+        "cpuTemp":54.768,
+        "date":"2020-07-22 22:54:47.206008",
+        "Temperature":82.4,
+        "Humidity":95.0,
+        "SoundLevel":173
+    },
+    {
+        "LightSensor":265,
+        "cpuTemp":54.768,
+        "date":"2020-07-22 23:04:48.038107",
+        "Temperature":82.4,
+        "Humidity":95.0,
+        "SoundLevel":173
+    },
+    {
+        "LightSensor":264,
+        "cpuTemp":54.768,
+        "date":"2020-07-22 23:14:48.840519",
+        "Temperature":84.2,
+        "Humidity":95.0,
+        "SoundLevel":173
+    },
+    {
+        "LightSensor":259,
+        "cpuTemp":55.306,
+        "date":"2020-07-22 23:24:49.672681",
+        "Temperature":82.4,
+        "Humidity":95.0,
+        "SoundLevel":174
+    },
+    {
+        "LightSensor":271,
+        "cpuTemp":54.768,
+        "date":"2020-07-22 23:34:50.508646",
+        "Temperature":82.4,
+        "Humidity":95.0,
+        "SoundLevel":174
+    },
+    {
+        "LightSensor":270,
+        "cpuTemp":54.768,
+        "date":"2020-07-22 23:44:51.359996",
+        "Temperature":82.4,
+        "Humidity":95.0,
+        "SoundLevel":174
+    },
+    {
+        "LightSensor":265,
+        "cpuTemp":55.306,
+        "date":"2020-07-22 23:54:52.187695",
+        "Temperature":82.4,
+        "Humidity":95.0,
+        "SoundLevel":174
+    },
+    {
+        "LightSensor":266,
+        "cpuTemp":54.768,
+        "date":"2020-07-23 00:04:53.040113",
+        "Temperature":82.4,
+        "Humidity":95.0,
+        "SoundLevel":173
+    },
+    {
+        "LightSensor":273,
+        "cpuTemp":54.768,
+        "date":"2020-07-23 00:14:53.855137",
+        "Temperature":82.4,
+        "Humidity":95.0,
+        "SoundLevel":175
+    },
+    {
+        "LightSensor":271,
+        "cpuTemp":54.768,
+        "date":"2020-07-23 00:24:54.605702",
+        "Temperature":80.6,
+        "Humidity":95.0,
+        "SoundLevel":175
+    },
+    {
+        "LightSensor":270,
+        "cpuTemp":53.692,
+        "date":"2020-07-23 00:34:55.370289",
+        "Temperature":80.6,
+        "Humidity":95.0,
+        "SoundLevel":175
+    },
+    {
+        "LightSensor":264,
+        "cpuTemp":54.23,
+        "date":"2020-07-23 00:44:56.148763",
+        "Temperature":80.6,
+        "Humidity":95.0,
+        "SoundLevel":176
+    },
+    {
+        "LightSensor":272,
+        "cpuTemp":54.23,
+        "date":"2020-07-23 00:54:56.883837",
+        "Temperature":80.6,
+        "Humidity":95.0,
+        "SoundLevel":175
+    },
+    {
+        "LightSensor":270,
+        "cpuTemp":53.692,
+        "date":"2020-07-23 01:04:57.590515",
+        "Temperature":80.6,
+        "Humidity":95.0,
+        "SoundLevel":175
+    },
+    {
+        "LightSensor":264,
+        "cpuTemp":53.692,
+        "date":"2020-07-23 01:14:58.389440",
+        "Temperature":80.6,
+        "Humidity":95.0,
+        "SoundLevel":176
+    },
+    {
+        "LightSensor":268,
+        "cpuTemp":53.692,
+        "date":"2020-07-23 01:24:59.243299",
+        "Temperature":80.6,
+        "Humidity":95.0,
+        "SoundLevel":177
+    },
+    {
+        "LightSensor":269,
+        "cpuTemp":53.692,
+        "date":"2020-07-23 01:35:00.258515",
+        "Temperature":80.6,
+        "Humidity":95.0,
+        "SoundLevel":177
+    },
+    {
+        "LightSensor":272,
+        "cpuTemp":53.692,
+        "date":"2020-07-23 01:45:01.117979",
+        "Temperature":80.6,
+        "Humidity":95.0,
+        "SoundLevel":179
+    },
+    {
+        "LightSensor":273,
+        "cpuTemp":53.692,
+        "date":"2020-07-23 01:55:01.927857",
+        "Temperature":80.6,
+        "Humidity":95.0,
+        "SoundLevel":179
+    },
+    {
+        "LightSensor":274,
+        "cpuTemp":53.692,
+        "date":"2020-07-23 02:05:02.748861",
+        "Temperature":80.6,
+        "Humidity":95.0,
+        "SoundLevel":179
+    },
+    {
+        "LightSensor":275,
+        "cpuTemp":53.692,
+        "date":"2020-07-23 02:15:03.509111",
+        "Temperature":78.8,
+        "Humidity":95.0,
+        "SoundLevel":179
+    },
+    {
+        "LightSensor":272,
+        "cpuTemp":53.692,
+        "date":"2020-07-23 02:25:04.256833",
+        "Temperature":78.8,
+        "Humidity":95.0,
+        "SoundLevel":178
+    },
+    {
+        "LightSensor":276,
+        "cpuTemp":53.692,
+        "date":"2020-07-23 02:35:05.009158",
+        "Temperature":78.8,
+        "Humidity":95.0,
+        "SoundLevel":178
+    },
+    {
+        "LightSensor":273,
+        "cpuTemp":53.692,
+        "date":"2020-07-23 02:45:05.848102",
+        "Temperature":78.8,
+        "Humidity":95.0,
+        "SoundLevel":179
+    },
+    {
+        "LightSensor":273,
+        "cpuTemp":53.692,
+        "date":"2020-07-23 02:55:06.593403",
+        "Temperature":78.8,
+        "Humidity":95.0,
+        "SoundLevel":180
+    },
+    {
+        "LightSensor":275,
+        "cpuTemp":53.692,
+        "date":"2020-07-23 03:05:07.333521",
+        "Temperature":78.8,
+        "Humidity":95.0,
+        "SoundLevel":181
+    },
+    {
+        "LightSensor":269,
+        "cpuTemp":53.692,
+        "date":"2020-07-23 03:15:08.182620",
+        "Temperature":78.8,
+        "Humidity":95.0,
+        "SoundLevel":181
+    },
+    {
+        "LightSensor":275,
+        "cpuTemp":53.692,
+        "date":"2020-07-23 03:25:08.988974",
+        "Temperature":78.8,
+        "Humidity":95.0,
+        "SoundLevel":180
+    },
+    {
+        "LightSensor":274,
+        "cpuTemp":53.154,
+        "date":"2020-07-23 03:35:09.756903",
+        "Temperature":78.8,
+        "Humidity":95.0,
+        "SoundLevel":180
+    },
+    {
+        "LightSensor":277,
+        "cpuTemp":53.692,
+        "date":"2020-07-23 03:45:10.599205",
+        "Temperature":78.8,
+        "Humidity":95.0,
+        "SoundLevel":181
+    },
+    {
+        "LightSensor":281,
+        "cpuTemp":53.154,
+        "date":"2020-07-23 03:55:11.452167",
+        "Temperature":78.8,
+        "Humidity":95.0,
+        "SoundLevel":180
+    },
+    {
+        "LightSensor":271,
+        "cpuTemp":53.154,
+        "date":"2020-07-23 04:05:12.257247",
+        "Temperature":78.8,
+        "Humidity":95.0,
+        "SoundLevel":181
+    },
+    {
+        "LightSensor":272,
+        "cpuTemp":52.615,
+        "date":"2020-07-23 04:15:13.121345",
+        "Temperature":78.8,
+        "Humidity":95.0,
+        "SoundLevel":181
+    },
+    {
+        "LightSensor":271,
+        "cpuTemp":52.615,
+        "date":"2020-07-23 04:25:13.919611",
+        "Temperature":77.0,
+        "Humidity":95.0,
+        "SoundLevel":181
+    },
+    {
+        "LightSensor":272,
+        "cpuTemp":52.615,
+        "date":"2020-07-23 04:35:14.759712",
+        "Temperature":78.8,
+        "Humidity":95.0,
+        "SoundLevel":181
+    },
+    {
+        "LightSensor":276,
+        "cpuTemp":53.154,
+        "date":"2020-07-23 04:45:15.609613",
+        "Temperature":77.0,
+        "Humidity":95.0,
+        "SoundLevel":180
+    },
+    {
+        "LightSensor":280,
+        "cpuTemp":52.615,
+        "date":"2020-07-23 04:55:16.362587",
+        "Temperature":77.0,
+        "Humidity":95.0,
+        "SoundLevel":181
+    },
+    {
+        "LightSensor":270,
+        "cpuTemp":52.615,
+        "date":"2020-07-23 05:05:17.131657",
+        "Temperature":77.0,
+        "Humidity":95.0,
+        "SoundLevel":181
+    },
+    {
+        "LightSensor":271,
+        "cpuTemp":52.078,
+        "date":"2020-07-23 05:15:17.984277",
+        "Temperature":77.0,
+        "Humidity":95.0,
+        "SoundLevel":182
+    },
+    {
+        "LightSensor":272,
+        "cpuTemp":52.078,
+        "date":"2020-07-23 05:25:18.788450",
+        "Temperature":77.0,
+        "Humidity":95.0,
+        "SoundLevel":182
+    },
+    {
+        "LightSensor":277,
+        "cpuTemp":52.615,
+        "date":"2020-07-23 05:35:19.638813",
+        "Temperature":77.0,
+        "Humidity":95.0,
+        "SoundLevel":182
+    },
+    {
+        "LightSensor":279,
+        "cpuTemp":52.615,
+        "date":"2020-07-23 05:45:20.502776",
+        "Temperature":77.0,
+        "Humidity":95.0,
+        "SoundLevel":182
+    },
+    {
+        "LightSensor":279,
+        "cpuTemp":52.615,
+        "date":"2020-07-23 05:55:21.257195",
+        "Temperature":77.0,
+        "Humidity":95.0,
+        "SoundLevel":181
+    },
+    {
+        "LightSensor":277,
+        "cpuTemp":52.615,
+        "date":"2020-07-23 06:05:22.124125",
+        "Temperature":77.0,
+        "Humidity":95.0,
+        "SoundLevel":185
+    },
+    {
+        "LightSensor":276,
+        "cpuTemp":52.615,
+        "date":"2020-07-23 06:15:22.904731",
+        "Temperature":77.0,
+        "Humidity":95.0,
+        "SoundLevel":182
+    },
+    {
+        "LightSensor":279,
+        "cpuTemp":52.615,
+        "date":"2020-07-23 06:25:23.758966",
+        "Temperature":77.0,
+        "Humidity":95.0,
+        "SoundLevel":184
+    },
+    {
+        "LightSensor":277,
+        "cpuTemp":53.154,
+        "date":"2020-07-23 06:35:24.529175",
+        "Temperature":77.0,
+        "Humidity":95.0,
+        "SoundLevel":183
+    },
+    {
+        "LightSensor":270,
+        "cpuTemp":52.615,
+        "date":"2020-07-23 06:45:25.365375",
+        "Temperature":77.0,
+        "Humidity":95.0,
+        "SoundLevel":184
+    },
+    {
+        "LightSensor":272,
+        "cpuTemp":52.615,
+        "date":"2020-07-23 06:55:26.202671",
+        "Temperature":77.0,
+        "Humidity":95.0,
+        "SoundLevel":182
+    },
+    {
+        "LightSensor":266,
+        "cpuTemp":53.154,
+        "date":"2020-07-23 07:05:27.010110",
+        "Temperature":78.8,
+        "Humidity":95.0,
+        "SoundLevel":184
+    },
+    {
+        "LightSensor":267,
+        "cpuTemp":53.154,
+        "date":"2020-07-23 07:15:27.777962",
+        "Temperature":78.8,
+        "Humidity":95.0,
+        "SoundLevel":185
+    },
+    {
+        "LightSensor":267,
+        "cpuTemp":52.615,
+        "date":"2020-07-23 07:25:28.637061",
+        "Temperature":78.8,
+        "Humidity":95.0,
+        "SoundLevel":183
+    },
+    {
+        "LightSensor":270,
+        "cpuTemp":53.154,
+        "date":"2020-07-23 07:35:29.478140",
+        "Temperature":78.8,
+        "Humidity":95.0,
+        "SoundLevel":184
+    },
+    {
+        "LightSensor":263,
+        "cpuTemp":53.692,
+        "date":"2020-07-23 07:45:30.331194",
+        "Temperature":80.6,
+        "Humidity":95.0,
+        "SoundLevel":185
+    },
+    {
+        "LightSensor":267,
+        "cpuTemp":53.692,
+        "date":"2020-07-23 07:55:31.169977",
+        "Temperature":80.6,
+        "Humidity":95.0,
+        "SoundLevel":182
+    },
+    {
+        "LightSensor":268,
+        "cpuTemp":54.23,
+        "date":"2020-07-23 08:05:31.999366",
+        "Temperature":80.6,
+        "Humidity":95.0,
+        "SoundLevel":185
+    },
+    {
+        "LightSensor":265,
+        "cpuTemp":55.306,
+        "date":"2020-07-23 08:15:32.849367",
+        "Temperature":82.4,
+        "Humidity":95.0,
+        "SoundLevel":185
+    },
+    {
+        "LightSensor":263,
+        "cpuTemp":54.768,
+        "date":"2020-07-23 08:25:33.690664",
+        "Temperature":82.4,
+        "Humidity":95.0,
+        "SoundLevel":184
+    },
+    {
+        "LightSensor":265,
+        "cpuTemp":54.768,
+        "date":"2020-07-23 08:35:34.537802",
+        "Temperature":82.4,
+        "Humidity":95.0,
+        "SoundLevel":183
+    },
+    {
+        "LightSensor":257,
+        "cpuTemp":54.23,
+        "date":"2020-07-23 08:45:35.683378",
+        "Temperature":82.4,
+        "Humidity":95.0,
+        "SoundLevel":183
+    },
+    {
+        "LightSensor":261,
+        "cpuTemp":54.768,
+        "date":"2020-07-23 08:55:36.524039",
+        "Temperature":84.2,
+        "Humidity":95.0,
+        "SoundLevel":182
+    },
+    {
+        "LightSensor":260,
+        "cpuTemp":55.843,
+        "date":"2020-07-23 09:05:37.354070",
+        "Temperature":84.2,
+        "Humidity":95.0,
+        "SoundLevel":182
+    },
+    {
+        "LightSensor":261,
+        "cpuTemp":55.843,
+        "date":"2020-07-23 09:15:38.220711",
+        "Temperature":84.2,
+        "Humidity":95.0,
+        "SoundLevel":182
+    },
+    {
+        "LightSensor":255,
+        "cpuTemp":55.843,
+        "date":"2020-07-23 09:25:39.084765",
+        "Temperature":84.2,
+        "Humidity":95.0,
+        "SoundLevel":181
+    },
+    {
+        "LightSensor":253,
+        "cpuTemp":56.382,
+        "date":"2020-07-23 09:35:40.035537",
+        "Temperature":86.0,
+        "Humidity":95.0,
+        "SoundLevel":181
+    },
+    {
+        "LightSensor":251,
+        "cpuTemp":56.382,
+        "date":"2020-07-23 09:45:41.192266",
+        "Temperature":86.0,
+        "Humidity":95.0,
+        "SoundLevel":181
+    },
+    {
+        "LightSensor":255,
+        "cpuTemp":56.382,
+        "date":"2020-07-23 09:55:42.624480",
+        "Temperature":86.0,
+        "Humidity":95.0,
+        "SoundLevel":178
+    },
+    {
+        "LightSensor":249,
+        "cpuTemp":55.843,
+        "date":"2020-07-23 10:05:43.974974",
+        "Temperature":87.8,
+        "Humidity":95.0,
+        "SoundLevel":178
+    },
+    {
+        "LightSensor":253,
+        "cpuTemp":56.92,
+        "date":"2020-07-23 10:15:44.930524",
+        "Temperature":87.8,
+        "Humidity":95.0,
+        "SoundLevel":178
+    },
+    {
+        "LightSensor":250,
+        "cpuTemp":56.92,
+        "date":"2020-07-23 10:25:50.851055",
+        "Temperature":87.8,
+        "Humidity":93.0,
+        "SoundLevel":178
+    },
+    {
+        "LightSensor":250,
+        "cpuTemp":56.92,
+        "date":"2020-07-23 10:35:51.713510",
+        "Temperature":89.6,
+        "Humidity":91.0,
+        "SoundLevel":177
+    },
+    {
+        "LightSensor":251,
+        "cpuTemp":57.458,
+        "date":"2020-07-23 10:45:52.524231",
+        "Temperature":89.6,
+        "Humidity":89.0,
+        "SoundLevel":177
+    },
+    {
+        "LightSensor":243,
+        "cpuTemp":57.996,
+        "date":"2020-07-23 10:55:53.394363",
+        "Temperature":89.6,
+        "Humidity":88.0,
+        "SoundLevel":176
+    },
+    {
+        "LightSensor":246,
+        "cpuTemp":57.996,
+        "date":"2020-07-23 11:05:54.253380",
+        "Temperature":89.6,
+        "Humidity":87.0,
+        "SoundLevel":175
+    },
+    {
+        "LightSensor":246,
+        "cpuTemp":57.996,
+        "date":"2020-07-23 11:15:55.123852",
+        "Temperature":91.4,
+        "Humidity":86.0,
+        "SoundLevel":174
+    },
+    {
+        "LightSensor":246,
+        "cpuTemp":57.996,
+        "date":"2020-07-23 11:25:55.967848",
+        "Temperature":91.4,
+        "Humidity":85.0,
+        "SoundLevel":173
+    },
+    {
+        "LightSensor":237,
+        "cpuTemp":58.533,
+        "date":"2020-07-23 11:35:56.852000",
+        "Temperature":91.4,
+        "Humidity":84.0,
+        "SoundLevel":172
+    },
+    {
+        "LightSensor":242,
+        "cpuTemp":57.996,
+        "date":"2020-07-23 11:45:57.695632",
+        "Temperature":91.4,
+        "Humidity":83.0,
+        "SoundLevel":173
+    },
+    {
+        "LightSensor":241,
+        "cpuTemp":59.072,
+        "date":"2020-07-23 11:55:58.551589",
+        "Temperature":93.2,
+        "Humidity":83.0,
+        "SoundLevel":173
+    },
+    {
+        "LightSensor":241,
+        "cpuTemp":59.072,
+        "date":"2020-07-23 12:05:59.393002",
+        "Temperature":93.2,
+        "Humidity":81.0,
+        "SoundLevel":171
+    },
+    {
+        "LightSensor":234,
+        "cpuTemp":59.072,
+        "date":"2020-07-23 12:16:00.260014",
+        "Temperature":93.2,
+        "Humidity":80.0,
+        "SoundLevel":169
+    },
+    {
+        "LightSensor":239,
+        "cpuTemp":60.148,
+        "date":"2020-07-23 12:26:01.025980",
+        "Temperature":93.2,
+        "Humidity":79.0,
+        "SoundLevel":170
+    },
+    {
+        "LightSensor":238,
+        "cpuTemp":59.072,
+        "date":"2020-07-23 12:36:01.841678",
+        "Temperature":95.0,
+        "Humidity":77.0,
+        "SoundLevel":168
+    },
+    {
+        "LightSensor":238,
+        "cpuTemp":60.148,
+        "date":"2020-07-23 12:46:02.934788",
+        "Temperature":95.0,
+        "Humidity":76.0,
+        "SoundLevel":167
+    },
+    {
+        "LightSensor":241,
+        "cpuTemp":59.072,
+        "date":"2020-07-23 12:56:03.781092",
+        "Temperature":95.0,
+        "Humidity":76.0,
+        "SoundLevel":166
+    },
+    {
+        "LightSensor":234,
+        "cpuTemp":59.072,
+        "date":"2020-07-23 13:06:04.594433",
+        "Temperature":93.2,
+        "Humidity":78.0,
+        "SoundLevel":167
+    },
+    {
+        "LightSensor":227,
+        "cpuTemp":60.686,
+        "date":"2020-07-23 13:16:05.444165",
+        "Temperature":93.2,
+        "Humidity":76.0,
+        "SoundLevel":167
+    },
+    {
+        "LightSensor":234,
+        "cpuTemp":60.686,
+        "date":"2020-07-23 13:26:06.218789",
+        "Temperature":96.8,
+        "Humidity":71.0,
+        "SoundLevel":167
+    },
+    {
+        "LightSensor":237,
+        "cpuTemp":61.224,
+        "date":"2020-07-23 13:36:07.061141",
+        "Temperature":98.6,
+        "Humidity":69.0,
+        "SoundLevel":164
+    },
+    {
+        "LightSensor":243,
+        "cpuTemp":60.148,
+        "date":"2020-07-23 13:46:07.908979",
+        "Temperature":96.8,
+        "Humidity":71.0,
+        "SoundLevel":163
+    },
+    {
+        "LightSensor":240,
+        "cpuTemp":60.148,
+        "date":"2020-07-23 13:56:08.759761",
+        "Temperature":95.0,
+        "Humidity":71.0,
+        "SoundLevel":159
+    },
+    {
+        "LightSensor":239,
+        "cpuTemp":60.148,
+        "date":"2020-07-23 14:06:09.531106",
+        "Temperature":93.2,
+        "Humidity":75.0,
+        "SoundLevel":162
+    },
+    {
+        "LightSensor":238,
+        "cpuTemp":60.148,
+        "date":"2020-07-23 14:16:10.343836",
+        "Temperature":95.0,
+        "Humidity":74.0,
+        "SoundLevel":163
+    },
+    {
+        "LightSensor":246,
+        "cpuTemp":60.148,
+        "date":"2020-07-23 14:26:11.131147",
+        "Temperature":96.8,
+        "Humidity":73.0,
+        "SoundLevel":162
+    },
+    {
+        "LightSensor":242,
+        "cpuTemp":59.61,
+        "date":"2020-07-23 14:36:11.902626",
+        "Temperature":95.0,
+        "Humidity":75.0,
+        "SoundLevel":162
+    },
+    {
+        "LightSensor":235,
+        "cpuTemp":60.148,
+        "date":"2020-07-23 14:46:12.718017",
+        "Temperature":95.0,
+        "Humidity":76.0,
+        "SoundLevel":163
+    },
+    {
+        "LightSensor":232,
+        "cpuTemp":60.686,
+        "date":"2020-07-23 14:56:13.584276",
+        "Temperature":95.0,
+        "Humidity":78.0,
+        "SoundLevel":163
+    },
+    {
+        "LightSensor":235,
+        "cpuTemp":60.686,
+        "date":"2020-07-23 15:06:14.395495",
+        "Temperature":96.8,
+        "Humidity":73.0,
+        "SoundLevel":162
+    },
+    {
+        "LightSensor":234,
+        "cpuTemp":61.224,
+        "date":"2020-07-23 15:16:15.221558",
+        "Temperature":98.6,
+        "Humidity":70.0,
+        "SoundLevel":162
+    },
+    {
+        "LightSensor":232,
+        "cpuTemp":61.224,
+        "date":"2020-07-23 15:26:16.064647",
+        "Temperature":98.6,
+        "Humidity":71.0,
+        "SoundLevel":161
+    },
+    {
+        "LightSensor":227,
+        "cpuTemp":61.761,
+        "date":"2020-07-23 15:36:16.852633",
+        "Temperature":98.6,
+        "Humidity":69.0,
+        "SoundLevel":159
+    },
+    {
+        "LightSensor":232,
+        "cpuTemp":61.761,
+        "date":"2020-07-23 15:46:17.647863",
+        "Temperature":98.6,
+        "Humidity":68.0,
+        "SoundLevel":161
+    },
+    {
+        "LightSensor":224,
+        "cpuTemp":61.224,
+        "date":"2020-07-23 15:56:18.518571",
+        "Temperature":96.8,
+        "Humidity":72.0,
+        "SoundLevel":160
+    },
+    {
+        "LightSensor":215,
+        "cpuTemp":62.3,
+        "date":"2020-07-23 16:06:19.362480",
+        "Temperature":98.6,
+        "Humidity":70.0,
+        "SoundLevel":166
+    },
+    {
+        "LightSensor":179,
+        "cpuTemp":66.604,
+        "date":"2020-07-23 16:16:20.200595",
+        "Temperature":104.0,
+        "Humidity":59.0,
+        "SoundLevel":177
+    },
+    {
+        "LightSensor":131,
+        "cpuTemp":75.212,
+        "date":"2020-07-23 16:26:21.044031",
+        "Temperature":118.4,
+        "Humidity":42.0,
+        "SoundLevel":245
+    },
+    {
+        "LightSensor":121,
+        "cpuTemp":80.592,
+        "date":"2020-07-23 16:36:21.894680",
+        "Temperature":138.2,
+        "Humidity":26.0,
+        "SoundLevel":191
+    },
+    {
+        "LightSensor":157,
+        "cpuTemp":75.75,
+        "date":"2020-07-23 16:46:22.775882",
+        "Temperature":138.2,
+        "Humidity":25.0,
+        "SoundLevel":156
+    },
+    {
+        "LightSensor":205,
+        "cpuTemp":68.756,
+        "date":"2020-07-23 16:56:23.638518",
+        "Temperature":118.4,
+        "Humidity":39.0,
+        "SoundLevel":141
+    },
+    {
+        "LightSensor":223,
+        "cpuTemp":63.914,
+        "date":"2020-07-23 17:06:24.451790",
+        "Temperature":102.2,
+        "Humidity":56.0,
+        "SoundLevel":140
+    },
+    {
+        "LightSensor":230,
+        "cpuTemp":61.224,
+        "date":"2020-07-23 17:16:25.295928",
+        "Temperature":96.8,
+        "Humidity":65.0,
+        "SoundLevel":141
+    },
+    {
+        "LightSensor":239,
+        "cpuTemp":60.148,
+        "date":"2020-07-23 17:26:26.130633",
+        "Temperature":93.2,
+        "Humidity":69.0,
+        "SoundLevel":144
+    },
+    {
+        "LightSensor":242,
+        "cpuTemp":59.61,
+        "date":"2020-07-23 17:36:26.946659",
+        "Temperature":91.4,
+        "Humidity":74.0,
+        "SoundLevel":146
+    },
+    {
+        "LightSensor":232,
+        "cpuTemp":60.148,
+        "date":"2020-07-23 17:46:27.668417",
+        "Temperature":91.4,
+        "Humidity":77.0,
+        "SoundLevel":149
+    },
+    {
+        "LightSensor":237,
+        "cpuTemp":59.072,
+        "date":"2020-07-23 17:56:28.482442",
+        "Temperature":93.2,
+        "Humidity":75.0,
+        "SoundLevel":151
+    },
+    {
+        "LightSensor":238,
+        "cpuTemp":59.072,
+        "date":"2020-07-23 18:06:29.321756",
+        "Temperature":93.2,
+        "Humidity":76.0,
+        "SoundLevel":152
+    },
+    {
+        "LightSensor":241,
+        "cpuTemp":59.61,
+        "date":"2020-07-23 18:16:30.179520",
+        "Temperature":93.2,
+        "Humidity":77.0,
+        "SoundLevel":154
+    },
+    {
+        "LightSensor":242,
+        "cpuTemp":59.61,
+        "date":"2020-07-23 18:26:30.976144",
+        "Temperature":91.4,
+        "Humidity":79.0,
+        "SoundLevel":154
+    },
+    {
+        "LightSensor":245,
+        "cpuTemp":59.072,
+        "date":"2020-07-23 18:36:31.785562",
+        "Temperature":91.4,
+        "Humidity":82.0,
+        "SoundLevel":155
+    },
+    {
+        "LightSensor":247,
+        "cpuTemp":59.072,
+        "date":"2020-07-23 18:46:32.647705",
+        "Temperature":91.4,
+        "Humidity":84.0,
+        "SoundLevel":156
+    },
+    {
+        "LightSensor":245,
+        "cpuTemp":58.533,
+        "date":"2020-07-23 18:56:33.430331",
+        "Temperature":89.6,
+        "Humidity":84.0,
+        "SoundLevel":157
+    },
+    {
+        "LightSensor":246,
+        "cpuTemp":57.996,
+        "date":"2020-07-23 19:06:34.297489",
+        "Temperature":89.6,
+        "Humidity":85.0,
+        "SoundLevel":159
+    },
+    {
+        "LightSensor":242,
+        "cpuTemp":58.533,
+        "date":"2020-07-23 19:16:35.122308",
+        "Temperature":89.6,
+        "Humidity":85.0,
+        "SoundLevel":160
+    },
+    {
+        "LightSensor":249,
+        "cpuTemp":57.996,
+        "date":"2020-07-23 19:26:36.134429",
+        "Temperature":89.6,
+        "Humidity":87.0,
+        "SoundLevel":160
+    },
+    {
+        "LightSensor":244,
+        "cpuTemp":57.996,
+        "date":"2020-07-23 19:36:36.940417",
+        "Temperature":87.8,
+        "Humidity":90.0,
+        "SoundLevel":161
+    },
+    {
+        "LightSensor":250,
+        "cpuTemp":57.458,
+        "date":"2020-07-23 19:46:37.792518",
+        "Temperature":87.8,
+        "Humidity":92.0,
+        "SoundLevel":160
+    },
+    {
+        "LightSensor":252,
+        "cpuTemp":57.458,
+        "date":"2020-07-23 19:56:38.638608",
+        "Temperature":87.8,
+        "Humidity":94.0,
+        "SoundLevel":163
+    },
+    {
+        "LightSensor":249,
+        "cpuTemp":57.458,
+        "date":"2020-07-23 20:06:39.480386",
+        "Temperature":86.0,
+        "Humidity":95.0,
+        "SoundLevel":163
+    },
+    {
+        "LightSensor":247,
+        "cpuTemp":56.92,
+        "date":"2020-07-23 20:16:40.309390",
+        "Temperature":86.0,
+        "Humidity":95.0,
+        "SoundLevel":164
+    },
+    {
+        "LightSensor":248,
+        "cpuTemp":56.92,
+        "date":"2020-07-23 20:26:41.123200",
+        "Temperature":86.0,
+        "Humidity":95.0,
+        "SoundLevel":165
+    },
+    {
+        "LightSensor":252,
+        "cpuTemp":56.382,
+        "date":"2020-07-23 20:36:42.328930",
+        "Temperature":86.0,
+        "Humidity":95.0,
+        "SoundLevel":164
+    },
+    {
+        "LightSensor":255,
+        "cpuTemp":56.92,
+        "date":"2020-07-23 20:46:43.689806",
+        "Temperature":86.0,
+        "Humidity":95.0,
+        "SoundLevel":166
+    },
+    {
+        "LightSensor":250,
+        "cpuTemp":56.382,
+        "date":"2020-07-23 20:56:44.962904",
+        "Temperature":86.0,
+        "Humidity":95.0,
+        "SoundLevel":166
+    },
+    {
+        "LightSensor":255,
+        "cpuTemp":56.382,
+        "date":"2020-07-23 21:06:45.806587",
+        "Temperature":86.0,
+        "Humidity":95.0,
+        "SoundLevel":167
+    },
+    {
+        "LightSensor":255,
+        "cpuTemp":56.382,
+        "date":"2020-07-23 21:16:46.600100",
+        "Temperature":86.0,
+        "Humidity":95.0,
+        "SoundLevel":167
+    },
+    {
+        "LightSensor":251,
+        "cpuTemp":56.92,
+        "date":"2020-07-23 21:26:47.417768",
+        "Temperature":86.0,
+        "Humidity":95.0,
+        "SoundLevel":169
+    },
+    {
+        "LightSensor":254,
+        "cpuTemp":56.382,
+        "date":"2020-07-23 21:36:48.270903",
+        "Temperature":84.2,
+        "Humidity":95.0,
+        "SoundLevel":169
+    },
+    {
+        "LightSensor":259,
+        "cpuTemp":55.843,
+        "date":"2020-07-23 21:46:49.114365",
+        "Temperature":84.2,
+        "Humidity":95.0,
+        "SoundLevel":169
+    },
+    {
+        "LightSensor":251,
+        "cpuTemp":56.382,
+        "date":"2020-07-23 21:56:49.973529",
+        "Temperature":84.2,
+        "Humidity":95.0,
+        "SoundLevel":169
+    },
+    {
+        "LightSensor":260,
+        "cpuTemp":56.92,
+        "date":"2020-07-23 22:06:50.754646",
+        "Temperature":84.2,
+        "Humidity":95.0,
+        "SoundLevel":170
+    },
+    {
+        "LightSensor":255,
+        "cpuTemp":55.843,
+        "date":"2020-07-23 22:16:51.533998",
+        "Temperature":84.2,
+        "Humidity":95.0,
+        "SoundLevel":171
+    },
+    {
+        "LightSensor":255,
+        "cpuTemp":55.843,
+        "date":"2020-07-23 22:26:52.363348",
+        "Temperature":84.2,
+        "Humidity":95.0,
+        "SoundLevel":171
+    },
+    {
+        "LightSensor":257,
+        "cpuTemp":55.843,
+        "date":"2020-07-23 22:36:53.179917",
+        "Temperature":84.2,
+        "Humidity":95.0,
+        "SoundLevel":171
+    },
+    {
+        "LightSensor":259,
+        "cpuTemp":55.843,
+        "date":"2020-07-23 22:46:54.011099",
+        "Temperature":84.2,
+        "Humidity":95.0,
+        "SoundLevel":171
+    },
+    {
+        "LightSensor":255,
+        "cpuTemp":55.306,
+        "date":"2020-07-23 22:56:54.846176",
+        "Temperature":84.2,
+        "Humidity":95.0,
+        "SoundLevel":171
+    },
+    {
+        "LightSensor":257,
+        "cpuTemp":55.843,
+        "date":"2020-07-23 23:06:55.688144",
+        "Temperature":84.2,
+        "Humidity":95.0,
+        "SoundLevel":173
+    },
+    {
+        "LightSensor":252,
+        "cpuTemp":55.843,
+        "date":"2020-07-23 23:16:56.504354",
+        "Temperature":84.2,
+        "Humidity":95.0,
+        "SoundLevel":173
+    },
+    {
+        "LightSensor":262,
+        "cpuTemp":55.843,
+        "date":"2020-07-23 23:26:57.374717",
+        "Temperature":84.2,
+        "Humidity":95.0,
+        "SoundLevel":172
+    },
+    {
+        "LightSensor":260,
+        "cpuTemp":56.382,
+        "date":"2020-07-23 23:36:58.193931",
+        "Temperature":84.2,
+        "Humidity":95.0,
+        "SoundLevel":173
+    },
+    {
+        "LightSensor":269,
+        "cpuTemp":56.382,
+        "date":"2020-07-23 23:46:58.996130",
+        "Temperature":84.2,
+        "Humidity":95.0,
+        "SoundLevel":173
+    },
+    {
+        "LightSensor":258,
+        "cpuTemp":55.843,
+        "date":"2020-07-23 23:56:59.772357",
+        "Temperature":84.2,
+        "Humidity":95.0,
+        "SoundLevel":174
+    },
+    {
+        "LightSensor":269,
+        "cpuTemp":55.843,
+        "date":"2020-07-24 00:07:00.588289",
+        "Temperature":84.2,
+        "Humidity":95.0,
+        "SoundLevel":172
+    },
+    {
+        "LightSensor":273,
+        "cpuTemp":55.843,
+        "date":"2020-07-24 00:17:01.326362",
+        "Temperature":84.2,
+        "Humidity":95.0,
+        "SoundLevel":173
+    },
+    {
+        "LightSensor":259,
+        "cpuTemp":55.843,
+        "date":"2020-07-24 00:27:02.181201",
+        "Temperature":84.2,
+        "Humidity":95.0,
+        "SoundLevel":173
+    },
+    {
+        "LightSensor":259,
+        "cpuTemp":55.843,
+        "date":"2020-07-24 00:37:03.008480",
+        "Temperature":84.2,
+        "Humidity":95.0,
+        "SoundLevel":173
+    },
+    {
+        "LightSensor":264,
+        "cpuTemp":55.306,
+        "date":"2020-07-24 00:47:03.935917",
+        "Temperature":82.4,
+        "Humidity":95.0,
+        "SoundLevel":173
+    },
+    {
+        "LightSensor":259,
+        "cpuTemp":54.768,
+        "date":"2020-07-24 00:57:04.778501",
+        "Temperature":82.4,
+        "Humidity":95.0,
+        "SoundLevel":174
+    },
+    {
+        "LightSensor":266,
+        "cpuTemp":55.306,
+        "date":"2020-07-24 01:07:05.570923",
+        "Temperature":82.4,
+        "Humidity":95.0,
+        "SoundLevel":175
+    },
+    {
+        "LightSensor":265,
+        "cpuTemp":55.843,
+        "date":"2020-07-24 01:17:06.420538",
+        "Temperature":82.4,
+        "Humidity":95.0,
+        "SoundLevel":175
+    },
+    {
+        "LightSensor":260,
+        "cpuTemp":54.768,
+        "date":"2020-07-24 01:27:07.217864",
+        "Temperature":82.4,
+        "Humidity":95.0,
+        "SoundLevel":175
+    },
+    {
+        "LightSensor":266,
+        "cpuTemp":55.306,
+        "date":"2020-07-24 01:37:08.097355",
+        "Temperature":82.4,
+        "Humidity":95.0,
+        "SoundLevel":175
+    },
+    {
+        "LightSensor":269,
+        "cpuTemp":54.768,
+        "date":"2020-07-24 01:47:08.878878",
+        "Temperature":82.4,
+        "Humidity":95.0,
+        "SoundLevel":174
+    },
+    {
+        "LightSensor":269,
+        "cpuTemp":54.23,
+        "date":"2020-07-24 01:57:09.728158",
+        "Temperature":82.4,
+        "Humidity":95.0,
+        "SoundLevel":174
+    },
+    {
+        "LightSensor":265,
+        "cpuTemp":55.306,
+        "date":"2020-07-24 02:07:10.552351",
+        "Temperature":82.4,
+        "Humidity":95.0,
+        "SoundLevel":175
+    },
+    {
+        "LightSensor":263,
+        "cpuTemp":55.306,
+        "date":"2020-07-24 02:17:11.500737",
+        "Temperature":80.6,
+        "Humidity":95.0,
+        "SoundLevel":174
+    },
+    {
+        "LightSensor":273,
+        "cpuTemp":54.768,
+        "date":"2020-07-24 02:27:12.293002",
+        "Temperature":80.6,
+        "Humidity":95.0,
+        "SoundLevel":173
+    },
+    {
+        "LightSensor":267,
+        "cpuTemp":53.692,
+        "date":"2020-07-24 02:37:13.133132",
+        "Temperature":80.6,
+        "Humidity":95.0,
+        "SoundLevel":175
+    },
+    {
+        "LightSensor":269,
+        "cpuTemp":54.768,
+        "date":"2020-07-24 02:47:13.893851",
+        "Temperature":80.6,
+        "Humidity":95.0,
+        "SoundLevel":175
+    },
+    {
+        "LightSensor":276,
+        "cpuTemp":54.768,
+        "date":"2020-07-24 02:57:14.710052",
+        "Temperature":80.6,
+        "Humidity":95.0,
+        "SoundLevel":176
+    },
+    {
+        "LightSensor":266,
+        "cpuTemp":54.768,
+        "date":"2020-07-24 03:07:15.554732",
+        "Temperature":80.6,
+        "Humidity":95.0,
+        "SoundLevel":176
+    },
+    {
+        "LightSensor":271,
+        "cpuTemp":54.23,
+        "date":"2020-07-24 03:17:16.429728",
+        "Temperature":80.6,
+        "Humidity":95.0,
+        "SoundLevel":177
+    },
+    {
+        "LightSensor":267,
+        "cpuTemp":54.23,
+        "date":"2020-07-24 03:27:17.280098",
+        "Temperature":80.6,
+        "Humidity":95.0,
+        "SoundLevel":177
+    },
+    {
+        "LightSensor":266,
+        "cpuTemp":53.692,
+        "date":"2020-07-24 03:37:18.148057",
+        "Temperature":80.6,
+        "Humidity":95.0,
+        "SoundLevel":176
+    },
+    {
+        "LightSensor":274,
+        "cpuTemp":54.23,
+        "date":"2020-07-24 03:47:19.024994",
+        "Temperature":80.6,
+        "Humidity":95.0,
+        "SoundLevel":178
+    },
+    {
+        "LightSensor":273,
+        "cpuTemp":53.692,
+        "date":"2020-07-24 03:57:19.907356",
+        "Temperature":80.6,
+        "Humidity":95.0,
+        "SoundLevel":177
+    },
+    {
+        "LightSensor":265,
+        "cpuTemp":53.692,
+        "date":"2020-07-24 04:07:20.759888",
+        "Temperature":80.6,
+        "Humidity":95.0,
+        "SoundLevel":177
+    },
+    {
+        "LightSensor":265,
+        "cpuTemp":53.692,
+        "date":"2020-07-24 04:17:21.508968",
+        "Temperature":80.6,
+        "Humidity":95.0,
+        "SoundLevel":178
+    },
+    {
+        "LightSensor":272,
+        "cpuTemp":53.692,
+        "date":"2020-07-24 04:27:22.363372",
+        "Temperature":80.6,
+        "Humidity":95.0,
+        "SoundLevel":178
+    },
+    {
+        "LightSensor":271,
+        "cpuTemp":53.692,
+        "date":"2020-07-24 04:37:23.182488",
+        "Temperature":80.6,
+        "Humidity":95.0,
+        "SoundLevel":178
+    },
+    {
+        "LightSensor":271,
+        "cpuTemp":53.692,
+        "date":"2020-07-24 04:47:24.008132",
+        "Temperature":80.6,
+        "Humidity":95.0,
+        "SoundLevel":178
+    },
+    {
+        "LightSensor":275,
+        "cpuTemp":53.692,
+        "date":"2020-07-24 04:57:24.760473",
+        "Temperature":78.8,
+        "Humidity":95.0,
+        "SoundLevel":178
+    },
+    {
+        "LightSensor":269,
+        "cpuTemp":53.692,
+        "date":"2020-07-24 05:07:25.658126",
+        "Temperature":78.8,
+        "Humidity":95.0,
+        "SoundLevel":178
+    },
+    {
+        "LightSensor":276,
+        "cpuTemp":53.692,
+        "date":"2020-07-24 05:17:26.507724",
+        "Temperature":78.8,
+        "Humidity":95.0,
+        "SoundLevel":179
+    },
+    {
+        "LightSensor":277,
+        "cpuTemp":53.692,
+        "date":"2020-07-24 05:27:27.260166",
+        "Temperature":78.8,
+        "Humidity":95.0,
+        "SoundLevel":179
+    },
+    {
+        "LightSensor":272,
+        "cpuTemp":53.692,
+        "date":"2020-07-24 05:37:28.008519",
+        "Temperature":78.8,
+        "Humidity":95.0,
+        "SoundLevel":181
+    },
+    {
+        "LightSensor":276,
+        "cpuTemp":53.692,
+        "date":"2020-07-24 05:47:28.830700",
+        "Temperature":78.8,
+        "Humidity":95.0,
+        "SoundLevel":179
+    },
+    {
+        "LightSensor":277,
+        "cpuTemp":53.692,
+        "date":"2020-07-24 05:57:29.710422",
+        "Temperature":78.8,
+        "Humidity":95.0,
+        "SoundLevel":179
+    },
+    {
+        "LightSensor":270,
+        "cpuTemp":53.154,
+        "date":"2020-07-24 06:07:30.509789",
+        "Temperature":78.8,
+        "Humidity":95.0,
+        "SoundLevel":180
+    },
+    {
+        "LightSensor":276,
+        "cpuTemp":53.692,
+        "date":"2020-07-24 06:17:31.363689",
+        "Temperature":78.8,
+        "Humidity":95.0,
+        "SoundLevel":181
+    },
+    {
+        "LightSensor":275,
+        "cpuTemp":53.692,
+        "date":"2020-07-24 06:27:32.220603",
+        "Temperature":78.8,
+        "Humidity":95.0,
+        "SoundLevel":181
+    },
+    {
+        "LightSensor":273,
+        "cpuTemp":53.692,
+        "date":"2020-07-24 06:37:33.008378",
+        "Temperature":78.8,
+        "Humidity":95.0,
+        "SoundLevel":181
+    },
+    {
+        "LightSensor":277,
+        "cpuTemp":53.692,
+        "date":"2020-07-24 06:47:33.757971",
+        "Temperature":78.8,
+        "Humidity":95.0,
+        "SoundLevel":180
+    },
+    {
+        "LightSensor":276,
+        "cpuTemp":53.692,
+        "date":"2020-07-24 06:57:34.509738",
+        "Temperature":78.8,
+        "Humidity":95.0,
+        "SoundLevel":181
+    },
+    {
+        "LightSensor":272,
+        "cpuTemp":53.692,
+        "date":"2020-07-24 07:07:35.296912",
+        "Temperature":78.8,
+        "Humidity":95.0,
+        "SoundLevel":178
+    },
+    {
+        "LightSensor":267,
+        "cpuTemp":53.692,
+        "date":"2020-07-24 07:17:36.068915",
+        "Temperature":80.6,
+        "Humidity":95.0,
+        "SoundLevel":181
+    },
+    {
+        "LightSensor":270,
+        "cpuTemp":53.692,
+        "date":"2020-07-24 07:27:36.926840",
+        "Temperature":80.6,
+        "Humidity":95.0,
+        "SoundLevel":182
+    },
+    {
+        "LightSensor":274,
+        "cpuTemp":54.23,
+        "date":"2020-07-24 07:37:37.758842",
+        "Temperature":80.6,
+        "Humidity":95.0,
+        "SoundLevel":183
+    },
+    {
+        "LightSensor":269,
+        "cpuTemp":54.768,
+        "date":"2020-07-24 07:47:38.560855",
+        "Temperature":80.6,
+        "Humidity":95.0,
+        "SoundLevel":182
+    },
+    {
+        "LightSensor":269,
+        "cpuTemp":54.23,
+        "date":"2020-07-24 07:57:39.418687",
+        "Temperature":82.4,
+        "Humidity":95.0,
+        "SoundLevel":182
+    },
+    {
+        "LightSensor":263,
+        "cpuTemp":54.768,
+        "date":"2020-07-24 08:07:40.258439",
+        "Temperature":82.4,
+        "Humidity":95.0,
+        "SoundLevel":182
+    },
+    {
+        "LightSensor":262,
+        "cpuTemp":54.768,
+        "date":"2020-07-24 08:17:41.117340",
+        "Temperature":82.4,
+        "Humidity":95.0,
+        "SoundLevel":182
+    },
+    {
+        "LightSensor":265,
+        "cpuTemp":54.768,
+        "date":"2020-07-24 08:27:42.073268",
+        "Temperature":82.4,
+        "Humidity":95.0,
+        "SoundLevel":182
+    },
+    {
+        "LightSensor":259,
+        "cpuTemp":55.306,
+        "date":"2020-07-24 08:37:43.447244",
+        "Temperature":82.4,
+        "Humidity":95.0,
+        "SoundLevel":179
+    },
+    {
+        "LightSensor":259,
+        "cpuTemp":54.768,
+        "date":"2020-07-24 08:47:44.758499",
+        "Temperature":84.2,
+        "Humidity":95.0,
+        "SoundLevel":180
+    },
+    {
+        "LightSensor":260,
+        "cpuTemp":55.306,
+        "date":"2020-07-24 08:57:46.000314",
+        "Temperature":82.4,
+        "Humidity":95.0,
+        "SoundLevel":180
+    },
+    {
+        "LightSensor":257,
+        "cpuTemp":55.843,
+        "date":"2020-07-24 09:07:46.819817",
+        "Temperature":84.2,
+        "Humidity":95.0,
+        "SoundLevel":180
+    },
+    {
+        "LightSensor":255,
+        "cpuTemp":54.768,
+        "date":"2020-07-24 09:17:47.636277",
+        "Temperature":84.2,
+        "Humidity":95.0,
+        "SoundLevel":181
+    },
+    {
+        "LightSensor":254,
+        "cpuTemp":55.843,
+        "date":"2020-07-24 09:27:48.507018",
+        "Temperature":84.2,
+        "Humidity":95.0,
+        "SoundLevel":181
+    },
+    {
+        "LightSensor":257,
+        "cpuTemp":55.843,
+        "date":"2020-07-24 09:37:49.360161",
+        "Temperature":84.2,
+        "Humidity":95.0,
+        "SoundLevel":180
+    },
+    {
+        "LightSensor":253,
+        "cpuTemp":55.843,
+        "date":"2020-07-24 09:47:50.172217",
+        "Temperature":86.0,
+        "Humidity":95.0,
+        "SoundLevel":180
+    },
+    {
+        "LightSensor":255,
+        "cpuTemp":56.382,
+        "date":"2020-07-24 09:57:51.009503",
+        "Temperature":86.0,
+        "Humidity":94.0,
+        "SoundLevel":179
+    },
+    {
+        "LightSensor":250,
+        "cpuTemp":56.382,
+        "date":"2020-07-24 10:07:51.897925",
+        "Temperature":87.8,
+        "Humidity":93.0,
+        "SoundLevel":179
+    },
+    {
+        "LightSensor":249,
+        "cpuTemp":57.458,
+        "date":"2020-07-24 10:17:52.785994",
+        "Temperature":87.8,
+        "Humidity":91.0,
+        "SoundLevel":179
+    },
+    {
+        "LightSensor":248,
+        "cpuTemp":56.92,
+        "date":"2020-07-24 10:27:53.609226",
+        "Temperature":87.8,
+        "Humidity":89.0,
+        "SoundLevel":177
+    },
+    {
+        "LightSensor":253,
+        "cpuTemp":57.458,
+        "date":"2020-07-24 10:37:54.467579",
+        "Temperature":89.6,
+        "Humidity":88.0,
+        "SoundLevel":176
+    },
+    {
+        "LightSensor":247,
+        "cpuTemp":56.92,
+        "date":"2020-07-24 10:47:55.329799",
+        "Temperature":89.6,
+        "Humidity":88.0,
+        "SoundLevel":176
+    },
+    {
+        "LightSensor":259,
+        "cpuTemp":57.458,
+        "date":"2020-07-24 10:57:56.226362",
+        "Temperature":89.6,
+        "Humidity":87.0,
+        "SoundLevel":175
+    },
+    {
+        "LightSensor":254,
+        "cpuTemp":57.996,
+        "date":"2020-07-24 11:07:57.119154",
+        "Temperature":89.6,
+        "Humidity":85.0,
+        "SoundLevel":174
+    },
+    {
+        "LightSensor":253,
+        "cpuTemp":57.996,
+        "date":"2020-07-24 11:17:57.978175",
+        "Temperature":89.6,
+        "Humidity":85.0,
+        "SoundLevel":174
+    },
+    {
+        "LightSensor":248,
+        "cpuTemp":57.996,
+        "date":"2020-07-24 11:27:58.872966",
+        "Temperature":89.6,
+        "Humidity":85.0,
+        "SoundLevel":173
+    },
+    {
+        "LightSensor":245,
+        "cpuTemp":59.072,
+        "date":"2020-07-24 11:37:59.693337",
+        "Temperature":91.4,
+        "Humidity":83.0,
+        "SoundLevel":175
+    },
+    {
+        "LightSensor":239,
+        "cpuTemp":58.533,
+        "date":"2020-07-24 11:48:00.539379",
+        "Temperature":93.2,
+        "Humidity":80.0,
+        "SoundLevel":173
+    },
+    {
+        "LightSensor":236,
+        "cpuTemp":59.61,
+        "date":"2020-07-24 11:58:01.319863",
+        "Temperature":93.2,
+        "Humidity":79.0,
+        "SoundLevel":173
+    },
+    {
+        "LightSensor":239,
+        "cpuTemp":60.148,
+        "date":"2020-07-24 12:08:02.207441",
+        "Temperature":95.0,
+        "Humidity":77.0,
+        "SoundLevel":170
+    },
+    {
+        "LightSensor":245,
+        "cpuTemp":59.072,
+        "date":"2020-07-24 12:18:03.077983",
+        "Temperature":93.2,
+        "Humidity":79.0,
+        "SoundLevel":167
+    },
+    {
+        "LightSensor":245,
+        "cpuTemp":59.072,
+        "date":"2020-07-24 12:28:03.955254",
+        "Temperature":93.2,
+        "Humidity":81.0,
+        "SoundLevel":168
+    },
+    {
+        "LightSensor":245,
+        "cpuTemp":59.072,
+        "date":"2020-07-24 12:38:04.850532",
+        "Temperature":93.2,
+        "Humidity":80.0,
+        "SoundLevel":166
+    },
+    {
+        "LightSensor":247,
+        "cpuTemp":59.072,
+        "date":"2020-07-24 12:48:05.742803",
+        "Temperature":93.2,
+        "Humidity":82.0,
+        "SoundLevel":167
+    },
+    {
+        "LightSensor":247,
+        "cpuTemp":59.072,
+        "date":"2020-07-24 12:58:06.632657",
+        "Temperature":93.2,
+        "Humidity":76.0,
+        "SoundLevel":166
+    },
+    {
+        "LightSensor":236,
+        "cpuTemp":59.072,
+        "date":"2020-07-24 13:08:07.429350",
+        "Temperature":93.2,
+        "Humidity":76.0,
+        "SoundLevel":166
+    },
+    {
+        "LightSensor":242,
+        "cpuTemp":60.148,
+        "date":"2020-07-24 13:18:08.310408",
+        "Temperature":95.0,
+        "Humidity":75.0,
+        "SoundLevel":165
+    },
+    {
+        "LightSensor":243,
+        "cpuTemp":60.148,
+        "date":"2020-07-24 13:28:09.126312",
+        "Temperature":95.0,
+        "Humidity":76.0,
+        "SoundLevel":167
+    },
+    {
+        "LightSensor":234,
+        "cpuTemp":60.148,
+        "date":"2020-07-24 13:38:09.967406",
+        "Temperature":95.0,
+        "Humidity":74.0,
+        "SoundLevel":165
+    },
+    {
+        "LightSensor":235,
+        "cpuTemp":60.686,
+        "date":"2020-07-24 13:48:10.898211",
+        "Temperature":95.0,
+        "Humidity":73.0,
+        "SoundLevel":165
+    },
+    {
+        "LightSensor":231,
+        "cpuTemp":61.224,
+        "date":"2020-07-24 13:58:11.766397",
+        "Temperature":96.8,
+        "Humidity":71.0,
+        "SoundLevel":164
+    },
+    {
+        "LightSensor":234,
+        "cpuTemp":61.761,
+        "date":"2020-07-24 14:08:12.656722",
+        "Temperature":96.8,
+        "Humidity":68.0,
+        "SoundLevel":164
+    },
+    {
+        "LightSensor":230,
+        "cpuTemp":61.761,
+        "date":"2020-07-24 14:18:13.542466",
+        "Temperature":98.6,
+        "Humidity":66.0,
+        "SoundLevel":162
+    },
+    {
+        "LightSensor":237,
+        "cpuTemp":60.686,
+        "date":"2020-07-24 14:28:14.437674",
+        "Temperature":96.8,
+        "Humidity":67.0,
+        "SoundLevel":160
+    },
+    {
+        "LightSensor":230,
+        "cpuTemp":60.686,
+        "date":"2020-07-24 14:38:15.294253",
+        "Temperature":96.8,
+        "Humidity":69.0,
+        "SoundLevel":161
+    },
+    {
+        "LightSensor":235,
+        "cpuTemp":61.224,
+        "date":"2020-07-24 14:48:16.177062",
+        "Temperature":96.8,
+        "Humidity":69.0,
+        "SoundLevel":161
+    },
+    {
+        "LightSensor":233,
+        "cpuTemp":61.224,
+        "date":"2020-07-24 14:58:17.049298",
+        "Temperature":96.8,
+        "Humidity":67.0,
+        "SoundLevel":161
+    },
+    {
+        "LightSensor":228,
+        "cpuTemp":61.224,
+        "date":"2020-07-24 15:08:17.944110",
+        "Temperature":98.6,
+        "Humidity":67.0,
+        "SoundLevel":160
+    },
+    {
+        "LightSensor":227,
+        "cpuTemp":61.761,
+        "date":"2020-07-24 15:18:18.757540",
+        "Temperature":96.8,
+        "Humidity":68.0,
+        "SoundLevel":160
+    },
+    {
+        "LightSensor":241,
+        "cpuTemp":61.224,
+        "date":"2020-07-24 15:28:19.622708",
+        "Temperature":98.6,
+        "Humidity":65.0,
+        "SoundLevel":159
+    },
+    {
+        "LightSensor":238,
+        "cpuTemp":61.224,
+        "date":"2020-07-24 15:38:20.514276",
+        "Temperature":96.8,
+        "Humidity":66.0,
+        "SoundLevel":159
+    },
+    {
+        "LightSensor":231,
+        "cpuTemp":61.224,
+        "date":"2020-07-24 15:48:21.411960",
+        "Temperature":98.6,
+        "Humidity":66.0,
+        "SoundLevel":159
+    },
+    {
+        "LightSensor":225,
+        "cpuTemp":62.3,
+        "date":"2020-07-24 15:58:22.203448",
+        "Temperature":100.4,
+        "Humidity":66.0,
+        "SoundLevel":161
+    },
+    {
+        "LightSensor":184,
+        "cpuTemp":65.528,
+        "date":"2020-07-24 16:08:23.042781",
+        "Temperature":102.2,
+        "Humidity":61.0,
+        "SoundLevel":175
+    },
+    {
+        "LightSensor":167,
+        "cpuTemp":70.908,
+        "date":"2020-07-24 16:18:23.849076",
+        "Temperature":118.4,
+        "Humidity":42.0,
+        "SoundLevel":181
+    },
+    {
+        "LightSensor":165,
+        "cpuTemp":70.908,
+        "date":"2020-07-24 16:28:24.752018",
+        "Temperature":127.4,
+        "Humidity":33.0,
+        "SoundLevel":173
+    },
+    {
+        "LightSensor":186,
+        "cpuTemp":71.984,
+        "date":"2020-07-24 16:38:25.650415",
+        "Temperature":120.2,
+        "Humidity":40.0,
+        "SoundLevel":167
+    },
+    {
+        "LightSensor":161,
+        "cpuTemp":74.136,
+        "date":"2020-07-24 16:48:26.512125",
+        "Temperature":118.4,
+        "Humidity":40.0,
+        "SoundLevel":174
+    },
+    {
+        "LightSensor":200,
+        "cpuTemp":69.832,
+        "date":"2020-07-24 16:58:27.381716",
+        "Temperature":129.2,
+        "Humidity":32.0,
+        "SoundLevel":155
+    },
+    {
+        "LightSensor":222,
+        "cpuTemp":64.99,
+        "date":"2020-07-24 17:08:28.261075",
+        "Temperature":107.6,
+        "Humidity":45.0,
+        "SoundLevel":149
+    },
+    {
+        "LightSensor":219,
+        "cpuTemp":63.914,
+        "date":"2020-07-24 17:18:29.046036",
+        "Temperature":98.6,
+        "Humidity":56.0,
+        "SoundLevel":151
+    },
+    {
+        "LightSensor":221,
+        "cpuTemp":63.914,
+        "date":"2020-07-24 17:28:29.904176",
+        "Temperature":102.2,
+        "Humidity":56.0,
+        "SoundLevel":151
+    },
+    {
+        "LightSensor":233,
+        "cpuTemp":62.838,
+        "date":"2020-07-24 17:38:30.769768",
+        "Temperature":102.2,
+        "Humidity":56.0,
+        "SoundLevel":148
+    },
+    {
+        "LightSensor":231,
+        "cpuTemp":62.3,
+        "date":"2020-07-24 17:48:31.680501",
+        "Temperature":98.6,
+        "Humidity":58.0,
+        "SoundLevel":150
+    },
+    {
+        "LightSensor":237,
+        "cpuTemp":62.3,
+        "date":"2020-07-24 17:58:32.510471",
+        "Temperature":98.6,
+        "Humidity":59.0,
+        "SoundLevel":152
+    },
+    {
+        "LightSensor":226,
+        "cpuTemp":61.761,
+        "date":"2020-07-24 18:08:33.318325",
+        "Temperature":98.6,
+        "Humidity":58.0,
+        "SoundLevel":150
+    },
+    {
+        "LightSensor":233,
+        "cpuTemp":61.761,
+        "date":"2020-07-24 18:18:34.157362",
+        "Temperature":96.8,
+        "Humidity":61.0,
+        "SoundLevel":152
+    },
+    {
+        "LightSensor":233,
+        "cpuTemp":62.3,
+        "date":"2020-07-24 18:28:34.959076",
+        "Temperature":96.8,
+        "Humidity":62.0,
+        "SoundLevel":153
+    },
+    {
+        "LightSensor":237,
+        "cpuTemp":61.224,
+        "date":"2020-07-24 18:38:35.787509",
+        "Temperature":96.8,
+        "Humidity":62.0,
+        "SoundLevel":152
+    },
+    {
+        "LightSensor":238,
+        "cpuTemp":60.686,
+        "date":"2020-07-24 18:48:36.819244",
+        "Temperature":95.0,
+        "Humidity":63.0,
+        "SoundLevel":153
+    },
+    {
+        "LightSensor":239,
+        "cpuTemp":60.148,
+        "date":"2020-07-24 18:58:37.669420",
+        "Temperature":95.0,
+        "Humidity":66.0,
+        "SoundLevel":154
+    },
+    {
+        "LightSensor":237,
+        "cpuTemp":60.686,
+        "date":"2020-07-24 19:08:38.563645",
+        "Temperature":93.2,
+        "Humidity":68.0,
+        "SoundLevel":155
+    },
+    {
+        "LightSensor":245,
+        "cpuTemp":60.148,
+        "date":"2020-07-24 19:18:39.462346",
+        "Temperature":93.2,
+        "Humidity":68.0,
+        "SoundLevel":156
+    },
+    {
+        "LightSensor":250,
+        "cpuTemp":60.148,
+        "date":"2020-07-24 19:28:40.298615",
+        "Temperature":93.2,
+        "Humidity":71.0,
+        "SoundLevel":155
+    },
+    {
+        "LightSensor":247,
+        "cpuTemp":59.072,
+        "date":"2020-07-24 19:38:41.356817",
+        "Temperature":91.4,
+        "Humidity":74.0,
+        "SoundLevel":156
+    },
+    {
+        "LightSensor":248,
+        "cpuTemp":58.533,
+        "date":"2020-07-24 19:48:42.266083",
+        "Temperature":91.4,
+        "Humidity":76.0,
+        "SoundLevel":154
+    },
+    {
+        "LightSensor":250,
+        "cpuTemp":58.533,
+        "date":"2020-07-24 19:58:43.523881",
+        "Temperature":89.6,
+        "Humidity":77.0,
+        "SoundLevel":158
+    },
+    {
+        "LightSensor":250,
+        "cpuTemp":58.533,
+        "date":"2020-07-24 20:08:44.881329",
+        "Temperature":89.6,
+        "Humidity":80.0,
+        "SoundLevel":159
+    },
+    {
+        "LightSensor":255,
+        "cpuTemp":57.996,
+        "date":"2020-07-24 20:18:46.230054",
+        "Temperature":89.6,
+        "Humidity":82.0,
+        "SoundLevel":198
+    },
+    {
+        "LightSensor":252,
+        "cpuTemp":57.996,
+        "date":"2020-07-24 20:28:47.102231",
+        "Temperature":87.8,
+        "Humidity":84.0,
+        "SoundLevel":161
+    },
+    {
+        "LightSensor":253,
+        "cpuTemp":57.996,
+        "date":"2020-07-24 20:38:48.001208",
+        "Temperature":87.8,
+        "Humidity":85.0,
+        "SoundLevel":162
+    },
+    {
+        "LightSensor":251,
+        "cpuTemp":56.92,
+        "date":"2020-07-24 20:48:48.899934",
+        "Temperature":87.8,
+        "Humidity":87.0,
+        "SoundLevel":163
+    },
+    {
+        "LightSensor":253,
+        "cpuTemp":56.92,
+        "date":"2020-07-24 20:58:49.669917",
+        "Temperature":87.8,
+        "Humidity":89.0,
+        "SoundLevel":165
+    },
+    {
+        "LightSensor":255,
+        "cpuTemp":56.92,
+        "date":"2020-07-24 21:08:50.509677",
+        "Temperature":86.0,
+        "Humidity":89.0,
+        "SoundLevel":164
+    },
+    {
+        "LightSensor":251,
+        "cpuTemp":56.92,
+        "date":"2020-07-24 21:18:51.376755",
+        "Temperature":86.0,
+        "Humidity":91.0,
+        "SoundLevel":166
+    },
+    {
+        "LightSensor":255,
+        "cpuTemp":56.92,
+        "date":"2020-07-24 21:28:52.245488",
+        "Temperature":86.0,
+        "Humidity":92.0,
+        "SoundLevel":166
+    },
+    {
+        "LightSensor":255,
+        "cpuTemp":56.382,
+        "date":"2020-07-24 21:38:53.080016",
+        "Temperature":86.0,
+        "Humidity":93.0,
+        "SoundLevel":167
+    },
+    {
+        "LightSensor":254,
+        "cpuTemp":56.92,
+        "date":"2020-07-24 21:48:53.950773",
+        "Temperature":86.0,
+        "Humidity":94.0,
+        "SoundLevel":168
+    },
+    {
+        "LightSensor":255,
+        "cpuTemp":56.382,
+        "date":"2020-07-24 21:58:54.709301",
+        "Temperature":86.0,
+        "Humidity":95.0,
+        "SoundLevel":169
+    },
+    {
+        "LightSensor":251,
+        "cpuTemp":55.843,
+        "date":"2020-07-24 22:08:55.649162",
+        "Temperature":86.0,
+        "Humidity":95.0,
+        "SoundLevel":170
+    },
+    {
+        "LightSensor":255,
+        "cpuTemp":56.382,
+        "date":"2020-07-24 22:18:56.494553",
+        "Temperature":86.0,
+        "Humidity":95.0,
+        "SoundLevel":169
+    },
+    {
+        "LightSensor":255,
+        "cpuTemp":56.382,
+        "date":"2020-07-24 22:28:57.321543",
+        "Temperature":84.2,
+        "Humidity":95.0,
+        "SoundLevel":170
+    },
+    {
+        "LightSensor":258,
+        "cpuTemp":56.92,
+        "date":"2020-07-24 22:38:58.382606",
+        "Temperature":84.2,
+        "Humidity":95.0,
+        "SoundLevel":171
+    },
+    {
+        "LightSensor":257,
+        "cpuTemp":56.382,
+        "date":"2020-07-24 22:48:59.226088",
+        "Temperature":84.2,
+        "Humidity":95.0,
+        "SoundLevel":171
+    },
+    {
+        "LightSensor":252,
+        "cpuTemp":56.382,
+        "date":"2020-07-24 22:59:00.020947",
+        "Temperature":84.2,
+        "Humidity":95.0,
+        "SoundLevel":172
+    },
+    {
+        "LightSensor":259,
+        "cpuTemp":56.382,
+        "date":"2020-07-24 23:09:00.861361",
+        "Temperature":84.2,
+        "Humidity":95.0,
+        "SoundLevel":171
+    },
+    {
+        "LightSensor":255,
+        "cpuTemp":55.843,
+        "date":"2020-07-24 23:19:01.763088",
+        "Temperature":84.2,
+        "Humidity":95.0,
+        "SoundLevel":172
+    },
+    {
+        "LightSensor":254,
+        "cpuTemp":55.843,
+        "date":"2020-07-24 23:29:02.567488",
+        "Temperature":84.2,
+        "Humidity":95.0,
+        "SoundLevel":173
+    },
+    {
+        "LightSensor":260,
+        "cpuTemp":56.382,
+        "date":"2020-07-24 23:39:03.468539",
+        "Temperature":84.2,
+        "Humidity":95.0,
+        "SoundLevel":172
+    },
+    {
+        "LightSensor":259,
+        "cpuTemp":55.843,
+        "date":"2020-07-24 23:49:04.369188",
+        "Temperature":84.2,
+        "Humidity":95.0,
+        "SoundLevel":173
+    },
+    {
+        "LightSensor":262,
+        "cpuTemp":56.382,
+        "date":"2020-07-24 23:59:05.181116",
+        "Temperature":84.2,
+        "Humidity":95.0,
+        "SoundLevel":173
+    },
+    {
+        "LightSensor":255,
+        "cpuTemp":55.843,
+        "date":"2020-07-25 00:09:05.962237",
+        "Temperature":84.2,
+        "Humidity":95.0,
+        "SoundLevel":172
+    },
+    {
+        "LightSensor":255,
+        "cpuTemp":55.843,
+        "date":"2020-07-25 00:19:06.744627",
+        "Temperature":84.2,
+        "Humidity":95.0,
+        "SoundLevel":173
+    },
+    {
+        "LightSensor":265,
+        "cpuTemp":55.843,
+        "date":"2020-07-25 00:29:07.532263",
+        "Temperature":82.4,
+        "Humidity":95.0,
+        "SoundLevel":172
+    },
+    {
+        "LightSensor":265,
+        "cpuTemp":55.306,
+        "date":"2020-07-25 00:39:08.470848",
+        "Temperature":82.4,
+        "Humidity":95.0,
+        "SoundLevel":175
+    },
+    {
+        "LightSensor":259,
+        "cpuTemp":55.306,
+        "date":"2020-07-25 00:49:09.259521",
+        "Temperature":82.4,
+        "Humidity":95.0,
+        "SoundLevel":175
+    },
+    {
+        "LightSensor":266,
+        "cpuTemp":55.843,
+        "date":"2020-07-25 00:59:10.130253",
+        "Temperature":82.4,
+        "Humidity":95.0,
+        "SoundLevel":176
+    },
+    {
+        "LightSensor":260,
+        "cpuTemp":55.843,
+        "date":"2020-07-25 01:09:10.990433",
+        "Temperature":82.4,
+        "Humidity":95.0,
+        "SoundLevel":175
+    },
+    {
+        "LightSensor":260,
+        "cpuTemp":54.768,
+        "date":"2020-07-25 01:19:11.759416",
+        "Temperature":82.4,
+        "Humidity":95.0,
+        "SoundLevel":175
+    },
+    {
+        "LightSensor":261,
+        "cpuTemp":55.306,
+        "date":"2020-07-25 01:29:12.509390",
+        "Temperature":82.4,
+        "Humidity":95.0,
+        "SoundLevel":177
+    },
+    {
+        "LightSensor":266,
+        "cpuTemp":55.306,
+        "date":"2020-07-25 01:39:13.433966",
+        "Temperature":82.4,
+        "Humidity":95.0,
+        "SoundLevel":176
+    },
+    {
+        "LightSensor":266,
+        "cpuTemp":55.306,
+        "date":"2020-07-25 01:49:14.259751",
+        "Temperature":82.4,
+        "Humidity":95.0,
+        "SoundLevel":176
+    },
+    {
+        "LightSensor":267,
+        "cpuTemp":54.23,
+        "date":"2020-07-25 01:59:15.149055",
+        "Temperature":82.4,
+        "Humidity":95.0,
+        "SoundLevel":177
+    },
+    {
+        "LightSensor":261,
+        "cpuTemp":54.23,
+        "date":"2020-07-25 02:09:15.931470",
+        "Temperature":82.4,
+        "Humidity":95.0,
+        "SoundLevel":177
+    },
+    {
+        "LightSensor":268,
+        "cpuTemp":54.768,
+        "date":"2020-07-25 02:19:16.761860",
+        "Temperature":80.6,
+        "Humidity":95.0,
+        "SoundLevel":178
+    },
+    {
+        "LightSensor":269,
+        "cpuTemp":54.768,
+        "date":"2020-07-25 02:29:17.549511",
+        "Temperature":80.6,
+        "Humidity":95.0,
+        "SoundLevel":177
+    },
+    {
+        "LightSensor":269,
+        "cpuTemp":54.768,
+        "date":"2020-07-25 02:39:18.332155",
+        "Temperature":80.6,
+        "Humidity":95.0,
+        "SoundLevel":177
+    },
+    {
+        "LightSensor":262,
+        "cpuTemp":53.692,
+        "date":"2020-07-25 02:49:19.260474",
+        "Temperature":80.6,
+        "Humidity":95.0,
+        "SoundLevel":176
+    },
+    {
+        "LightSensor":267,
+        "cpuTemp":54.23,
+        "date":"2020-07-25 02:59:20.164618",
+        "Temperature":80.6,
+        "Humidity":95.0,
+        "SoundLevel":178
+    },
+    {
+        "LightSensor":267,
+        "cpuTemp":53.692,
+        "date":"2020-07-25 03:09:21.012287",
+        "Temperature":80.6,
+        "Humidity":95.0,
+        "SoundLevel":179
+    },
+    {
+        "LightSensor":267,
+        "cpuTemp":54.23,
+        "date":"2020-07-25 03:19:21.904090",
+        "Temperature":80.6,
+        "Humidity":95.0,
+        "SoundLevel":179
+    },
+    {
+        "LightSensor":262,
+        "cpuTemp":53.692,
+        "date":"2020-07-25 03:29:22.758980",
+        "Temperature":80.6,
+        "Humidity":95.0,
+        "SoundLevel":179
+    },
+    {
+        "LightSensor":270,
+        "cpuTemp":53.692,
+        "date":"2020-07-25 03:39:23.656006",
+        "Temperature":80.6,
+        "Humidity":95.0,
+        "SoundLevel":179
+    },
+    {
+        "LightSensor":271,
+        "cpuTemp":53.692,
+        "date":"2020-07-25 03:49:24.510088",
+        "Temperature":80.6,
+        "Humidity":95.0,
+        "SoundLevel":179
+    },
+    {
+        "LightSensor":265,
+        "cpuTemp":53.692,
+        "date":"2020-07-25 03:59:25.382184",
+        "Temperature":80.6,
+        "Humidity":95.0,
+        "SoundLevel":179
+    },
+    {
+        "LightSensor":269,
+        "cpuTemp":53.692,
+        "date":"2020-07-25 04:09:26.131087",
+        "Temperature":80.6,
+        "Humidity":95.0,
+        "SoundLevel":180
+    },
+    {
+        "LightSensor":269,
+        "cpuTemp":53.692,
+        "date":"2020-07-25 04:19:26.949983",
+        "Temperature":78.8,
+        "Humidity":95.0,
+        "SoundLevel":180
+    },
+    {
+        "LightSensor":269,
+        "cpuTemp":53.692,
+        "date":"2020-07-25 04:29:27.749937",
+        "Temperature":80.6,
+        "Humidity":95.0,
+        "SoundLevel":179
+    },
+    {
+        "LightSensor":271,
+        "cpuTemp":53.692,
+        "date":"2020-07-25 04:39:28.556933",
+        "Temperature":80.6,
+        "Humidity":95.0,
+        "SoundLevel":181
+    },
+    {
+        "LightSensor":270,
+        "cpuTemp":53.692,
+        "date":"2020-07-25 04:49:29.436117",
+        "Temperature":78.8,
+        "Humidity":95.0,
+        "SoundLevel":179
+    },
+    {
+        "LightSensor":269,
+        "cpuTemp":53.692,
+        "date":"2020-07-25 04:59:30.283914",
+        "Temperature":78.8,
+        "Humidity":95.0,
+        "SoundLevel":180
+    },
+    {
+        "LightSensor":271,
+        "cpuTemp":53.692,
+        "date":"2020-07-25 05:09:31.106754",
+        "Temperature":78.8,
+        "Humidity":95.0,
+        "SoundLevel":181
+    },
+    {
+        "LightSensor":271,
+        "cpuTemp":53.154,
+        "date":"2020-07-25 05:19:31.977357",
+        "Temperature":78.8,
+        "Humidity":95.0,
+        "SoundLevel":181
+    },
+    {
+        "LightSensor":271,
+        "cpuTemp":53.154,
+        "date":"2020-07-25 05:29:32.878015",
+        "Temperature":78.8,
+        "Humidity":95.0,
+        "SoundLevel":182
+    },
+    {
+        "LightSensor":271,
+        "cpuTemp":53.692,
+        "date":"2020-07-25 05:39:33.757580",
+        "Temperature":78.8,
+        "Humidity":95.0,
+        "SoundLevel":182
+    },
+    {
+        "LightSensor":271,
+        "cpuTemp":52.615,
+        "date":"2020-07-25 05:49:34.667749",
+        "Temperature":78.8,
+        "Humidity":95.0,
+        "SoundLevel":182
+    },
+    {
+        "LightSensor":265,
+        "cpuTemp":52.615,
+        "date":"2020-07-25 05:59:35.550750",
+        "Temperature":78.8,
+        "Humidity":95.0,
+        "SoundLevel":182
+    },
+    {
+        "LightSensor":265,
+        "cpuTemp":53.692,
+        "date":"2020-07-25 06:09:36.456085",
+        "Temperature":78.8,
+        "Humidity":95.0,
+        "SoundLevel":182
+    },
+    {
+        "LightSensor":266,
+        "cpuTemp":53.154,
+        "date":"2020-07-25 06:19:37.354040",
+        "Temperature":78.8,
+        "Humidity":95.0,
+        "SoundLevel":183
+    },
+    {
+        "LightSensor":271,
+        "cpuTemp":53.692,
+        "date":"2020-07-25 06:29:38.433248",
+        "Temperature":78.8,
+        "Humidity":95.0,
+        "SoundLevel":182
+    },
+    {
+        "LightSensor":271,
+        "cpuTemp":53.692,
+        "date":"2020-07-25 06:39:39.307629",
+        "Temperature":78.8,
+        "Humidity":95.0,
+        "SoundLevel":183
+    },
+    {
+        "LightSensor":269,
+        "cpuTemp":53.154,
+        "date":"2020-07-25 06:49:40.190991",
+        "Temperature":78.8,
+        "Humidity":95.0,
+        "SoundLevel":183
+    },
+    {
+        "LightSensor":265,
+        "cpuTemp":53.692,
+        "date":"2020-07-25 06:59:41.090719",
+        "Temperature":78.8,
+        "Humidity":95.0,
+        "SoundLevel":182
+    },
+    {
+        "LightSensor":269,
+        "cpuTemp":53.692,
+        "date":"2020-07-25 07:09:42.003143",
+        "Temperature":80.6,
+        "Humidity":95.0,
+        "SoundLevel":183
+    },
+    {
+        "LightSensor":262,
+        "cpuTemp":54.23,
+        "date":"2020-07-25 07:19:42.876318",
+        "Temperature":80.6,
+        "Humidity":95.0,
+        "SoundLevel":182
+    },
+    {
+        "LightSensor":267,
+        "cpuTemp":53.692,
+        "date":"2020-07-25 07:29:44.104774",
+        "Temperature":80.6,
+        "Humidity":95.0,
+        "SoundLevel":184
+    },
+    {
+        "LightSensor":263,
+        "cpuTemp":54.23,
+        "date":"2020-07-25 07:39:45.635801",
+        "Temperature":80.6,
+        "Humidity":95.0,
+        "SoundLevel":183
+    },
+    {
+        "LightSensor":265,
+        "cpuTemp":54.768,
+        "date":"2020-07-25 07:49:46.975332",
+        "Temperature":82.4,
+        "Humidity":95.0,
+        "SoundLevel":184
+    },
+    {
+        "LightSensor":264,
+        "cpuTemp":54.768,
+        "date":"2020-07-25 07:59:47.820076",
+        "Temperature":82.4,
+        "Humidity":95.0,
+        "SoundLevel":184
+    },
+    {
+        "LightSensor":263,
+        "cpuTemp":54.768,
+        "date":"2020-07-25 08:09:48.736995",
+        "Temperature":82.4,
+        "Humidity":95.0,
+        "SoundLevel":183
+    },
+    {
+        "LightSensor":259,
+        "cpuTemp":54.768,
+        "date":"2020-07-25 08:19:54.712213",
+        "Temperature":82.4,
+        "Humidity":95.0,
+        "SoundLevel":182
+    },
+    {
+        "LightSensor":262,
+        "cpuTemp":54.768,
+        "date":"2020-07-25 08:29:55.525933",
+        "Temperature":84.2,
+        "Humidity":95.0,
+        "SoundLevel":182
+    },
+    {
+        "LightSensor":261,
+        "cpuTemp":55.843,
+        "date":"2020-07-25 08:39:56.408505",
+        "Temperature":84.2,
+        "Humidity":95.0,
+        "SoundLevel":182
+    },
+    {
+        "LightSensor":257,
+        "cpuTemp":55.306,
+        "date":"2020-07-25 08:49:57.326495",
+        "Temperature":84.2,
+        "Humidity":95.0,
+        "SoundLevel":182
+    },
+    {
+        "LightSensor":255,
+        "cpuTemp":55.843,
+        "date":"2020-07-25 08:59:58.206241",
+        "Temperature":84.2,
+        "Humidity":95.0,
+        "SoundLevel":182
+    },
+    {
+        "LightSensor":258,
+        "cpuTemp":55.843,
+        "date":"2020-07-25 09:09:59.091819",
+        "Temperature":86.0,
+        "Humidity":95.0,
+        "SoundLevel":181
+    },
+    {
+        "LightSensor":255,
+        "cpuTemp":55.843,
+        "date":"2020-07-25 09:19:59.994684",
+        "Temperature":86.0,
+        "Humidity":95.0,
+        "SoundLevel":180
+    },
+    {
+        "LightSensor":251,
+        "cpuTemp":56.382,
+        "date":"2020-07-25 09:30:00.922501",
+        "Temperature":86.0,
+        "Humidity":95.0,
+        "SoundLevel":181
+    },
+    {
+        "LightSensor":255,
+        "cpuTemp":56.92,
+        "date":"2020-07-25 09:40:01.809430",
+        "Temperature":86.0,
+        "Humidity":95.0,
+        "SoundLevel":179
+    },
+    {
+        "LightSensor":247,
+        "cpuTemp":56.92,
+        "date":"2020-07-25 09:50:02.692477",
+        "Temperature":87.8,
+        "Humidity":95.0,
+        "SoundLevel":178
+    },
+    {
+        "LightSensor":247,
+        "cpuTemp":56.92,
+        "date":"2020-07-25 10:00:03.606983",
+        "Temperature":87.8,
+        "Humidity":95.0,
+        "SoundLevel":178
+    },
+    {
+        "LightSensor":252,
+        "cpuTemp":56.92,
+        "date":"2020-07-25 10:10:04.525953",
+        "Temperature":89.6,
+        "Humidity":95.0,
+        "SoundLevel":179
+    },
+    {
+        "LightSensor":248,
+        "cpuTemp":57.458,
+        "date":"2020-07-25 10:20:05.326249",
+        "Temperature":89.6,
+        "Humidity":95.0,
+        "SoundLevel":178
+    },
+    {
+        "LightSensor":247,
+        "cpuTemp":57.458,
+        "date":"2020-07-25 10:30:06.211726",
+        "Temperature":89.6,
+        "Humidity":94.0,
+        "SoundLevel":176
+    },
+    {
+        "LightSensor":254,
+        "cpuTemp":57.996,
+        "date":"2020-07-25 10:40:07.145050",
+        "Temperature":89.6,
+        "Humidity":92.0,
+        "SoundLevel":175
+    },
+    {
+        "LightSensor":249,
+        "cpuTemp":57.996,
+        "date":"2020-07-25 10:50:08.056789",
+        "Temperature":89.6,
+        "Humidity":93.0,
+        "SoundLevel":175
+    },
+    {
+        "LightSensor":247,
+        "cpuTemp":57.996,
+        "date":"2020-07-25 11:00:08.978061",
+        "Temperature":91.4,
+        "Humidity":91.0,
+        "SoundLevel":173
+    },
+    {
+        "LightSensor":253,
+        "cpuTemp":57.996,
+        "date":"2020-07-25 11:10:09.907751",
+        "Temperature":91.4,
+        "Humidity":93.0,
+        "SoundLevel":172
+    },
+    {
+        "LightSensor":248,
+        "cpuTemp":57.996,
+        "date":"2020-07-25 11:20:10.788960",
+        "Temperature":91.4,
+        "Humidity":91.0,
+        "SoundLevel":173
+    },
+    {
+        "LightSensor":244,
+        "cpuTemp":59.072,
+        "date":"2020-07-25 11:30:11.578792",
+        "Temperature":91.4,
+        "Humidity":87.0,
+        "SoundLevel":172
+    },
+    {
+        "LightSensor":251,
+        "cpuTemp":59.61,
+        "date":"2020-07-25 11:40:12.494283",
+        "Temperature":93.2,
+        "Humidity":82.0,
+        "SoundLevel":171
+    },
+    {
+        "LightSensor":247,
+        "cpuTemp":59.072,
+        "date":"2020-07-25 11:50:13.395291",
+        "Temperature":93.2,
+        "Humidity":83.0,
+        "SoundLevel":169
+    },
+    {
+        "LightSensor":255,
+        "cpuTemp":58.533,
+        "date":"2020-07-25 12:00:14.323789",
+        "Temperature":91.4,
+        "Humidity":86.0,
+        "SoundLevel":168
+    },
+    {
+        "LightSensor":242,
+        "cpuTemp":57.996,
+        "date":"2020-07-25 12:10:15.171127",
+        "Temperature":91.4,
+        "Humidity":87.0,
+        "SoundLevel":169
+    },
+    {
+        "LightSensor":248,
+        "cpuTemp":59.072,
+        "date":"2020-07-25 12:20:16.114568",
+        "Temperature":91.4,
+        "Humidity":86.0,
+        "SoundLevel":169
+    },
+    {
+        "LightSensor":252,
+        "cpuTemp":59.61,
+        "date":"2020-07-25 12:30:17.009468",
+        "Temperature":91.4,
+        "Humidity":84.0,
+        "SoundLevel":168
+    },
+    {
+        "LightSensor":242,
+        "cpuTemp":59.072,
+        "date":"2020-07-25 12:40:17.807969",
+        "Temperature":93.2,
+        "Humidity":82.0,
+        "SoundLevel":168
+    },
+    {
+        "LightSensor":239,
+        "cpuTemp":60.148,
+        "date":"2020-07-25 12:50:18.704389",
+        "Temperature":93.2,
+        "Humidity":81.0,
+        "SoundLevel":169
+    },
+    {
+        "LightSensor":248,
+        "cpuTemp":60.148,
+        "date":"2020-07-25 13:00:19.563540",
+        "Temperature":95.0,
+        "Humidity":77.0,
+        "SoundLevel":167
+    },
+    {
+        "LightSensor":234,
+        "cpuTemp":60.148,
+        "date":"2020-07-25 13:10:20.474062",
+        "Temperature":95.0,
+        "Humidity":77.0,
+        "SoundLevel":166
+    },
+    {
+        "LightSensor":234,
+        "cpuTemp":61.224,
+        "date":"2020-07-25 13:20:21.384494",
+        "Temperature":96.8,
+        "Humidity":77.0,
+        "SoundLevel":167
+    },
+    {
+        "LightSensor":228,
+        "cpuTemp":60.686,
+        "date":"2020-07-25 13:30:22.253858",
+        "Temperature":98.6,
+        "Humidity":73.0,
+        "SoundLevel":166
+    },
+    {
+        "LightSensor":231,
+        "cpuTemp":61.224,
+        "date":"2020-07-25 13:40:23.148993",
+        "Temperature":98.6,
+        "Humidity":72.0,
+        "SoundLevel":164
+    },
+    {
+        "LightSensor":228,
+        "cpuTemp":61.761,
+        "date":"2020-07-25 13:50:24.052080",
+        "Temperature":96.8,
+        "Humidity":72.0,
+        "SoundLevel":162
+    },
+    {
+        "LightSensor":233,
+        "cpuTemp":61.224,
+        "date":"2020-07-25 14:00:24.929767",
+        "Temperature":96.8,
+        "Humidity":73.0,
+        "SoundLevel":162
+    },
+    {
+        "LightSensor":227,
+        "cpuTemp":61.761,
+        "date":"2020-07-25 14:10:25.814753",
+        "Temperature":98.6,
+        "Humidity":71.0,
+        "SoundLevel":162
+    },
+    {
+        "LightSensor":228,
+        "cpuTemp":62.3,
+        "date":"2020-07-25 14:20:26.714180",
+        "Temperature":98.6,
+        "Humidity":68.0,
+        "SoundLevel":162
+    },
+    {
+        "LightSensor":224,
+        "cpuTemp":62.3,
+        "date":"2020-07-25 14:30:27.687131",
+        "Temperature":100.4,
+        "Humidity":66.0,
+        "SoundLevel":160
+    },
+    {
+        "LightSensor":233,
+        "cpuTemp":60.686,
+        "date":"2020-07-25 14:40:28.545604",
+        "Temperature":98.6,
+        "Humidity":67.0,
+        "SoundLevel":159
+    },
+    {
+        "LightSensor":235,
+        "cpuTemp":61.224,
+        "date":"2020-07-25 14:50:29.411619",
+        "Temperature":96.8,
+        "Humidity":73.0,
+        "SoundLevel":155
+    },
+    {
+        "LightSensor":235,
+        "cpuTemp":60.148,
+        "date":"2020-07-25 15:00:30.282354",
+        "Temperature":95.0,
+        "Humidity":75.0,
+        "SoundLevel":159
+    },
+    {
+        "LightSensor":226,
+        "cpuTemp":61.224,
+        "date":"2020-07-25 15:10:31.325085",
+        "Temperature":95.0,
+        "Humidity":76.0,
+        "SoundLevel":160
+    },
+    {
+        "LightSensor":230,
+        "cpuTemp":60.686,
+        "date":"2020-07-25 15:20:32.244453",
+        "Temperature":98.6,
+        "Humidity":70.0,
+        "SoundLevel":159
+    },
+    {
+        "LightSensor":229,
+        "cpuTemp":61.224,
+        "date":"2020-07-25 15:30:33.109492",
+        "Temperature":96.8,
+        "Humidity":70.0,
+        "SoundLevel":159
+    },
+    {
+        "LightSensor":233,
+        "cpuTemp":60.686,
+        "date":"2020-07-25 15:40:33.908514",
+        "Temperature":95.0,
+        "Humidity":74.0,
+        "SoundLevel":159
+    },
+    {
+        "LightSensor":227,
+        "cpuTemp":61.224,
+        "date":"2020-07-25 15:50:34.831795",
+        "Temperature":96.8,
+        "Humidity":74.0,
+        "SoundLevel":160
+    },
+    {
+        "LightSensor":222,
+        "cpuTemp":62.838,
+        "date":"2020-07-25 16:00:35.624177",
+        "Temperature":98.6,
+        "Humidity":69.0,
+        "SoundLevel":163
+    },
+    {
+        "LightSensor":177,
+        "cpuTemp":67.142,
+        "date":"2020-07-25 16:10:36.505976",
+        "Temperature":105.8,
+        "Humidity":60.0,
+        "SoundLevel":178
+    },
+    {
+        "LightSensor":168,
+        "cpuTemp":71.446,
+        "date":"2020-07-25 16:20:37.332946",
+        "Temperature":122.0,
+        "Humidity":40.0,
+        "SoundLevel":179
+    },
+    {
+        "LightSensor":210,
+        "cpuTemp":67.679,
+        "date":"2020-07-25 16:30:38.260790",
+        "Temperature":125.6,
+        "Humidity":37.0,
+        "SoundLevel":160
+    },
+    {
+        "LightSensor":224,
+        "cpuTemp":63.376,
+        "date":"2020-07-25 16:40:39.147097",
+        "Temperature":105.8,
+        "Humidity":56.0,
+        "SoundLevel":152
+    },
+    {
+        "LightSensor":233,
+        "cpuTemp":62.3,
+        "date":"2020-07-25 16:50:40.009234",
+        "Temperature":98.6,
+        "Humidity":65.0,
+        "SoundLevel":153
+    },
+    {
+        "LightSensor":231,
+        "cpuTemp":61.224,
+        "date":"2020-07-25 17:00:40.904449",
+        "Temperature":96.8,
+        "Humidity":71.0,
+        "SoundLevel":151
+    },
+    {
+        "LightSensor":237,
+        "cpuTemp":60.686,
+        "date":"2020-07-25 17:10:41.760279",
+        "Temperature":95.0,
+        "Humidity":74.0,
+        "SoundLevel":154
+    },
+    {
+        "LightSensor":249,
+        "cpuTemp":59.61,
+        "date":"2020-07-25 17:20:42.620686",
+        "Temperature":93.2,
+        "Humidity":76.0,
+        "SoundLevel":154
+    },
+    {
+        "LightSensor":246,
+        "cpuTemp":59.072,
+        "date":"2020-07-25 17:30:43.510341",
+        "Temperature":93.2,
+        "Humidity":75.0,
+        "SoundLevel":155
+    },
+    {
+        "LightSensor":254,
+        "cpuTemp":57.996,
+        "date":"2020-07-25 17:40:44.951142",
+        "Temperature":89.6,
+        "Humidity":78.0,
+        "SoundLevel":155
+    },
+    {
+        "LightSensor":253,
+        "cpuTemp":58.533,
+        "date":"2020-07-25 17:50:46.647465",
+        "Temperature":87.8,
+        "Humidity":85.0,
+        "SoundLevel":156
+    },
+    {
+        "LightSensor":257,
+        "cpuTemp":57.996,
+        "date":"2020-07-25 18:00:47.647104",
+        "Temperature":89.6,
+        "Humidity":81.0,
+        "SoundLevel":158
+    },
+    {
+        "LightSensor":260,
+        "cpuTemp":56.92,
+        "date":"2020-07-25 18:10:48.509583",
+        "Temperature":87.8,
+        "Humidity":87.0,
+        "SoundLevel":160
+    },
+    {
+        "LightSensor":262,
+        "cpuTemp":56.92,
+        "date":"2020-07-25 18:20:49.401239",
+        "Temperature":86.0,
+        "Humidity":90.0,
+        "SoundLevel":162
+    },
+    {
+        "LightSensor":311,
+        "cpuTemp":56.92,
+        "date":"2020-07-25 18:30:50.196716",
+        "Temperature":86.0,
+        "Humidity":94.0,
+        "SoundLevel":161
+    },
+    {
+        "LightSensor":255,
+        "cpuTemp":56.92,
+        "date":"2020-07-25 18:40:51.012879",
+        "Temperature":86.0,
+        "Humidity":95.0,
+        "SoundLevel":162
+    },
+    {
+        "LightSensor":251,
+        "cpuTemp":56.92,
+        "date":"2020-07-25 18:50:51.811873",
+        "Temperature":86.0,
+        "Humidity":95.0,
+        "SoundLevel":164
+    },
+    {
+        "LightSensor":259,
+        "cpuTemp":56.92,
+        "date":"2020-07-25 19:00:52.684957",
+        "Temperature":86.0,
+        "Humidity":95.0,
+        "SoundLevel":165
+    },
+    {
+        "LightSensor":255,
+        "cpuTemp":57.458,
+        "date":"2020-07-25 19:10:53.604613",
+        "Temperature":86.0,
+        "Humidity":95.0,
+        "SoundLevel":165
+    },
+    {
+        "LightSensor":255,
+        "cpuTemp":56.92,
+        "date":"2020-07-25 19:20:54.535166",
+        "Temperature":86.0,
+        "Humidity":95.0,
+        "SoundLevel":169
+    },
+    {
+        "LightSensor":255,
+        "cpuTemp":56.92,
+        "date":"2020-07-25 19:30:55.431228",
+        "Temperature":86.0,
+        "Humidity":95.0,
+        "SoundLevel":167
+    },
+    {
+        "LightSensor":263,
+        "cpuTemp":56.382,
+        "date":"2020-07-25 19:40:56.217947",
+        "Temperature":86.0,
+        "Humidity":95.0,
+        "SoundLevel":169
+    },
+    {
+        "LightSensor":255,
+        "cpuTemp":56.382,
+        "date":"2020-07-25 19:50:57.137215",
+        "Temperature":86.0,
+        "Humidity":95.0,
+        "SoundLevel":167
+    },
+    {
+        "LightSensor":265,
+        "cpuTemp":55.843,
+        "date":"2020-07-25 20:00:58.007014",
+        "Temperature":86.0,
+        "Humidity":95.0,
+        "SoundLevel":169
+    },
+    {
+        "LightSensor":258,
+        "cpuTemp":55.843,
+        "date":"2020-07-25 20:10:58.882181",
+        "Temperature":84.2,
+        "Humidity":95.0,
+        "SoundLevel":170
+    },
+    {
+        "LightSensor":263,
+        "cpuTemp":56.382,
+        "date":"2020-07-25 20:20:59.749754",
+        "Temperature":84.2,
+        "Humidity":95.0,
+        "SoundLevel":171
+    },
+    {
+        "LightSensor":259,
+        "cpuTemp":55.843,
+        "date":"2020-07-25 20:31:00.673721",
+        "Temperature":84.2,
+        "Humidity":95.0,
+        "SoundLevel":171
+    },
+    {
+        "LightSensor":259,
+        "cpuTemp":55.843,
+        "date":"2020-07-25 20:41:01.481421",
+        "Temperature":82.4,
+        "Humidity":95.0,
+        "SoundLevel":171
+    },
+    {
+        "LightSensor":265,
+        "cpuTemp":55.843,
+        "date":"2020-07-25 20:51:02.304132",
+        "Temperature":82.4,
+        "Humidity":95.0,
+        "SoundLevel":172
+    },
+    {
+        "LightSensor":267,
+        "cpuTemp":54.768,
+        "date":"2020-07-25 21:01:03.097756",
+        "Temperature":82.4,
+        "Humidity":95.0,
+        "SoundLevel":174
+    },
+    {
+        "LightSensor":267,
+        "cpuTemp":55.306,
+        "date":"2020-07-25 21:11:03.973209",
+        "Temperature":82.4,
+        "Humidity":95.0,
+        "SoundLevel":174
+    },
+    {
+        "LightSensor":262,
+        "cpuTemp":55.306,
+        "date":"2020-07-25 21:21:04.844152",
+        "Temperature":82.4,
+        "Humidity":95.0,
+        "SoundLevel":173
+    },
+    {
+        "LightSensor":266,
+        "cpuTemp":54.768,
+        "date":"2020-07-25 21:31:05.731159",
+        "Temperature":82.4,
+        "Humidity":95.0,
+        "SoundLevel":174
+    },
+    {
+        "LightSensor":269,
+        "cpuTemp":54.768,
+        "date":"2020-07-25 21:41:06.604346",
+        "Temperature":82.4,
+        "Humidity":95.0,
+        "SoundLevel":176
+    },
+    {
+        "LightSensor":267,
+        "cpuTemp":54.768,
+        "date":"2020-07-25 21:51:07.503645",
+        "Temperature":82.4,
+        "Humidity":95.0,
+        "SoundLevel":175
+    },
+    {
+        "LightSensor":275,
+        "cpuTemp":54.768,
+        "date":"2020-07-25 22:01:08.369756",
+        "Temperature":82.4,
+        "Humidity":95.0,
+        "SoundLevel":175
+    },
+    {
+        "LightSensor":271,
+        "cpuTemp":54.768,
+        "date":"2020-07-25 22:11:09.265081",
+        "Temperature":82.4,
+        "Humidity":95.0,
+        "SoundLevel":176
+    },
+    {
+        "LightSensor":270,
+        "cpuTemp":54.768,
+        "date":"2020-07-25 22:21:10.211976",
+        "Temperature":82.4,
+        "Humidity":95.0,
+        "SoundLevel":176
+    },
+    {
+        "LightSensor":269,
+        "cpuTemp":54.768,
+        "date":"2020-07-25 22:31:11.077869",
+        "Temperature":82.4,
+        "Humidity":95.0,
+        "SoundLevel":177
+    },
+    {
+        "LightSensor":265,
+        "cpuTemp":54.768,
+        "date":"2020-07-25 22:41:11.941919",
+        "Temperature":80.6,
+        "Humidity":95.0,
+        "SoundLevel":177
+    },
+    {
+        "LightSensor":262,
+        "cpuTemp":54.23,
+        "date":"2020-07-25 22:51:12.810434",
+        "Temperature":82.4,
+        "Humidity":95.0,
+        "SoundLevel":177
+    },
+    {
+        "LightSensor":264,
+        "cpuTemp":54.23,
+        "date":"2020-07-25 23:01:13.710847",
+        "Temperature":80.6,
+        "Humidity":95.0,
+        "SoundLevel":178
+    },
+    {
+        "LightSensor":275,
+        "cpuTemp":55.306,
+        "date":"2020-07-25 23:11:14.632278",
+        "Temperature":82.4,
+        "Humidity":95.0,
+        "SoundLevel":177
+    },
+    {
+        "LightSensor":274,
+        "cpuTemp":54.768,
+        "date":"2020-07-25 23:21:15.521887",
+        "Temperature":80.6,
+        "Humidity":95.0,
+        "SoundLevel":178
+    },
+    {
+        "LightSensor":268,
+        "cpuTemp":54.23,
+        "date":"2020-07-25 23:31:16.421556",
+        "Temperature":80.6,
+        "Humidity":95.0,
+        "SoundLevel":178
+    },
+    {
+        "LightSensor":271,
+        "cpuTemp":54.23,
+        "date":"2020-07-25 23:41:17.352204",
+        "Temperature":80.6,
+        "Humidity":95.0,
+        "SoundLevel":179
+    },
+    {
+        "LightSensor":265,
+        "cpuTemp":54.23,
+        "date":"2020-07-25 23:51:18.223766",
+        "Temperature":80.6,
+        "Humidity":95.0,
+        "SoundLevel":178
+    },
+    {
+        "LightSensor":266,
+        "cpuTemp":54.23,
+        "date":"2020-07-26 00:01:19.115675",
+        "Temperature":80.6,
+        "Humidity":95.0,
+        "SoundLevel":179
+    },
+    {
+        "LightSensor":269,
+        "cpuTemp":53.692,
+        "date":"2020-07-26 00:11:20.008723",
+        "Temperature":80.6,
+        "Humidity":95.0,
+        "SoundLevel":179
+    },
+    {
+        "LightSensor":265,
+        "cpuTemp":54.23,
+        "date":"2020-07-26 00:21:20.872912",
+        "Temperature":80.6,
+        "Humidity":95.0,
+        "SoundLevel":180
+    },
+    {
+        "LightSensor":272,
+        "cpuTemp":53.692,
+        "date":"2020-07-26 00:31:21.765430",
+        "Temperature":80.6,
+        "Humidity":95.0,
+        "SoundLevel":178
+    },
+    {
+        "LightSensor":270,
+        "cpuTemp":53.692,
+        "date":"2020-07-26 00:41:22.647006",
+        "Temperature":80.6,
+        "Humidity":95.0,
+        "SoundLevel":180
+    },
+    {
+        "LightSensor":277,
+        "cpuTemp":53.692,
+        "date":"2020-07-26 00:51:23.544971",
+        "Temperature":80.6,
+        "Humidity":95.0,
+        "SoundLevel":180
+    },
+    {
+        "LightSensor":272,
+        "cpuTemp":53.692,
+        "date":"2020-07-26 01:01:24.413610",
+        "Temperature":80.6,
+        "Humidity":95.0,
+        "SoundLevel":180
+    },
+    {
+        "LightSensor":271,
+        "cpuTemp":53.692,
+        "date":"2020-07-26 01:11:25.285040",
+        "Temperature":80.6,
+        "Humidity":95.0,
+        "SoundLevel":180
+    },
+    {
+        "LightSensor":271,
+        "cpuTemp":53.692,
+        "date":"2020-07-26 01:21:26.159107",
+        "Temperature":80.6,
+        "Humidity":95.0,
+        "SoundLevel":180
+    },
+    {
+        "LightSensor":266,
+        "cpuTemp":53.154,
+        "date":"2020-07-26 01:31:32.117090",
+        "Temperature":80.6,
+        "Humidity":95.0,
+        "SoundLevel":180
+    },
+    {
+        "LightSensor":268,
+        "cpuTemp":53.692,
+        "date":"2020-07-26 01:41:33.003132",
+        "Temperature":80.6,
+        "Humidity":95.0,
+        "SoundLevel":181
+    },
+    {
+        "LightSensor":268,
+        "cpuTemp":53.692,
+        "date":"2020-07-26 01:51:33.971674",
+        "Temperature":78.8,
+        "Humidity":95.0,
+        "SoundLevel":181
+    },
+    {
+        "LightSensor":275,
+        "cpuTemp":53.692,
+        "date":"2020-07-26 02:01:34.900661",
+        "Temperature":80.6,
+        "Humidity":95.0,
+        "SoundLevel":180
+    },
+    {
+        "LightSensor":277,
+        "cpuTemp":54.23,
+        "date":"2020-07-26 02:11:35.759738",
+        "Temperature":78.8,
+        "Humidity":95.0,
+        "SoundLevel":180
+    },
+    {
+        "LightSensor":269,
+        "cpuTemp":53.154,
+        "date":"2020-07-26 02:21:36.639332",
+        "Temperature":78.8,
+        "Humidity":95.0,
+        "SoundLevel":180
+    },
+    {
+        "LightSensor":275,
+        "cpuTemp":53.154,
+        "date":"2020-07-26 02:31:37.483551",
+        "Temperature":78.8,
+        "Humidity":95.0,
+        "SoundLevel":181
+    },
+    {
+        "LightSensor":274,
+        "cpuTemp":53.692,
+        "date":"2020-07-26 02:41:38.273122",
+        "Temperature":78.8,
+        "Humidity":95.0,
+        "SoundLevel":180
+    },
+    {
+        "LightSensor":275,
+        "cpuTemp":53.692,
+        "date":"2020-07-26 02:51:44.361234",
+        "Temperature":78.8,
+        "Humidity":95.0,
+        "SoundLevel":180
+    },
+    {
+        "LightSensor":269,
+        "cpuTemp":53.692,
+        "date":"2020-07-26 03:01:45.855615",
+        "Temperature":78.8,
+        "Humidity":95.0,
+        "SoundLevel":181
+    },
+    {
+        "LightSensor":273,
+        "cpuTemp":52.615,
+        "date":"2020-07-26 03:11:47.221847",
+        "Temperature":78.8,
+        "Humidity":95.0,
+        "SoundLevel":181
+    },
+    {
+        "LightSensor":274,
+        "cpuTemp":53.692,
+        "date":"2020-07-26 03:21:48.251448",
+        "Temperature":78.8,
+        "Humidity":95.0,
+        "SoundLevel":181
+    },
+    {
+        "LightSensor":274,
+        "cpuTemp":53.692,
+        "date":"2020-07-26 03:31:49.221209",
+        "Temperature":78.8,
+        "Humidity":95.0,
+        "SoundLevel":181
+    },
+    {
+        "LightSensor":271,
+        "cpuTemp":53.692,
+        "date":"2020-07-26 03:41:50.039897",
+        "Temperature":78.8,
+        "Humidity":95.0,
+        "SoundLevel":181
+    },
+    {
+        "LightSensor":277,
+        "cpuTemp":53.692,
+        "date":"2020-07-26 03:51:50.920500",
+        "Temperature":78.8,
+        "Humidity":95.0,
+        "SoundLevel":181
+    },
+    {
+        "LightSensor":275,
+        "cpuTemp":52.615,
+        "date":"2020-07-26 04:01:51.845037",
+        "Temperature":78.8,
+        "Humidity":95.0,
+        "SoundLevel":181
+    },
+    {
+        "LightSensor":275,
+        "cpuTemp":53.692,
+        "date":"2020-07-26 04:11:52.741727",
+        "Temperature":78.8,
+        "Humidity":95.0,
+        "SoundLevel":182
+    },
+    {
+        "LightSensor":269,
+        "cpuTemp":53.154,
+        "date":"2020-07-26 04:21:53.751763",
+        "Temperature":78.8,
+        "Humidity":95.0,
+        "SoundLevel":183
+    },
+    {
+        "LightSensor":271,
+        "cpuTemp":52.615,
+        "date":"2020-07-26 04:31:54.690782",
+        "Temperature":78.8,
+        "Humidity":95.0,
+        "SoundLevel":182
+    },
+    {
+        "LightSensor":275,
+        "cpuTemp":52.615,
+        "date":"2020-07-26 04:41:55.583913",
+        "Temperature":78.8,
+        "Humidity":95.0,
+        "SoundLevel":183
+    },
+    {
+        "LightSensor":277,
+        "cpuTemp":53.154,
+        "date":"2020-07-26 04:51:56.470136",
+        "Temperature":78.8,
+        "Humidity":95.0,
+        "SoundLevel":183
+    },
+    {
+        "LightSensor":270,
+        "cpuTemp":52.615,
+        "date":"2020-07-26 05:01:57.360616",
+        "Temperature":77.0,
+        "Humidity":95.0,
+        "SoundLevel":183
+    },
+    {
+        "LightSensor":280,
+        "cpuTemp":52.615,
+        "date":"2020-07-26 05:11:58.165027",
+        "Temperature":78.8,
+        "Humidity":95.0,
+        "SoundLevel":183
+    },
+    {
+        "LightSensor":282,
+        "cpuTemp":53.154,
+        "date":"2020-07-26 05:21:59.063900",
+        "Temperature":77.0,
+        "Humidity":95.0,
+        "SoundLevel":183
+    },
+    {
+        "LightSensor":281,
+        "cpuTemp":53.154,
+        "date":"2020-07-26 05:31:59.910122",
+        "Temperature":77.0,
+        "Humidity":95.0,
+        "SoundLevel":182
+    },
+    {
+        "LightSensor":282,
+        "cpuTemp":52.615,
+        "date":"2020-07-26 05:42:00.779286",
+        "Temperature":78.8,
+        "Humidity":95.0,
+        "SoundLevel":183
+    },
+    {
+        "LightSensor":276,
+        "cpuTemp":52.615,
+        "date":"2020-07-26 05:52:01.675359",
+        "Temperature":77.0,
+        "Humidity":95.0,
+        "SoundLevel":183
+    },
+    {
+        "LightSensor":284,
+        "cpuTemp":52.078,
+        "date":"2020-07-26 06:02:02.560989",
+        "Temperature":77.0,
+        "Humidity":95.0,
+        "SoundLevel":182
+    },
+    {
+        "LightSensor":274,
+        "cpuTemp":52.615,
+        "date":"2020-07-26 06:12:03.453942",
+        "Temperature":77.0,
+        "Humidity":95.0,
+        "SoundLevel":182
+    },
+    {
+        "LightSensor":280,
+        "cpuTemp":52.615,
+        "date":"2020-07-26 06:22:04.324250",
+        "Temperature":77.0,
+        "Humidity":95.0,
+        "SoundLevel":184
+    },
+    {
+        "LightSensor":271,
+        "cpuTemp":53.154,
+        "date":"2020-07-26 06:32:05.184300",
+        "Temperature":77.0,
+        "Humidity":95.0,
+        "SoundLevel":184
+    },
+    {
+        "LightSensor":276,
+        "cpuTemp":53.154,
+        "date":"2020-07-26 06:42:06.073538",
+        "Temperature":77.0,
+        "Humidity":95.0,
+        "SoundLevel":184
+    },
+    {
+        "LightSensor":283,
+        "cpuTemp":53.154,
+        "date":"2020-07-26 06:52:06.984057",
+        "Temperature":78.8,
+        "Humidity":95.0,
+        "SoundLevel":184
+    },
+    {
+        "LightSensor":282,
+        "cpuTemp":53.154,
+        "date":"2020-07-26 07:02:07.919176",
+        "Temperature":78.8,
+        "Humidity":95.0,
+        "SoundLevel":184
+    },
+    {
+        "LightSensor":282,
+        "cpuTemp":52.615,
+        "date":"2020-07-26 07:12:08.907282",
+        "Temperature":78.8,
+        "Humidity":95.0,
+        "SoundLevel":183
+    },
+    {
+        "LightSensor":271,
+        "cpuTemp":53.154,
+        "date":"2020-07-26 07:22:09.746476",
+        "Temperature":78.8,
+        "Humidity":95.0,
+        "SoundLevel":184
+    },
+    {
+        "LightSensor":278,
+        "cpuTemp":53.154,
+        "date":"2020-07-26 07:32:10.677582",
+        "Temperature":78.8,
+        "Humidity":95.0,
+        "SoundLevel":185
+    },
+    {
+        "LightSensor":271,
+        "cpuTemp":53.154,
+        "date":"2020-07-26 07:42:11.645858",
+        "Temperature":80.6,
+        "Humidity":95.0,
+        "SoundLevel":186
+    },
+    {
+        "LightSensor":265,
+        "cpuTemp":53.692,
+        "date":"2020-07-26 07:52:12.511668",
+        "Temperature":80.6,
+        "Humidity":95.0,
+        "SoundLevel":185
+    },
+    {
+        "LightSensor":271,
+        "cpuTemp":53.692,
+        "date":"2020-07-26 08:02:13.381981",
+        "Temperature":80.6,
+        "Humidity":95.0,
+        "SoundLevel":187
+    },
+    {
+        "LightSensor":262,
+        "cpuTemp":53.692,
+        "date":"2020-07-26 08:12:14.292296",
+        "Temperature":80.6,
+        "Humidity":95.0,
+        "SoundLevel":183
+    },
+    {
+        "LightSensor":269,
+        "cpuTemp":53.692,
+        "date":"2020-07-26 08:22:15.224949",
+        "Temperature":80.6,
+        "Humidity":95.0,
+        "SoundLevel":184
+    },
+    {
+        "LightSensor":269,
+        "cpuTemp":53.692,
+        "date":"2020-07-26 08:32:16.100816",
+        "Temperature":80.6,
+        "Humidity":95.0,
+        "SoundLevel":184
+    },
+    {
+        "LightSensor":260,
+        "cpuTemp":54.23,
+        "date":"2020-07-26 08:42:17.032165",
+        "Temperature":82.4,
+        "Humidity":95.0,
+        "SoundLevel":184
+    },
+    {
+        "LightSensor":262,
+        "cpuTemp":54.23,
+        "date":"2020-07-26 08:52:17.975248",
+        "Temperature":82.4,
+        "Humidity":95.0,
+        "SoundLevel":184
+    },
+    {
+        "LightSensor":265,
+        "cpuTemp":54.768,
+        "date":"2020-07-26 09:02:18.875572",
+        "Temperature":82.4,
+        "Humidity":95.0,
+        "SoundLevel":184
+    },
+    {
+        "LightSensor":259,
+        "cpuTemp":54.23,
+        "date":"2020-07-26 09:12:19.770367",
+        "Temperature":82.4,
+        "Humidity":95.0,
+        "SoundLevel":181
+    },
+    {
+        "LightSensor":259,
+        "cpuTemp":54.768,
+        "date":"2020-07-26 09:22:20.680995",
+        "Temperature":82.4,
+        "Humidity":95.0,
+        "SoundLevel":183
+    },
+    {
+        "LightSensor":260,
+        "cpuTemp":55.306,
+        "date":"2020-07-26 09:32:21.594127",
+        "Temperature":82.4,
+        "Humidity":95.0,
+        "SoundLevel":183
+    },
+    {
+        "LightSensor":266,
+        "cpuTemp":54.768,
+        "date":"2020-07-26 09:42:22.445029",
+        "Temperature":84.2,
+        "Humidity":95.0,
+        "SoundLevel":182
+    },
+    {
+        "LightSensor":263,
+        "cpuTemp":55.843,
+        "date":"2020-07-26 09:52:23.377161",
+        "Temperature":84.2,
+        "Humidity":95.0,
+        "SoundLevel":182
+    },
+    {
+        "LightSensor":257,
+        "cpuTemp":55.843,
+        "date":"2020-07-26 10:02:24.306545",
+        "Temperature":84.2,
+        "Humidity":95.0,
+        "SoundLevel":183
+    },
+    {
+        "LightSensor":255,
+        "cpuTemp":56.382,
+        "date":"2020-07-26 10:12:25.227647",
+        "Temperature":86.0,
+        "Humidity":95.0,
+        "SoundLevel":182
+    },
+    {
+        "LightSensor":249,
+        "cpuTemp":55.843,
+        "date":"2020-07-26 10:22:26.183448",
+        "Temperature":86.0,
+        "Humidity":95.0,
+        "SoundLevel":181
+    },
+    {
+        "LightSensor":248,
+        "cpuTemp":56.382,
+        "date":"2020-07-26 10:32:27.126898",
+        "Temperature":87.8,
+        "Humidity":95.0,
+        "SoundLevel":181
+    },
+    {
+        "LightSensor":251,
+        "cpuTemp":56.382,
+        "date":"2020-07-26 10:42:27.978511",
+        "Temperature":87.8,
+        "Humidity":95.0,
+        "SoundLevel":181
+    },
+    {
+        "LightSensor":243,
+        "cpuTemp":56.92,
+        "date":"2020-07-26 10:52:28.918199",
+        "Temperature":87.8,
+        "Humidity":95.0,
+        "SoundLevel":181
+    },
+    {
+        "LightSensor":244,
+        "cpuTemp":57.458,
+        "date":"2020-07-26 11:02:29.740120",
+        "Temperature":89.6,
+        "Humidity":95.0,
+        "SoundLevel":178
+    },
+    {
+        "LightSensor":246,
+        "cpuTemp":57.996,
+        "date":"2020-07-26 11:12:30.617167",
+        "Temperature":89.6,
+        "Humidity":94.0,
+        "SoundLevel":176
+    },
+    {
+        "LightSensor":251,
+        "cpuTemp":57.996,
+        "date":"2020-07-26 11:22:31.530919",
+        "Temperature":89.6,
+        "Humidity":93.0,
+        "SoundLevel":177
+    },
+    {
+        "LightSensor":245,
+        "cpuTemp":57.996,
+        "date":"2020-07-26 11:32:32.479176",
+        "Temperature":89.6,
+        "Humidity":92.0,
+        "SoundLevel":177
+    },
+    {
+        "LightSensor":247,
+        "cpuTemp":57.996,
+        "date":"2020-07-26 11:42:33.389067",
+        "Temperature":91.4,
+        "Humidity":91.0,
+        "SoundLevel":175
+    },
+    {
+        "LightSensor":240,
+        "cpuTemp":58.533,
+        "date":"2020-07-26 11:52:34.339824",
+        "Temperature":91.4,
+        "Humidity":89.0,
+        "SoundLevel":176
+    },
+    {
+        "LightSensor":239,
+        "cpuTemp":57.996,
+        "date":"2020-07-26 12:02:35.157129",
+        "Temperature":91.4,
+        "Humidity":89.0,
+        "SoundLevel":175
+    },
+    {
+        "LightSensor":243,
+        "cpuTemp":58.533,
+        "date":"2020-07-26 12:12:36.078621",
+        "Temperature":91.4,
+        "Humidity":87.0,
+        "SoundLevel":173
+    },
+    {
+        "LightSensor":237,
+        "cpuTemp":59.072,
+        "date":"2020-07-26 12:22:37.036407",
+        "Temperature":91.4,
+        "Humidity":85.0,
+        "SoundLevel":173
+    },
+    {
+        "LightSensor":241,
+        "cpuTemp":58.533,
+        "date":"2020-07-26 12:32:37.943378",
+        "Temperature":93.2,
+        "Humidity":83.0,
+        "SoundLevel":173
+    },
+    {
+        "LightSensor":235,
+        "cpuTemp":59.072,
+        "date":"2020-07-26 12:42:38.878843",
+        "Temperature":93.2,
+        "Humidity":81.0,
+        "SoundLevel":171
+    },
+    {
+        "LightSensor":238,
+        "cpuTemp":59.072,
+        "date":"2020-07-26 12:52:39.846442",
+        "Temperature":93.2,
+        "Humidity":79.0,
+        "SoundLevel":170
+    },
+    {
+        "LightSensor":240,
+        "cpuTemp":58.533,
+        "date":"2020-07-26 13:02:40.721808",
+        "Temperature":93.2,
+        "Humidity":79.0,
+        "SoundLevel":168
+    },
+    {
+        "LightSensor":242,
+        "cpuTemp":57.996,
+        "date":"2020-07-26 13:12:41.564549",
+        "Temperature":91.4,
+        "Humidity":83.0,
+        "SoundLevel":169
+    },
+    {
+        "LightSensor":239,
+        "cpuTemp":57.996,
+        "date":"2020-07-26 13:22:42.527046",
+        "Temperature":91.4,
+        "Humidity":83.0,
+        "SoundLevel":167
+    },
+    {
+        "LightSensor":240,
+        "cpuTemp":59.072,
+        "date":"2020-07-26 13:32:43.437926",
+        "Temperature":91.4,
+        "Humidity":83.0,
+        "SoundLevel":169
+    },
+    {
+        "LightSensor":236,
+        "cpuTemp":59.61,
+        "date":"2020-07-26 13:42:44.345198",
+        "Temperature":93.2,
+        "Humidity":80.0,
+        "SoundLevel":167
+    },
+    {
+        "LightSensor":237,
+        "cpuTemp":60.148,
+        "date":"2020-07-26 13:52:45.645309",
+        "Temperature":93.2,
+        "Humidity":80.0,
+        "SoundLevel":168
+    },
+    {
+        "LightSensor":230,
+        "cpuTemp":60.148,
+        "date":"2020-07-26 14:02:47.159763",
+        "Temperature":95.0,
+        "Humidity":75.0,
+        "SoundLevel":167
+    },
+    {
+        "LightSensor":233,
+        "cpuTemp":60.686,
+        "date":"2020-07-26 14:12:48.515247",
+        "Temperature":96.8,
+        "Humidity":72.0,
+        "SoundLevel":167
+    },
+    {
+        "LightSensor":229,
+        "cpuTemp":61.224,
+        "date":"2020-07-26 14:22:49.438444",
+        "Temperature":96.8,
+        "Humidity":70.0,
+        "SoundLevel":167
+    },
+    {
+        "LightSensor":228,
+        "cpuTemp":61.224,
+        "date":"2020-07-26 14:32:50.360667",
+        "Temperature":96.8,
+        "Humidity":69.0,
+        "SoundLevel":166
+    },
+    {
+        "LightSensor":231,
+        "cpuTemp":61.224,
+        "date":"2020-07-26 14:42:51.292496",
+        "Temperature":96.8,
+        "Humidity":67.0,
+        "SoundLevel":166
+    },
+    {
+        "LightSensor":231,
+        "cpuTemp":60.686,
+        "date":"2020-07-26 14:52:52.116024",
+        "Temperature":96.8,
+        "Humidity":68.0,
+        "SoundLevel":164
+    },
+    {
+        "LightSensor":233,
+        "cpuTemp":61.224,
+        "date":"2020-07-26 15:02:53.035284",
+        "Temperature":96.8,
+        "Humidity":69.0,
+        "SoundLevel":163
+    },
+    {
+        "LightSensor":233,
+        "cpuTemp":60.686,
+        "date":"2020-07-26 15:12:53.994223",
+        "Temperature":96.8,
+        "Humidity":73.0,
+        "SoundLevel":162
+    },
+    {
+        "LightSensor":235,
+        "cpuTemp":60.148,
+        "date":"2020-07-26 15:22:54.954608",
+        "Temperature":95.0,
+        "Humidity":74.0,
+        "SoundLevel":160
+    },
+    {
+        "LightSensor":238,
+        "cpuTemp":60.148,
+        "date":"2020-07-26 15:32:55.903056",
+        "Temperature":95.0,
+        "Humidity":76.0,
+        "SoundLevel":161
+    },
+    {
+        "LightSensor":238,
+        "cpuTemp":59.072,
+        "date":"2020-07-26 15:42:56.834707",
+        "Temperature":93.2,
+        "Humidity":77.0,
+        "SoundLevel":710
+    },
+    {
+        "LightSensor":243,
+        "cpuTemp":59.072,
+        "date":"2020-07-26 15:52:57.792638",
+        "Temperature":93.2,
+        "Humidity":81.0,
+        "SoundLevel":159
+    },
+    {
+        "LightSensor":245,
+        "cpuTemp":58.533,
+        "date":"2020-07-26 16:02:58.687585",
+        "Temperature":91.4,
+        "Humidity":85.0,
+        "SoundLevel":160
+    },
+    {
+        "LightSensor":239,
+        "cpuTemp":57.996,
+        "date":"2020-07-26 16:12:59.584689",
+        "Temperature":91.4,
+        "Humidity":89.0,
+        "SoundLevel":161
+    },
+    {
+        "LightSensor":249,
+        "cpuTemp":57.996,
+        "date":"2020-07-26 16:23:00.452582",
+        "Temperature":89.6,
+        "Humidity":92.0,
+        "SoundLevel":159
+    },
+    {
+        "LightSensor":251,
+        "cpuTemp":57.458,
+        "date":"2020-07-26 16:33:01.260106",
+        "Temperature":89.6,
+        "Humidity":94.0,
+        "SoundLevel":162
+    },
+    {
+        "LightSensor":245,
+        "cpuTemp":56.92,
+        "date":"2020-07-26 16:43:02.163483",
+        "Temperature":87.8,
+        "Humidity":95.0,
+        "SoundLevel":164
+    },
+    {
+        "LightSensor":242,
+        "cpuTemp":58.533,
+        "date":"2020-07-26 16:53:03.010520",
+        "Temperature":87.8,
+        "Humidity":93.0,
+        "SoundLevel":168
+    },
+    {
+        "LightSensor":225,
+        "cpuTemp":62.3,
+        "date":"2020-07-26 17:03:03.951720",
+        "Temperature":93.2,
+        "Humidity":83.0,
+        "SoundLevel":172
+    },
+    {
+        "LightSensor":231,
+        "cpuTemp":60.148,
+        "date":"2020-07-26 17:13:04.873193",
+        "Temperature":102.2,
+        "Humidity":66.0,
+        "SoundLevel":167
+    },
+    {
+        "LightSensor":244,
+        "cpuTemp":59.61,
+        "date":"2020-07-26 17:23:05.760410",
+        "Temperature":93.2,
+        "Humidity":77.0,
+        "SoundLevel":164
+    },
+    {
+        "LightSensor":239,
+        "cpuTemp":58.533,
+        "date":"2020-07-26 17:33:06.689983",
+        "Temperature":91.4,
+        "Humidity":85.0,
+        "SoundLevel":164
+    },
+    {
+        "LightSensor":243,
+        "cpuTemp":58.533,
+        "date":"2020-07-26 17:43:07.610014",
+        "Temperature":91.4,
+        "Humidity":87.0,
+        "SoundLevel":167
+    },
+    {
+        "LightSensor":247,
+        "cpuTemp":58.533,
+        "date":"2020-07-26 17:53:08.485781",
+        "Temperature":91.4,
+        "Humidity":87.0,
+        "SoundLevel":165
+    },
+    {
+        "LightSensor":246,
+        "cpuTemp":57.996,
+        "date":"2020-07-26 18:03:09.393429",
+        "Temperature":91.4,
+        "Humidity":88.0,
+        "SoundLevel":164
+    },
+    {
+        "LightSensor":251,
+        "cpuTemp":57.996,
+        "date":"2020-07-26 18:13:10.228211",
+        "Temperature":89.6,
+        "Humidity":90.0,
+        "SoundLevel":165
+    },
+    {
+        "LightSensor":249,
+        "cpuTemp":57.996,
+        "date":"2020-07-26 18:23:11.145943",
+        "Temperature":89.6,
+        "Humidity":93.0,
+        "SoundLevel":166
+    },
+    {
+        "LightSensor":250,
+        "cpuTemp":57.996,
+        "date":"2020-07-26 18:33:12.017708",
+        "Temperature":89.6,
+        "Humidity":95.0,
+        "SoundLevel":166
+    },
+    {
+        "LightSensor":247,
+        "cpuTemp":57.996,
+        "date":"2020-07-26 18:43:12.940358",
+        "Temperature":89.6,
+        "Humidity":95.0,
+        "SoundLevel":167
+    },
+    {
+        "LightSensor":253,
+        "cpuTemp":56.92,
+        "date":"2020-07-26 18:53:13.833539",
+        "Temperature":87.8,
+        "Humidity":95.0,
+        "SoundLevel":167
+    },
+    {
+        "LightSensor":251,
+        "cpuTemp":56.92,
+        "date":"2020-07-26 19:03:14.675925",
+        "Temperature":87.8,
+        "Humidity":95.0,
+        "SoundLevel":167
+    },
+    {
+        "LightSensor":247,
+        "cpuTemp":56.92,
+        "date":"2020-07-26 19:13:15.562687",
+        "Temperature":87.8,
+        "Humidity":95.0,
+        "SoundLevel":167
+    },
+    {
+        "LightSensor":251,
+        "cpuTemp":56.92,
+        "date":"2020-07-26 19:23:16.390302",
+        "Temperature":87.8,
+        "Humidity":95.0,
+        "SoundLevel":167
+    },
+    {
+        "LightSensor":249,
+        "cpuTemp":56.382,
+        "date":"2020-07-26 19:33:17.325077",
+        "Temperature":86.0,
+        "Humidity":95.0,
+        "SoundLevel":167
+    },
+    {
+        "LightSensor":249,
+        "cpuTemp":56.382,
+        "date":"2020-07-26 19:43:18.174296",
+        "Temperature":86.0,
+        "Humidity":95.0,
+        "SoundLevel":168
+    },
+    {
+        "LightSensor":259,
+        "cpuTemp":55.843,
+        "date":"2020-07-26 19:53:19.053786",
+        "Temperature":84.2,
+        "Humidity":95.0,
+        "SoundLevel":169
+    },
+    {
+        "LightSensor":253,
+        "cpuTemp":55.843,
+        "date":"2020-07-26 20:03:20.045172",
+        "Temperature":86.0,
+        "Humidity":95.0,
+        "SoundLevel":170
+    },
+    {
+        "LightSensor":255,
+        "cpuTemp":55.843,
+        "date":"2020-07-26 20:13:21.071648",
+        "Temperature":84.2,
+        "Humidity":95.0,
+        "SoundLevel":171
+    },
+    {
+        "LightSensor":262,
+        "cpuTemp":55.843,
+        "date":"2020-07-26 20:23:22.055295",
+        "Temperature":84.2,
+        "Humidity":95.0,
+        "SoundLevel":171
+    },
+    {
+        "LightSensor":258,
+        "cpuTemp":55.306,
+        "date":"2020-07-26 20:33:22.956813",
+        "Temperature":84.2,
+        "Humidity":95.0,
+        "SoundLevel":172
+    },
+    {
+        "LightSensor":268,
+        "cpuTemp":55.843,
+        "date":"2020-07-26 20:43:23.825805",
+        "Temperature":84.2,
+        "Humidity":95.0,
+        "SoundLevel":172
+    },
+    {
+        "LightSensor":261,
+        "cpuTemp":55.843,
+        "date":"2020-07-26 20:53:24.769074",
+        "Temperature":84.2,
+        "Humidity":95.0,
+        "SoundLevel":173
+    },
+    {
+        "LightSensor":265,
+        "cpuTemp":55.306,
+        "date":"2020-07-26 21:03:25.723952",
+        "Temperature":82.4,
+        "Humidity":95.0,
+        "SoundLevel":174
+    },
+    {
+        "LightSensor":261,
+        "cpuTemp":55.843,
+        "date":"2020-07-26 21:13:26.641615",
+        "Temperature":82.4,
+        "Humidity":95.0,
+        "SoundLevel":174
+    },
+    {
+        "LightSensor":269,
+        "cpuTemp":54.768,
+        "date":"2020-07-26 21:23:27.603877",
+        "Temperature":82.4,
+        "Humidity":95.0,
+        "SoundLevel":174
+    },
+    {
+        "LightSensor":260,
+        "cpuTemp":54.768,
+        "date":"2020-07-26 21:33:28.522582",
+        "Temperature":82.4,
+        "Humidity":95.0,
+        "SoundLevel":174
+    },
+    {
+        "LightSensor":266,
+        "cpuTemp":54.768,
+        "date":"2020-07-26 21:43:29.464670",
+        "Temperature":82.4,
+        "Humidity":95.0,
+        "SoundLevel":173
+    },
+    {
+        "LightSensor":269,
+        "cpuTemp":54.768,
+        "date":"2020-07-26 21:53:30.414209",
+        "Temperature":82.4,
+        "Humidity":95.0,
+        "SoundLevel":175
+    },
+    {
+        "LightSensor":267,
+        "cpuTemp":54.768,
+        "date":"2020-07-26 22:03:31.350103",
+        "Temperature":82.4,
+        "Humidity":95.0,
+        "SoundLevel":175
+    },
+    {
+        "LightSensor":264,
+        "cpuTemp":54.23,
+        "date":"2020-07-26 22:13:32.274306",
+        "Temperature":82.4,
+        "Humidity":95.0,
+        "SoundLevel":175
+    },
+    {
+        "LightSensor":268,
+        "cpuTemp":54.768,
+        "date":"2020-07-26 22:23:33.183932",
+        "Temperature":82.4,
+        "Humidity":95.0,
+        "SoundLevel":177
+    },
+    {
+        "LightSensor":268,
+        "cpuTemp":54.768,
+        "date":"2020-07-26 22:33:34.070937",
+        "Temperature":82.4,
+        "Humidity":95.0,
+        "SoundLevel":176
+    },
+    {
+        "LightSensor":268,
+        "cpuTemp":54.768,
+        "date":"2020-07-26 22:43:34.955186",
+        "Temperature":82.4,
+        "Humidity":95.0,
+        "SoundLevel":176
+    },
+    {
+        "LightSensor":268,
+        "cpuTemp":54.768,
+        "date":"2020-07-26 22:53:35.878163",
+        "Temperature":82.4,
+        "Humidity":95.0,
+        "SoundLevel":176
+    },
+    {
+        "LightSensor":269,
+        "cpuTemp":54.768,
+        "date":"2020-07-26 23:03:36.801176",
+        "Temperature":82.4,
+        "Humidity":95.0,
+        "SoundLevel":177
+    },
+    {
+        "LightSensor":266,
+        "cpuTemp":54.23,
+        "date":"2020-07-26 23:13:37.723742",
+        "Temperature":82.4,
+        "Humidity":95.0,
+        "SoundLevel":177
+    },
+    {
+        "LightSensor":269,
+        "cpuTemp":54.768,
+        "date":"2020-07-26 23:23:38.687194",
+        "Temperature":82.4,
+        "Humidity":95.0,
+        "SoundLevel":175
+    },
+    {
+        "LightSensor":262,
+        "cpuTemp":54.23,
+        "date":"2020-07-26 23:33:39.640523",
+        "Temperature":82.4,
+        "Humidity":95.0,
+        "SoundLevel":178
+    },
+    {
+        "LightSensor":271,
+        "cpuTemp":54.768,
+        "date":"2020-07-26 23:43:40.651474",
+        "Temperature":80.6,
+        "Humidity":95.0,
+        "SoundLevel":179
+    },
+    {
+        "LightSensor":272,
+        "cpuTemp":54.23,
+        "date":"2020-07-26 23:53:41.563158",
+        "Temperature":80.6,
+        "Humidity":95.0,
+        "SoundLevel":179
+    },
+    {
+        "LightSensor":269,
+        "cpuTemp":54.768,
+        "date":"2020-07-27 00:03:42.454329",
+        "Temperature":80.6,
+        "Humidity":95.0,
+        "SoundLevel":179
+    },
+    {
+        "LightSensor":276,
+        "cpuTemp":54.23,
+        "date":"2020-07-27 00:13:43.296124",
+        "Temperature":80.6,
+        "Humidity":95.0,
+        "SoundLevel":178
+    },
+    {
+        "LightSensor":273,
+        "cpuTemp":54.768,
+        "date":"2020-07-27 00:23:44.230614",
+        "Temperature":80.6,
+        "Humidity":95.0,
+        "SoundLevel":179
+    },
+    {
+        "LightSensor":264,
+        "cpuTemp":54.23,
+        "date":"2020-07-27 00:33:45.122497",
+        "Temperature":80.6,
+        "Humidity":95.0,
+        "SoundLevel":177
+    },
+    {
+        "LightSensor":271,
+        "cpuTemp":54.23,
+        "date":"2020-07-27 00:43:46.522559",
+        "Temperature":80.6,
+        "Humidity":95.0,
+        "SoundLevel":178
+    },
+    {
+        "LightSensor":270,
+        "cpuTemp":54.23,
+        "date":"2020-07-27 00:53:48.061269",
+        "Temperature":80.6,
+        "Humidity":95.0,
+        "SoundLevel":177
+    },
+    {
+        "LightSensor":264,
+        "cpuTemp":53.692,
+        "date":"2020-07-27 01:03:49.237836",
+        "Temperature":80.6,
+        "Humidity":95.0,
+        "SoundLevel":178
+    },
+    {
+        "LightSensor":270,
+        "cpuTemp":53.692,
+        "date":"2020-07-27 01:13:50.213814",
+        "Temperature":80.6,
+        "Humidity":95.0,
+        "SoundLevel":178
+    },
+    {
+        "LightSensor":265,
+        "cpuTemp":53.692,
+        "date":"2020-07-27 01:23:51.126452",
+        "Temperature":80.6,
+        "Humidity":95.0,
+        "SoundLevel":178
+    },
+    {
+        "LightSensor":264,
+        "cpuTemp":53.692,
+        "date":"2020-07-27 01:33:52.080383",
+        "Temperature":80.6,
+        "Humidity":95.0,
+        "SoundLevel":179
+    },
+    {
+        "LightSensor":273,
+        "cpuTemp":53.692,
+        "date":"2020-07-27 01:43:52.994133",
+        "Temperature":80.6,
+        "Humidity":95.0,
+        "SoundLevel":180
+    },
+    {
+        "LightSensor":272,
+        "cpuTemp":53.692,
+        "date":"2020-07-27 01:53:53.908929",
+        "Temperature":80.6,
+        "Humidity":95.0,
+        "SoundLevel":179
+    },
+    {
+        "LightSensor":270,
+        "cpuTemp":53.692,
+        "date":"2020-07-27 02:03:54.823979",
+        "Temperature":80.6,
+        "Humidity":95.0,
+        "SoundLevel":179
+    },
+    {
+        "LightSensor":276,
+        "cpuTemp":53.692,
+        "date":"2020-07-27 02:13:55.670669",
+        "Temperature":80.6,
+        "Humidity":95.0,
+        "SoundLevel":179
+    },
+    {
+        "LightSensor":272,
+        "cpuTemp":53.692,
+        "date":"2020-07-27 02:23:56.632721",
+        "Temperature":80.6,
+        "Humidity":95.0,
+        "SoundLevel":179
+    },
+    {
+        "LightSensor":268,
+        "cpuTemp":53.692,
+        "date":"2020-07-27 02:33:57.563864",
+        "Temperature":80.6,
+        "Humidity":95.0,
+        "SoundLevel":179
+    },
+    {
+        "LightSensor":275,
+        "cpuTemp":53.692,
+        "date":"2020-07-27 02:43:58.521766",
+        "Temperature":80.6,
+        "Humidity":95.0,
+        "SoundLevel":179
+    },
+    {
+        "LightSensor":267,
+        "cpuTemp":53.692,
+        "date":"2020-07-27 02:53:59.412780",
+        "Temperature":80.6,
+        "Humidity":95.0,
+        "SoundLevel":178
+    },
+    {
+        "LightSensor":271,
+        "cpuTemp":53.692,
+        "date":"2020-07-27 03:04:00.376061",
+        "Temperature":80.6,
+        "Humidity":95.0,
+        "SoundLevel":179
+    },
+    {
+        "LightSensor":275,
+        "cpuTemp":53.692,
+        "date":"2020-07-27 03:14:01.217677",
+        "Temperature":80.6,
+        "Humidity":95.0,
+        "SoundLevel":179
+    },
+    {
+        "LightSensor":274,
+        "cpuTemp":53.692,
+        "date":"2020-07-27 03:24:02.117351",
+        "Temperature":78.8,
+        "Humidity":95.0,
+        "SoundLevel":179
+    },
+    {
+        "LightSensor":276,
+        "cpuTemp":53.154,
+        "date":"2020-07-27 03:34:03.098313",
+        "Temperature":78.8,
+        "Humidity":95.0,
+        "SoundLevel":180
+    },
+    {
+        "LightSensor":278,
+        "cpuTemp":53.692,
+        "date":"2020-07-27 03:44:04.054170",
+        "Temperature":78.8,
+        "Humidity":95.0,
+        "SoundLevel":179
+    },
+    {
+        "LightSensor":271,
+        "cpuTemp":53.154,
+        "date":"2020-07-27 03:54:04.915276",
+        "Temperature":78.8,
+        "Humidity":95.0,
+        "SoundLevel":180
+    },
+    {
+        "LightSensor":267,
+        "cpuTemp":53.154,
+        "date":"2020-07-27 04:04:05.787204",
+        "Temperature":78.8,
+        "Humidity":95.0,
+        "SoundLevel":178
+    },
+    {
+        "LightSensor":269,
+        "cpuTemp":53.692,
+        "date":"2020-07-27 04:14:06.682547",
+        "Temperature":78.8,
+        "Humidity":95.0,
+        "SoundLevel":179
+    },
+    {
+        "LightSensor":279,
+        "cpuTemp":53.692,
+        "date":"2020-07-27 04:24:07.624076",
+        "Temperature":78.8,
+        "Humidity":95.0,
+        "SoundLevel":179
+    },
+    {
+        "LightSensor":269,
+        "cpuTemp":53.692,
+        "date":"2020-07-27 04:34:08.510640",
+        "Temperature":78.8,
+        "Humidity":95.0,
+        "SoundLevel":181
+    },
+    {
+        "LightSensor":276,
+        "cpuTemp":53.154,
+        "date":"2020-07-27 04:44:09.478224",
+        "Temperature":78.8,
+        "Humidity":95.0,
+        "SoundLevel":179
+    },
+    {
+        "LightSensor":267,
+        "cpuTemp":52.615,
+        "date":"2020-07-27 04:54:10.409647",
+        "Temperature":78.8,
+        "Humidity":95.0,
+        "SoundLevel":181
+    },
+    {
+        "LightSensor":267,
+        "cpuTemp":53.692,
+        "date":"2020-07-27 05:04:11.306154",
+        "Temperature":78.8,
+        "Humidity":95.0,
+        "SoundLevel":180
+    },
+    {
+        "LightSensor":277,
+        "cpuTemp":53.692,
+        "date":"2020-07-27 05:14:12.261904",
+        "Temperature":78.8,
+        "Humidity":95.0,
+        "SoundLevel":179
+    },
+    {
+        "LightSensor":268,
+        "cpuTemp":52.615,
+        "date":"2020-07-27 05:24:13.083006",
+        "Temperature":78.8,
+        "Humidity":95.0,
+        "SoundLevel":181
+    },
+    {
+        "LightSensor":267,
+        "cpuTemp":52.615,
+        "date":"2020-07-27 05:34:13.976650",
+        "Temperature":78.8,
+        "Humidity":95.0,
+        "SoundLevel":180
+    },
+    {
+        "LightSensor":275,
+        "cpuTemp":53.154,
+        "date":"2020-07-27 05:44:14.938249",
+        "Temperature":78.8,
+        "Humidity":95.0,
+        "SoundLevel":180
+    },
+    {
+        "LightSensor":275,
+        "cpuTemp":52.615,
+        "date":"2020-07-27 05:54:15.761467",
+        "Temperature":78.8,
+        "Humidity":95.0,
+        "SoundLevel":181
+    },
+    {
+        "LightSensor":275,
+        "cpuTemp":53.154,
+        "date":"2020-07-27 06:04:16.722340",
+        "Temperature":78.8,
+        "Humidity":95.0,
+        "SoundLevel":181
+    },
+    {
+        "LightSensor":269,
+        "cpuTemp":53.154,
+        "date":"2020-07-27 06:14:17.617992",
+        "Temperature":78.8,
+        "Humidity":95.0,
+        "SoundLevel":181
+    },
+    {
+        "LightSensor":274,
+        "cpuTemp":52.615,
+        "date":"2020-07-27 06:24:18.510871",
+        "Temperature":78.8,
+        "Humidity":95.0,
+        "SoundLevel":182
+    },
+    {
+        "LightSensor":274,
+        "cpuTemp":53.154,
+        "date":"2020-07-27 06:34:19.460414",
+        "Temperature":78.8,
+        "Humidity":95.0,
+        "SoundLevel":181
+    },
+    {
+        "LightSensor":270,
+        "cpuTemp":53.154,
+        "date":"2020-07-27 06:44:20.407344",
+        "Temperature":78.8,
+        "Humidity":95.0,
+        "SoundLevel":182
+    },
+    {
+        "LightSensor":271,
+        "cpuTemp":52.615,
+        "date":"2020-07-27 06:54:21.260959",
+        "Temperature":78.8,
+        "Humidity":95.0,
+        "SoundLevel":181
+    },
+    {
+        "LightSensor":266,
+        "cpuTemp":53.154,
+        "date":"2020-07-27 07:04:22.198012",
+        "Temperature":80.6,
+        "Humidity":95.0,
+        "SoundLevel":182
+    },
+    {
+        "LightSensor":262,
+        "cpuTemp":53.692,
+        "date":"2020-07-27 07:14:23.162204",
+        "Temperature":80.6,
+        "Humidity":95.0,
+        "SoundLevel":182
+    },
+    {
+        "LightSensor":264,
+        "cpuTemp":54.23,
+        "date":"2020-07-27 07:24:24.011266",
+        "Temperature":80.6,
+        "Humidity":95.0,
+        "SoundLevel":181
+    },
+    {
+        "LightSensor":267,
+        "cpuTemp":54.23,
+        "date":"2020-07-27 07:34:25.007766",
+        "Temperature":80.6,
+        "Humidity":95.0,
+        "SoundLevel":182
+    },
+    {
+        "LightSensor":265,
+        "cpuTemp":54.23,
+        "date":"2020-07-27 07:44:25.900734",
+        "Temperature":80.6,
+        "Humidity":95.0,
+        "SoundLevel":181
+    },
+    {
+        "LightSensor":267,
+        "cpuTemp":53.692,
+        "date":"2020-07-27 07:54:26.762658",
+        "Temperature":80.6,
+        "Humidity":95.0,
+        "SoundLevel":183
+    },
+    {
+        "LightSensor":264,
+        "cpuTemp":54.23,
+        "date":"2020-07-27 08:04:27.659657",
+        "Temperature":82.4,
+        "Humidity":95.0,
+        "SoundLevel":181
+    },
+    {
+        "LightSensor":271,
+        "cpuTemp":54.23,
+        "date":"2020-07-27 08:14:28.512981",
+        "Temperature":82.4,
+        "Humidity":95.0,
+        "SoundLevel":181
+    },
+    {
+        "LightSensor":272,
+        "cpuTemp":54.768,
+        "date":"2020-07-27 08:24:29.441985",
+        "Temperature":82.4,
+        "Humidity":95.0,
+        "SoundLevel":181
+    },
+    {
+        "LightSensor":271,
+        "cpuTemp":54.768,
+        "date":"2020-07-27 08:34:30.372521",
+        "Temperature":82.4,
+        "Humidity":95.0,
+        "SoundLevel":181
+    },
+    {
+        "LightSensor":265,
+        "cpuTemp":54.768,
+        "date":"2020-07-27 08:44:31.262841",
+        "Temperature":84.2,
+        "Humidity":95.0,
+        "SoundLevel":181
+    },
+    {
+        "LightSensor":265,
+        "cpuTemp":54.768,
+        "date":"2020-07-27 08:54:32.227773",
+        "Temperature":84.2,
+        "Humidity":95.0,
+        "SoundLevel":180
+    },
+    {
+        "LightSensor":270,
+        "cpuTemp":55.306,
+        "date":"2020-07-27 09:04:33.148562",
+        "Temperature":84.2,
+        "Humidity":95.0,
+        "SoundLevel":180
+    },
+    {
+        "LightSensor":261,
+        "cpuTemp":55.306,
+        "date":"2020-07-27 09:14:34.113220",
+        "Temperature":84.2,
+        "Humidity":95.0,
+        "SoundLevel":181
+    },
+    {
+        "LightSensor":262,
+        "cpuTemp":55.843,
+        "date":"2020-07-27 09:24:35.098933",
+        "Temperature":86.0,
+        "Humidity":95.0,
+        "SoundLevel":180
+    },
+    {
+        "LightSensor":259,
+        "cpuTemp":56.382,
+        "date":"2020-07-27 09:34:36.043805",
+        "Temperature":86.0,
+        "Humidity":95.0,
+        "SoundLevel":180
+    },
+    {
+        "LightSensor":259,
+        "cpuTemp":56.382,
+        "date":"2020-07-27 09:44:36.966590",
+        "Temperature":86.0,
+        "Humidity":95.0,
+        "SoundLevel":180
+    },
+    {
+        "LightSensor":255,
+        "cpuTemp":56.382,
+        "date":"2020-07-27 09:54:37.948716",
+        "Temperature":87.8,
+        "Humidity":95.0,
+        "SoundLevel":179
+    },
+    {
+        "LightSensor":260,
+        "cpuTemp":56.92,
+        "date":"2020-07-27 10:04:38.810609",
+        "Temperature":87.8,
+        "Humidity":95.0,
+        "SoundLevel":179
+    },
+    {
+        "LightSensor":255,
+        "cpuTemp":56.92,
+        "date":"2020-07-27 10:14:39.792712",
+        "Temperature":89.6,
+        "Humidity":95.0,
+        "SoundLevel":178
+    },
+    {
+        "LightSensor":254,
+        "cpuTemp":57.996,
+        "date":"2020-07-27 10:24:40.720628",
+        "Temperature":87.8,
+        "Humidity":95.0,
+        "SoundLevel":177
+    },
+    {
+        "LightSensor":259,
+        "cpuTemp":56.92,
+        "date":"2020-07-27 10:34:41.660498",
+        "Temperature":89.6,
+        "Humidity":95.0,
+        "SoundLevel":178
+    },
+    {
+        "LightSensor":250,
+        "cpuTemp":57.996,
+        "date":"2020-07-27 10:44:42.611721",
+        "Temperature":89.6,
+        "Humidity":95.0,
+        "SoundLevel":177
+    },
+    {
+        "LightSensor":255,
+        "cpuTemp":57.996,
+        "date":"2020-07-27 10:54:43.464093",
+        "Temperature":91.4,
+        "Humidity":94.0,
+        "SoundLevel":177
+    },
+    {
+        "LightSensor":249,
+        "cpuTemp":58.533,
+        "date":"2020-07-27 11:04:44.410131",
+        "Temperature":91.4,
+        "Humidity":92.0,
+        "SoundLevel":175
+    },
+    {
+        "LightSensor":238,
+        "cpuTemp":58.533,
+        "date":"2020-07-27 11:14:45.363114",
+        "Temperature":91.4,
+        "Humidity":92.0,
+        "SoundLevel":176
+    },
+    {
+        "LightSensor":240,
+        "cpuTemp":59.072,
+        "date":"2020-07-27 11:24:46.711168",
+        "Temperature":93.2,
+        "Humidity":89.0,
+        "SoundLevel":175
+    },
+    {
+        "LightSensor":237,
+        "cpuTemp":59.072,
+        "date":"2020-07-27 11:34:48.245314",
+        "Temperature":93.2,
+        "Humidity":85.0,
+        "SoundLevel":175
+    },
+    {
+        "LightSensor":242,
+        "cpuTemp":58.533,
+        "date":"2020-07-27 11:44:49.782982",
+        "Temperature":91.4,
+        "Humidity":88.0,
+        "SoundLevel":175
+    },
+    {
+        "LightSensor":237,
+        "cpuTemp":59.072,
+        "date":"2020-07-27 11:54:50.765598",
+        "Temperature":91.4,
+        "Humidity":88.0,
+        "SoundLevel":174
+    },
+    {
+        "LightSensor":230,
+        "cpuTemp":60.148,
+        "date":"2020-07-27 12:04:51.671610",
+        "Temperature":93.2,
+        "Humidity":83.0,
+        "SoundLevel":173
+    },
+    {
+        "LightSensor":235,
+        "cpuTemp":60.148,
+        "date":"2020-07-27 12:14:52.606804",
+        "Temperature":95.0,
+        "Humidity":78.0,
+        "SoundLevel":173
+    },
+    {
+        "LightSensor":234,
+        "cpuTemp":60.148,
+        "date":"2020-07-27 12:24:53.491410",
+        "Temperature":96.8,
+        "Humidity":77.0,
+        "SoundLevel":172
+    },
+    {
+        "LightSensor":232,
+        "cpuTemp":60.148,
+        "date":"2020-07-27 12:34:54.475452",
+        "Temperature":96.8,
+        "Humidity":74.0,
+        "SoundLevel":172
+    },
+    {
+        "LightSensor":233,
+        "cpuTemp":60.148,
+        "date":"2020-07-27 12:44:55.444291",
+        "Temperature":96.8,
+        "Humidity":72.0,
+        "SoundLevel":169
+    },
+    {
+        "LightSensor":233,
+        "cpuTemp":60.686,
+        "date":"2020-07-27 12:54:56.425406",
+        "Temperature":95.0,
+        "Humidity":74.0,
+        "SoundLevel":168
+    },
+    {
+        "LightSensor":235,
+        "cpuTemp":60.148,
+        "date":"2020-07-27 13:04:57.396392",
+        "Temperature":95.0,
+        "Humidity":74.0,
+        "SoundLevel":169
+    },
+    {
+        "LightSensor":245,
+        "cpuTemp":59.072,
+        "date":"2020-07-27 13:14:58.344559",
+        "Temperature":95.0,
+        "Humidity":77.0,
+        "SoundLevel":164
+    },
+    {
+        "LightSensor":253,
+        "cpuTemp":58.533,
+        "date":"2020-07-27 13:24:59.273540",
+        "Temperature":91.4,
+        "Humidity":81.0,
+        "SoundLevel":165
+    },
+    {
+        "LightSensor":258,
+        "cpuTemp":57.996,
+        "date":"2020-07-27 13:35:00.236559",
+        "Temperature":89.6,
+        "Humidity":82.0,
+        "SoundLevel":164
+    },
+    {
+        "LightSensor":247,
+        "cpuTemp":57.996,
+        "date":"2020-07-27 13:45:01.169593",
+        "Temperature":89.6,
+        "Humidity":83.0,
+        "SoundLevel":167
+    },
+    {
+        "LightSensor":254,
+        "cpuTemp":56.92,
+        "date":"2020-07-27 13:55:02.164685",
+        "Temperature":89.6,
+        "Humidity":83.0,
+        "SoundLevel":167
+    },
+    {
+        "LightSensor":247,
+        "cpuTemp":57.996,
+        "date":"2020-07-27 14:05:03.112275",
+        "Temperature":89.6,
+        "Humidity":82.0,
+        "SoundLevel":169
+    },
+    {
+        "LightSensor":250,
+        "cpuTemp":57.996,
+        "date":"2020-07-27 14:15:04.019029",
+        "Temperature":89.6,
+        "Humidity":79.0,
+        "SoundLevel":169
+    },
+    {
+        "LightSensor":241,
+        "cpuTemp":58.533,
+        "date":"2020-07-27 14:25:04.959204",
+        "Temperature":91.4,
+        "Humidity":79.0,
+        "SoundLevel":170
+    },
+    {
+        "LightSensor":246,
+        "cpuTemp":60.148,
+        "date":"2020-07-27 14:35:05.866525",
+        "Temperature":91.4,
+        "Humidity":78.0,
+        "SoundLevel":171
+    },
+    {
+        "LightSensor":236,
+        "cpuTemp":60.148,
+        "date":"2020-07-27 14:45:06.819326",
+        "Temperature":95.0,
+        "Humidity":73.0,
+        "SoundLevel":169
+    },
+    {
+        "LightSensor":242,
+        "cpuTemp":59.072,
+        "date":"2020-07-27 14:55:07.813554",
+        "Temperature":95.0,
+        "Humidity":74.0,
+        "SoundLevel":167
+    },
+    {
+        "LightSensor":241,
+        "cpuTemp":58.533,
+        "date":"2020-07-27 15:05:08.795547",
+        "Temperature":91.4,
+        "Humidity":80.0,
+        "SoundLevel":167
+    },
+    {
+        "LightSensor":245,
+        "cpuTemp":59.072,
+        "date":"2020-07-27 15:15:09.634583",
+        "Temperature":91.4,
+        "Humidity":83.0,
+        "SoundLevel":169
+    },
+    {
+        "LightSensor":241,
+        "cpuTemp":59.61,
+        "date":"2020-07-27 15:25:10.662435",
+        "Temperature":93.2,
+        "Humidity":82.0,
+        "SoundLevel":170
+    },
+    {
+        "LightSensor":235,
+        "cpuTemp":60.686,
+        "date":"2020-07-27 15:35:11.585331",
+        "Temperature":95.0,
+        "Humidity":77.0,
+        "SoundLevel":171
+    },
+    {
+        "LightSensor":227,
+        "cpuTemp":61.224,
+        "date":"2020-07-27 15:45:12.477339",
+        "Temperature":98.6,
+        "Humidity":72.0,
+        "SoundLevel":170
+    },
+    {
+        "LightSensor":229,
+        "cpuTemp":62.3,
+        "date":"2020-07-27 15:55:13.338612",
+        "Temperature":98.6,
+        "Humidity":72.0,
+        "SoundLevel":169
+    },
+    {
+        "LightSensor":212,
+        "cpuTemp":63.376,
+        "date":"2020-07-27 16:05:14.187893",
+        "Temperature":100.4,
+        "Humidity":69.0,
+        "SoundLevel":179
+    },
+    {
+        "LightSensor":168,
+        "cpuTemp":69.294,
+        "date":"2020-07-27 16:15:15.064424",
+        "Temperature":113.0,
+        "Humidity":53.0,
+        "SoundLevel":198
+    },
+    {
+        "LightSensor":138,
+        "cpuTemp":76.826,
+        "date":"2020-07-27 16:25:15.980594",
+        "Temperature":129.2,
+        "Humidity":37.0,
+        "SoundLevel":211
+    },
+    {
+        "LightSensor":178,
+        "cpuTemp":73.598,
+        "date":"2020-07-27 16:35:16.991921",
+        "Temperature":138.2,
+        "Humidity":28.0,
+        "SoundLevel":176
+    },
+    {
+        "LightSensor":135,
+        "cpuTemp":76.826,
+        "date":"2020-07-27 16:45:18.040851",
+        "Temperature":116.6,
+        "Humidity":43.0,
+        "SoundLevel":200
+    },
+    {
+        "LightSensor":112,
+        "cpuTemp":82.744,
+        "date":"2020-07-27 16:55:19.095227",
+        "Temperature":138.2,
+        "Humidity":26.0,
+        "SoundLevel":198
+    },
+    {
+        "LightSensor":126,
+        "cpuTemp":81.668,
+        "date":"2020-07-27 17:05:20.215792",
+        "Temperature":138.2,
+        "Humidity":25.0,
+        "SoundLevel":171
+    },
+    {
+        "LightSensor":147,
+        "cpuTemp":82.744,
+        "date":"2020-07-27 17:15:21.328941",
+        "Temperature":138.2,
+        "Humidity":25.0,
+        "SoundLevel":168
+    }
+]
