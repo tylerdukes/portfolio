@@ -4,11 +4,12 @@
 /*
 Project Title:		Project_10
 Project File:		Project_10.cpp
-Name:				Tyler Dukes
+Name:			Tyler Dukes
 Course Section:		CPE 211-02
 Lab Section:		2
-Due Date:			4/20/2018
-Description:		A program that calculates determinants and performs other mathematical operations on matrices
+Initally Created:	04/20/2018
+Finalized:		08/04/2020
+Description:		A program that performs mathematical operations on 3x3 matrices stored in a text file. The file "matrix.txt" is provided as sample program input
 */
 
 //#include "stdafx.h"
