@@ -36,7 +36,7 @@ I also chose this program because it demonstrates at least a degree of mathemati
   ## Artifact Three - Local Database Server using Python and MongoDB for Querying Data Gathered by the Raspberry Pi Weather Station 
  [Program code](https://github.com/tylerdukes/portfolio/blob/master/WeatherPiServer.py)
  
- [Data file:](https://github.com/tylerdukes/portfolio/blob/master/WeatherStationData.json)
+ [Data file](https://github.com/tylerdukes/portfolio/blob/master/WeatherStationData.json)
   ### Narrative
   This artifact primarily consists of a Python file acting as a locally hosted server that listens for calls to display either averages of the variables in the database, or the maximum and minimum values for the variables, depending on which method is specified by the user, and will hopefully demonstrate skills in working with Python and MongoDB. This artifact was modeled on several projects involved in the CS340 course, and similarly, uses MongoDB to process data. This data was provided by the artifact for the Software Engineering artifact of Final Project in this course. 
 This artifact can be executed by running two terminals simultaneously, wherein one of the terminals, the user executes the code: “python WeatherPiServer.py” to begin listening for the request to be sent from the other terminal, in which the user may enter either:
@@ -46,4 +46,4 @@ or: “curl http://localhost:8080/MaxandMin”.
   
  # Video Code Review
  
-[Raspberry Pi Weather Station and Matrix Calculator](https://youtu.be/2EmBHq6Hp2A)
+[Raspberry Pi Weather Station and Matrix Calculator Original Code](https://youtu.be/2EmBHq6Hp2A)
