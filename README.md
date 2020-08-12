@@ -42,7 +42,8 @@ I also chose this program because it demonstrates at least a degree of mathemati
 This artifact can be executed by running two terminals simultaneously, wherein one of the terminals, the user executes the code: “python WeatherPiServer.py” to begin listening for the request to be sent from the other terminal, in which the user may enter either:
 “curl http://localhost:8080/weatherSummary”,
 or: “curl http://localhost:8080/MaxandMin”.
-  While I did not encounter many difficulties with this artifact, the first time I attempted to create a MongoDB database using the data, the creation failed due to a problem with the formatting of the data in the .json file. I solved this problem by changing the way that the Python program for Artifact One saves data to a file, and in the process of doing so, I learned that not all .json files are “proper” .json files, which are workable with MongoDB. 
+ 
+ While I did not encounter many difficulties with this artifact, the first time I attempted to create a MongoDB database using the data, the creation failed due to a problem with the formatting of the data in the .json file. I solved this problem by changing the way that the Python program for Artifact One saves data to a file, and in the process of doing so, I learned that not all .json files are “proper” .json files, which are workable with MongoDB. 
   
 # Video Code Review
  
