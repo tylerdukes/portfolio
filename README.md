@@ -12,18 +12,18 @@ To demonstrate some of the skills I have developed in my academic pursuits, I ha
  
  **Artifact Three:**	 A Python file which acts as a web server that can be used to query a MongoDB database containing the weather data gathered from the first artifact. This file contains two methods, “weatherSummary” and “MaxAndMin”. The first method returns the statistical average of each of the data categories, and the second returns the highest and lowest values recorded for each category.
   
-  ## Artifact One - Tweeting Raspberry Pi Weather Station
-  [Program code](https://github.com/tylerdukes/portfolio/blob/master/PiWeatherStation.py)
-  ### Narrative
+ ## Artifact One - Tweeting Raspberry Pi Weather Station
+ [Program code](https://github.com/tylerdukes/portfolio/blob/master/PiWeatherStation.py)
+ ### Narrative
   The first artifact of my portfolio is a home weather station project which uses a Raspberry Pi 3 B+, a GrovePi+ sensor kit, and a Python file to measure local weather conditions. This project was initially created to store the data locally in a .json file for the final project of the CS350 course, but for my enhancement in the Software Engineering category, I have expanded the project’s functionality and implemented the Twitter API into the Python file so that the measured weather and sensor data is now tweeted to a dedicated account every ten minutes. The twitter feed can be viewed [here](https://twitter.com/PiWeatherHSV_AL).
   I chose this artifact with the intended enhancements in mind, as I find the idea of a prospective employer being able to view a live project in real-time particularly compelling, and I think it might be more interesting than a code file alone. This artifact will hopefully showcase skills in software engineering involving the use of software and code such as Python and external APIs, as well as experience with embedded systems and the hardware involved in the Raspberry Pi and the GrovePi sensor kit.
   One problem early on with this project was in restarting the program after it failed to successfully push the tweets, because the weather station is not normally connected to a monitor, mouse, and keyboard, meaning that I had to disassemble, move, connect, and reassemble the equipment to restart the program. Ultimately, I solved this problem by installing VNC Viewer on my laptop, which gave me full control of the Raspberry Pi.
   
-  ## Artifact Two - Matrix Calculator
-  [Program code](https://github.com/tylerdukes/portfolio/blob/master/CS499%20Matrix%20Calculator.cpp)
+ ## Artifact Two - Matrix Calculator
+ [Program code](https://github.com/tylerdukes/portfolio/blob/master/CS499%20Matrix%20Calculator.cpp)
  
- [Sample input file:](https://github.com/tylerdukes/portfolio/blob/master/matrix.txt)
-  ### Narrative
+ [Sample input file](https://github.com/tylerdukes/portfolio/blob/master/matrix.txt)
+ ### Narrative
   The artifact I chose to satisfy the Algorithm and Data Structure components of the Final Project is a C++ matrix calculator program. I initially wrote this program for a course taken at the University of Alabama in Huntsville in the Spring semester of 2018, and I chose to include it in my portfolio because I believe it is a good example of being able to work on a program that I consider to be more algorithmically complex than most of the other programs I have worked on. The algorithms in this program are, in my opinion, inherently complicated because the tasks themselves are somewhat difficult, and comprise perhaps nearly the first third of a typical Linear Algebra college course. 
 I also chose this program because it demonstrates at least a degree of mathematical ability, which often seems to be desirable in the realm of computer science and software engineering careers and job postings. Furthermore, I chose it due to its expansive use of data types and structures, providing examples and working with elements which are sometimes seen as difficult, such as arrays and structs. 
  My enhancements for this artifact were:
@@ -34,7 +34,7 @@ I also chose this program because it demonstrates at least a degree of mathemati
   
   For the second objective, while I mentioned combining many of the “print” functions in my Code Review, I have since reconsidered due to there being small differences between several of the functions, such as how all of the “print” functions write the “result” matrix to the console, except for “PrintDeterminant”, which prints a float, for example. There are enough of these small differences that I think combining them into one or two “print” functions would require sacrificing ease of understanding and readability, which is something I would rather not do since many prospective employers who view my portfolio may not wish to spend a large amount of time trying to understand difficult flow of control. I did, however, export the task of reading the matrix or matrices from the file to two dedicated functions, rather than doing so at the beginning of every calculation function. This reduced the size of the program by between 100 – 150 lines, though it still exists at 638 as of now. 
   ## Artifact Three - Local Database Server using Python and MongoDB for Querying Data Gathered by the Raspberry Pi Weather Station 
-  [Program code](https://github.com/tylerdukes/portfolio/blob/master/WeatherPiServer.py)
+ [Program code](https://github.com/tylerdukes/portfolio/blob/master/WeatherPiServer.py)
  
  [Data file:](https://github.com/tylerdukes/portfolio/blob/master/WeatherStationData.json)
   ### Narrative
@@ -44,6 +44,6 @@ This artifact can be executed by running two terminals simultaneously, wherein o
 or: “curl http://localhost:8080/MaxandMin”.
   While I did not encounter many difficulties with this artifact, the first time I attempted to create a MongoDB database using the data, the creation failed due to a problem with the formatting of the data in the .json file. I solved this problem by changing the way that the Python program for Artifact One saves data to a file, and in the process of doing so, I learned that not all .json files are “proper” .json files, which are workable with MongoDB. 
   
-  # Video Code Review
+ # Video Code Review
  
 [Raspberry Pi Weather Station and Matrix Calculator](https://youtu.be/2EmBHq6Hp2A)
