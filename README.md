@@ -48,3 +48,33 @@ or: “curl http://localhost:8080/MaxandMin”.
 # Video Code Review
  
 [Raspberry Pi Weather Station and Matrix Calculator Original Code](https://youtu.be/2EmBHq6Hp2A)
+
+
+
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+ "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+<title>sb3.swf</title>
+<style type="text/css">
+#movie
+{
+	width: 618px;
+	height: 680px;
+}
+</style>
+</head>
+<body>
+<div>
+<object id="movie" type="application/x-shockwave-flash" data="sb3.swf">
+	<param name="movie" value="sb3.swf" />
+	<param name="quality" value="high" />
+	<param name="bgcolor" value="#ffffff" />
+	<p>You do not have the latest version of Flash installed. Please visit this link to download it: <a href="http://www.adobe.com/products/flashplayer/">http://www.adobe.com/products/flashplayer/</a></p>
+</object>
+</div>
+</body>
+</html>
+
