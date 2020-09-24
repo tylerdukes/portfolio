@@ -1,0 +1,706 @@
+#include <SFML/Graphics.hpp>
+#include <SFML/Audio.hpp>
+#include <SFML/Window/Mouse.hpp>
+#include <ctime>
+#include <stdlib.h>
+#include <math.h>
+
+using namespace std;
+
+void DifficultyChoice(int, float&, float&, float&, float&);
+
+
+int main()
+{
+	
+
+	sf::RenderWindow window(sf::VideoMode(600, 600), "Scrappy Bird");
+
+	sf::Clock clock;
+
+	sf::Font DisplayText;
+	DisplayText.loadFromFile("8-Bit Madness.ttf");
+
+	sf::Music sound;
+	sound.openFromFile("airship_remix.ogg");
+	
+	sf::Texture bird;
+	bird.loadFromFile("larger_flyingbird.png");
+
+	sf::Sprite fbirdUp1(bird, sf::IntRect(0, 0, 48, 48));
+	sf::Sprite fbirdUp2(bird, sf::IntRect(64, 0, 48, 48));
+	sf::Sprite fbirdDown1(bird, sf::IntRect(96, 0, 48, 48));
+	sf::Sprite fbirdDown2(bird, sf::IntRect(128, 0, 48, 48));
+
+	sf::Texture background;
+	background.loadFromFile("ScrappyBirdBackground.png");
+
+	sf::Sprite scene(background, sf::IntRect(200, 0, 600, 600));
+	scene.setPosition(0, 0);
+
+	sf::Text Score;
+	Score.setFont(DisplayText);
+	string scoreInitiate = "SCORE: ";
+	Score.setCharacterSize(40);
+	Score.setFillColor(sf::Color::White);
+	int scoreCounter = (0);
+
+	sf::Text highScore;
+	highScore.setFont(DisplayText);
+	string highInitiate = "HIGH SCORE: ";
+	highScore.setCharacterSize(40);
+	highScore.setFillColor(sf::Color::White);
+	int highSC = (0);
+
+	sf::Text start;
+	start.setFont(DisplayText);
+	string title = " SCRAPPY   BIRD ";
+	start.setCharacterSize(73);
+	start.setFillColor(sf::Color(56, 229, 229));
+	start.setString(title);
+	start.setStyle(sf::Text::Bold);
+
+	sf::Text startMessages;
+	startMessages.setFont(DisplayText);
+	string startMessage2 = "Controls:		 Press / Hold SPACE \n\n										to Rise\n\n";
+	string startMessage3 = "								Press P to Pause\n\n								Press R to Resume\n\n								Press S to Start";
+	string startMessage4 = "										Good luck! ";
+	startMessages.setFillColor(sf::Color(23, 105, 169));
+	startMessages.setCharacterSize(28);
+	startMessages.setString(startMessage2 + startMessage3 + "\n\n\n" + startMessage4);
+
+	int start_countdown = 3;
+	sf::Text Countdown;
+	Countdown.setFont(DisplayText);
+	Countdown.setCharacterSize(80);
+	Countdown.setPosition(200, 220);
+
+	sf::Text gameOver;
+	gameOver.setFont(DisplayText);
+	string theEnd = " Game Over ";
+	gameOver.setFillColor(sf::Color(56, 229, 229));
+	gameOver.setCharacterSize(80);
+	gameOver.setString(theEnd);
+	gameOver.setPosition(120, 215);
+
+	sf::Text SetDifficulty;
+	SetDifficulty.setFont(DisplayText);
+	string setDifficulty = " Select Difficulty: ";
+	SetDifficulty.setString(setDifficulty);
+	SetDifficulty.setCharacterSize(50);
+	SetDifficulty.setFillColor(sf::Color(56, 229, 229));
+	SetDifficulty.setPosition(115, 160);
+
+	sf::Text Difficulty;
+	Difficulty.setFont(DisplayText);
+	string beginner = " Beginner \n\n";
+	string middle = " Intermediate \n\n";
+	string hard = " Hard \n\n";
+	string impossible = " Impossible ";
+	Difficulty.setString(beginner + middle + hard + impossible);
+	Difficulty.setCharacterSize(45);
+	Difficulty.setFillColor(sf::Color::White);
+	Difficulty.setPosition(220, 250);
+
+	float elapsed = clock.restart().asSeconds();
+
+	sf::Texture easyText;
+	easyText.loadFromFile("green-button.png");
+
+	sf::Texture medText;
+	medText.loadFromFile("blue-button.png");
+
+	sf::Texture hardText;
+	hardText.loadFromFile("red-button.png");
+
+	sf::Texture dangerText;
+	dangerText.loadFromFile("danger-button.png");
+
+	sf::Sprite buttonEasy(easyText, sf::IntRect(0, 0, 30, 30));
+	buttonEasy.setPosition(145, 272);
+
+	sf::Sprite buttonMed(medText, sf::IntRect(0, 0, 30, 30));
+	buttonMed.setPosition(145, 333);
+
+	sf::Sprite buttonHard(hardText, sf::IntRect(0, 0, 30, 30));
+	buttonHard.setPosition(145, 395);
+
+	sf::Sprite buttonDanger(dangerText, sf::IntRect(0, 0, 30, 30));
+	buttonDanger.setPosition(145, 458);
+
+	float x = 200;
+	float y = 200;
+	
+	float pipe_x;
+	int scoreCount = 0;
+
+	int D_choice = 0;
+	float y_offsetFlap;
+	float y_offsetFall1;
+	float y_offsetFall2;
+	float y_offsetFall3;
+
+	bool startOver = false;
+	int soundRestart_tagAlong = 0;
+
+	while (!sf::Keyboard::isKeyPressed(sf::Keyboard::E))
+	{
+		if (soundRestart_tagAlong >= 22)
+		{
+			soundRestart_tagAlong = 0;
+			sound.stop();
+			sound.play();
+			continue;
+		}
+
+		if (scoreCounter == 0)
+		{
+				D_choice = 0;
+				y_offsetFlap = 0;
+				y_offsetFall1 = 0;
+				y_offsetFall2 = 0;
+				y_offsetFall3 = 0;
+				x = 200;
+				y = 200;
+				startOver = false;
+				elapsed = clock.restart().asSeconds();
+
+				sound.stop();
+				sound.play();
+
+				start.setPosition(60, 127);
+				startMessages.setPosition(25, 300);
+				window.draw(scene);
+				sf::RectangleShape IntropipeUp(sf::Vector2f(75, 355));
+
+				sf::RectangleShape IntropipeDown(sf::Vector2f(75, 130));
+				IntropipeUp.setPosition(425, 245);
+				IntropipeDown.setPosition(425, 0);
+				IntropipeUp.setFillColor(sf::Color(255, 20, 20));
+				IntropipeDown.setFillColor(sf::Color(26, 209, 16));
+				window.draw(IntropipeUp);
+				window.draw(IntropipeDown);
+				fbirdUp1.setPosition(270, 255);
+				window.draw(fbirdUp1);
+				window.draw(start);
+				window.draw(startMessages);
+				window.display();
+
+				sf::Event event;
+				while (window.waitEvent(event))
+				{
+					elapsed = clock.restart().asSeconds();
+
+					if (sf::Keyboard::isKeyPressed(sf::Keyboard::S))
+					{
+						window.clear();
+						break;
+					}
+					if (sf::Keyboard::isKeyPressed(sf::Keyboard::E))
+					{
+						window.clear();
+						sound.stop();
+						return 1;
+					}
+
+					if (elapsed > 50)
+					{
+						clock.restart();
+						sound.stop();
+						sound.play();
+					}
+					window.clear();
+				}
+				sf::Mouse mouse;
+				sf::Event difficulty_select;
+				float mx = mouse.getPosition(window).x;
+				float my = mouse.getPosition(window).y;
+				window.clear();
+
+				window.draw(scene);
+				window.draw(SetDifficulty);
+				window.draw(buttonEasy);
+				window.draw(buttonMed);
+				window.draw(buttonHard);
+				window.draw(buttonDanger);
+				window.draw(SetDifficulty);
+				window.draw(Difficulty);
+				window.display();
+				while (window.waitEvent(difficulty_select))
+				{
+					window.clear();
+					float mx = mouse.getPosition(window).x;
+					float my = mouse.getPosition(window).y;
+
+					window.draw(scene);
+					window.draw(SetDifficulty);
+					window.draw(buttonEasy);
+					window.draw(buttonMed);
+					window.draw(buttonHard);
+					window.draw(buttonDanger);
+					window.draw(Difficulty);
+					window.display();
+					if (((my >= 272 && my <= 302) && (mx >= 145 && mx <= 175)) && mouse.isButtonPressed(sf::Mouse::Left))
+					{
+						D_choice = 1;
+						DifficultyChoice(D_choice, y_offsetFlap, y_offsetFall1, y_offsetFall2, y_offsetFall3);
+						break;
+					}
+					else if (((my >= 333 && my <= 363) && (mx >= 145 && mx <= 175)) && mouse.isButtonPressed(sf::Mouse::Left))
+					{
+						D_choice = 2;
+						DifficultyChoice(D_choice, y_offsetFlap, y_offsetFall1, y_offsetFall2, y_offsetFall3);
+						break;
+					}
+					else if (((my >= 395 && my <= 425) && (mx >= 145 && mx <= 175)) && mouse.isButtonPressed(sf::Mouse::Left))
+					{
+						D_choice = 3;
+						DifficultyChoice(D_choice, y_offsetFlap, y_offsetFall1, y_offsetFall2, y_offsetFall3);
+						break;
+					}
+					else if (((my >= 448 && my <= 478) && (mx >= 145 && mx <= 175)) && mouse.isButtonPressed(sf::Mouse::Left))
+					{
+						D_choice = 4;
+						DifficultyChoice(D_choice, y_offsetFlap, y_offsetFall1, y_offsetFall2, y_offsetFall3);
+						break;
+					}
+					else
+						window.display();
+
+					continue;
+				}
+				int starter;
+				clock.restart();
+				elapsed = clock.getElapsedTime().asSeconds();
+				while (elapsed != 6)
+				{
+					elapsed = clock.getElapsedTime().asSeconds();
+					if (elapsed <= 1.5)
+					{
+						string three = "     3 ";
+						Countdown.setString(three);
+						window.draw(Countdown);
+					}
+					else if (elapsed <= 3 && elapsed > 1.5)
+					{
+						string two = "     2 ";
+						Countdown.setString(two);
+						window.draw(Countdown);
+					}
+					else if (elapsed <= 4.5 && elapsed > 3)
+					{
+						string one = "     1 ";
+						Countdown.setString(one);
+						window.draw(Countdown);
+					}
+					else if (elapsed <= 6 && elapsed > 4.5)
+					{
+						string StartNow = "START! ";
+						Countdown.setString(StartNow);
+						window.draw(Countdown);
+					}
+					else
+						break;
+
+					window.display();
+					window.clear();
+				}
+		}
+		if (scoreCounter == 0) {
+			pipe_x = 715;
+		}
+		else if (scoreCounter > 0) {
+			pipe_x = 600;
+		}
+
+		window.clear();
+		
+		string HighScore = highInitiate + std::to_string(highSC);
+		highScore.setString(HighScore);
+
+		string NewScore = scoreInitiate + std::to_string(scoreCounter * 1000);
+		Score.setString(NewScore);
+
+		srand(time(NULL));
+		float rand1 = (rand() % 175) + rand() % 400;
+		float rand2 = (rand() % 170) + rand() % 300;
+		float rand3 = (rand() % 450 + 130);
+
+		float spaceUp = (rand() % 200 + 200) - 400;
+		float spaceUp1 = spaceUp - 160 + rand() % 75;
+		float spaceDown1 = spaceUp + 220 + rand() % 80;
+	
+		sf::RectangleShape pipeUp(sf::Vector2f(75, spaceUp1));
+		
+		sf::RectangleShape pipeDown(sf::Vector2f(75, spaceDown1));
+	
+		window.clear();
+		while (pipe_x > 0 && startOver == false)
+		{
+			if (pipe_x <= 0) {
+				break;
+			}
+			
+			if (sf::Keyboard::isKeyPressed(sf::Keyboard::Space))
+			{
+				window.clear();
+				window.draw(scene);
+				window.draw(pipeUp);
+				window.draw(pipeDown);
+				fbirdDown1.setPosition(x, y);
+				window.draw(fbirdDown1);				
+			}
+
+			else
+			{
+				window.clear();
+				window.draw(scene);
+				window.draw(pipeUp);
+				window.draw(pipeDown);
+				fbirdUp1.setPosition(x, y);
+				window.draw(fbirdUp1);			
+			}
+			string NewScore = scoreInitiate + std::to_string((scoreCounter * 1000));
+			Score.setString(NewScore);
+
+			string HighScore = highInitiate + std::to_string(highSC * 1000);
+			highScore.setString(HighScore);
+			if (scoreCounter >= highSC)
+				highSC = scoreCounter;
+			/*
+			if (pipe_x == 200)
+			{
+				scoreCounter++;
+				soundRestart_tagAlong++;
+			}
+			*/
+			pipeUp.setFillColor(sf::Color(sf::Color(rand1 + rand2, rand2 + (rand3 - rand1), rand3*(rand1*0.95))));
+			pipeDown.setFillColor(sf::Color(sf::Color(rand3 - (rand1 - rand2) * 2, rand3 + 2 * rand2, (rand1 / rand2) + 100)));
+			
+			if (D_choice == 1) {
+				pipe_x -= 0.25;
+			}
+			else if (D_choice == 2) {
+				pipe_x -= 0.35;
+			}
+			else if (D_choice == 3) {
+				pipe_x -= 0.40;
+			}
+			else if (D_choice == 4) {
+				pipe_x -= 0.50;
+			}
+			
+		
+			pipeUp.setPosition(pipe_x, 600);
+			pipeDown.setPosition(pipe_x, 0);
+			
+			clock.restart();
+			elapsed = clock.getElapsedTime().asSeconds();
+			while (x <= (pipe_x + 70))
+			{
+
+				if ((x + 46 >= pipe_x && x <= pipe_x + 75) && (y + 30 >= (600 + spaceUp1) || y + 24 <= (0 + spaceDown1)))
+				{
+					window.draw(scene);
+					window.draw(pipeUp);
+					window.draw(pipeDown);
+					if (sf::Keyboard::isKeyPressed(sf::Keyboard::Space))
+						window.draw(fbirdDown1);
+					else
+						window.draw(fbirdUp1);
+
+					window.draw(gameOver);
+					Score.setPosition(145, 300);
+					highScore.setPosition(145, 375);
+					Score.setCharacterSize(50);
+					highScore.setCharacterSize(50);
+					Score.setFillColor(sf::Color::White);
+					highScore.setFillColor(sf::Color::White);
+					window.draw(Score);
+					window.draw(highScore);
+					window.display();
+					startOver = true;
+					scoreCounter = 0;
+					sf::Clock clock;
+					float time = clock.getElapsedTime().asSeconds();
+					clock.restart();
+					time = clock.getElapsedTime().asSeconds();
+					while (time < 3)
+					{
+						time = clock.getElapsedTime().asSeconds();
+						continue;
+					}
+					window.clear();
+					break;
+				}
+
+				else if ((x - 46 >= pipe_x && x <= pipe_x + 75) && (y + 30 >= (600 + spaceUp1) || y + 24 <= (0 + spaceDown1)))
+				{
+					window.draw(scene);
+					window.draw(pipeUp);
+					window.draw(pipeDown);
+					if (sf::Keyboard::isKeyPressed(sf::Keyboard::Space))
+						window.draw(fbirdDown1);
+					else
+						window.draw(fbirdUp1);
+						window.draw(gameOver);
+						Score.setPosition(155, 325);
+						highScore.setPosition(155, 400);
+						Score.setCharacterSize(50);
+						highScore.setCharacterSize(50);
+						Score.setFillColor(sf::Color::White);
+						highScore.setFillColor(sf::Color::White);
+						window.draw(Score);
+						window.draw(highScore);
+						window.display();
+						startOver = true;
+						scoreCounter = 0;
+						sf::Clock clock;
+						float time = clock.getElapsedTime().asSeconds();
+						clock.restart();
+						time = clock.getElapsedTime().asSeconds();
+						while (time < 3)
+						{
+							time = clock.getElapsedTime().asSeconds();
+							continue;
+						}
+						window.clear();
+						break;
+				}
+				/*
+				if (pipe_x <= 0)
+				{
+
+					pipeUp.setFillColor(sf::Color(sf::Color(rand1 + rand2, rand2 + (rand3 - rand1), rand3 * (rand1 * 0.95))));
+					pipeDown.setFillColor(sf::Color(sf::Color(rand3 - (rand1 - rand2) * 2, rand3 + 2 * rand2, (rand1 / rand2) + 100)));
+
+					pipeUp.setPosition(pipe_x, 600);
+					pipeDown.setPosition(pipe_x, 0);
+					window.clear();
+					window.draw(scene);
+					window.draw(pipeUp);
+					window.draw(pipeDown);
+					//SET SPEED??
+					pipe_x -= .1;
+
+					//break;
+				}
+				*/
+				break;
+			}
+
+			if (sf::Keyboard::isKeyPressed(sf::Keyboard::P))
+			{
+				sf::Event event;
+				while (window.waitEvent(event))
+				{
+
+					if (sf::Keyboard::isKeyPressed(sf::Keyboard::R))
+						break;
+				}
+			}
+			
+			if (pipe_x <= 0)
+			{
+				/*
+				pipeUp.setFillColor(sf::Color(sf::Color(rand1 + rand2, rand2 + (rand3 - rand1), rand3 * (rand1 * 0.95))));
+				pipeDown.setFillColor(sf::Color(sf::Color(rand3 - (rand1 - rand2) * 2, rand3 + 2 * rand2, (rand1 / rand2) + 100)));
+
+				pipeUp.setPosition(pipe_x, 600);
+				pipeDown.setPosition(pipe_x, 0);
+				window.clear();
+				window.draw(scene);
+				window.draw(pipeUp);
+				window.draw(pipeDown);
+				//SET SPEED??
+				//pipe_x -= .1;
+				*/
+				scoreCounter++;
+				soundRestart_tagAlong++;
+				continue;
+			}
+			
+			window.clear();
+			window.draw(scene);
+			window.draw(pipeUp);
+			window.draw(pipeDown);
+			Score.setPosition(0, 0);
+			window.draw(Score);
+			highScore.setPosition(0, 550);
+			window.draw(highScore);
+
+			if (sf::Keyboard::isKeyPressed(sf::Keyboard::Space))
+			{
+				y = y - y_offsetFlap;
+				fbirdDown1.setPosition(x, y);
+				window.draw(fbirdDown1);				
+				Score.setPosition(0, 0);
+				window.draw(Score);
+				highScore.setPosition(0, 550);
+				window.draw(highScore);
+				window.display();
+				continue;
+			}
+
+			else
+			{
+				if (y - 36 <= 0)
+				{
+					y = -12;
+
+					window.clear();
+					fbirdDown1.setPosition(x, y);
+					window.draw(scene);
+					window.draw(pipeUp);
+					window.draw(pipeDown);
+					window.draw(fbirdDown1);
+					Score.setPosition(155, 325);
+					highScore.setPosition(155, 400);
+					Score.setCharacterSize(50);
+					highScore.setCharacterSize(50);
+					Score.setFillColor(sf::Color::White);
+					highScore.setFillColor(sf::Color::White);
+					window.draw(Score);
+					window.draw(highScore);
+					window.draw(gameOver);
+					window.display();
+					startOver = true;
+					scoreCounter = 0;
+					sf::Clock clock;
+					float time = clock.getElapsedTime().asSeconds();
+					clock.restart();
+					time = clock.getElapsedTime().asSeconds();
+					while (time < 3)
+					{
+						time = clock.getElapsedTime().asSeconds();
+						continue;
+
+					}
+					window.clear();
+					break;
+				}
+				
+				if (y > 7 && y <= 200)
+				{
+					y = (y / (y_offsetFall1));
+					fbirdDown1.setPosition(x, y);
+					window.draw(fbirdUp1);
+					Score.setPosition(0, 0);
+					window.draw(Score);
+					highScore.setPosition(0, 550);
+					window.draw(highScore);
+				}
+				if (y > 200 && y <= 400)
+				{
+					y = (y / (y_offsetFall2));
+					fbirdUp1.setPosition(x, y);
+					window.draw(fbirdUp1);
+					Score.setPosition(0, 0);
+					window.draw(Score);
+					highScore.setPosition(0, 550);
+					window.draw(highScore);
+					}
+				if (y > 400 && y < 593)
+				{
+					y = (y / (y_offsetFall3));
+					fbirdUp1.setPosition(x, y);
+					window.draw(fbirdUp1);
+					Score.setPosition(0, 0);
+					window.draw(Score);
+					highScore.setPosition(0, 550);
+					window.draw(highScore);
+				}
+				if (y + 36 >= 600)
+				{
+					y = 568;
+
+					{
+						window.clear();
+						fbirdUp1.setPosition(x, y);
+						window.draw(scene);
+						window.draw(pipeUp);
+						window.draw(pipeDown);
+						window.draw(fbirdUp1);
+						Score.setPosition(155, 325);
+						highScore.setPosition(155, 400);
+						Score.setCharacterSize(50);
+						highScore.setCharacterSize(50);
+						Score.setFillColor(sf::Color::White);
+						highScore.setFillColor(sf::Color::White);
+						window.draw(Score);
+						window.draw(highScore);
+						window.draw(gameOver);
+						window.display();
+						startOver = true;
+						scoreCounter = 0;
+						sf::Clock clock;
+						float time = clock.getElapsedTime().asSeconds();
+						clock.restart();
+						time = clock.getElapsedTime().asSeconds();
+						while (time < 3)
+						{
+							time = clock.getElapsedTime().asSeconds();
+							continue;
+						}
+						window.clear();
+						break;
+					}
+				}
+			}
+			if (startOver == true)
+			{
+				window.clear();
+				continue;
+			}
+			
+		window.display();
+		window.clear();
+		continue;
+			
+		}
+		continue;
+	}
+
+	return 0;
+}
+void DifficultyChoice(int D_Choice, float& y_offsetFlap, float& y_offsetFall1, float& y_offsetFall2, float& y_offsetFall3)
+{
+//Easy
+	if (D_Choice == 1)
+	{
+		/*
+		y_offsetFlap = 1.10;
+		y_offsetFall1 = 0.9974;
+		y_offsetFall2 = 0.9976;
+		y_offsetFall3 = 0.9978;
+		*/
+		y_offsetFlap = 0.50;
+		y_offsetFall1 = 0.9995;
+		y_offsetFall2 = 0.9992;
+		y_offsetFall3 = 0.9989;
+	}
+//Intermediate
+	else if (D_Choice == 2)
+	{
+		y_offsetFlap = 0.55;
+		y_offsetFall1 = 0.9995;
+		y_offsetFall2 = 0.9990;
+		y_offsetFall3 = 0.9985;
+	}
+//Hard
+	else if (D_Choice == 3)
+	{
+		y_offsetFlap = 0.60;
+		y_offsetFall1 = 0.9995;
+		y_offsetFall2 = 0.9987;
+		y_offsetFall3 = 0.9979;
+	}
+//Impossible
+	else if (D_Choice == 4)
+	{
+		y_offsetFlap = 0.70;
+		y_offsetFall1 = 0.9995;
+		y_offsetFall2 = 0.9975;
+		y_offsetFall3 = 0.9985;
+	}
+}
